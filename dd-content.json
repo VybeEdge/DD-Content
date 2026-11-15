@@ -1,4 +1,10 @@
 {
   "schema": 1,
-  "apps": []
+  "apps": [
+    {
+      "id": "materialyou",
+      "name": "Widgets Studio : Material You",
+      "package": "my.dd.widgets"
+    }
+  ]
 }
