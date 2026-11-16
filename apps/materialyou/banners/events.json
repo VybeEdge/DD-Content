@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "b01hgcuh3",
+    "image": "banners/b01hgcuh3.jpg",
+    "link": "",
+    "start": 1794831087659,
+    "end": 1795435887659,
+    "hidden": false,
+    "title": "Aurora Glass",
+    "widgets": [
+      "aurora-ag001",
+      "aurora-ag002",
+      "aurora-ag003",
+      "aurora-ag004",
+      "aurora-ag005",
+      "aurora-ag006",
+      "aurora-ag007",
+      "aurora-ag008",
+      "aurora-ag009",
+      "aurora-ag010"
+    ],
+    "added": 1794831087659
+  }
+]
