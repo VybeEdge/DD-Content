@@ -1,5 +1,74 @@
 {
   "schema": 1,
-  "updated": 1794764092168,
-  "widgets": []
+  "updated": 1794810705107,
+  "widgets": [
+    {
+      "id": "aurora-ag008",
+      "title": "AG008",
+      "version": 1,
+      "file": "widgets/aurora-ag008.v1.wid",
+      "size": 203997,
+      "sha256": "254853f17fe215c3d35627fca1fe365351b164c228f39a2ae0c219c5f7c38fa7",
+      "preview": "previews/aurora-ag008.v1.dark.webp",
+      "preview_light": "previews/aurora-ag008.v1.light.webp",
+      "preview_dark": "previews/aurora-ag008.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "battery",
+        "clock",
+        "date",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1794810705107,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag007",
+      "title": "AG007",
+      "version": 1,
+      "file": "widgets/aurora-ag007.v1.wid",
+      "size": 233924,
+      "sha256": "b9ee911c5118b91561a8f66eec9d62daeb34ef022b5db1ac3b75e1a23cbd79aa",
+      "preview": "previews/aurora-ag007.v1.dark.webp",
+      "preview_light": "previews/aurora-ag007.v1.light.webp",
+      "preview_dark": "previews/aurora-ag007.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1794810705107,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    }
+  ]
 }
