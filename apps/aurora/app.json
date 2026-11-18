@@ -3,10 +3,25 @@
   "name": "Widget Hub : Aurora Glass",
   "package": "",
   "author": "VybeEdge",
-  "updated": 1794945325180,
+  "updated": 1794967029383,
   "links": {},
   "share": {},
   "walls": {
     "enabled": true
+  },
+  "monetization": {
+    "ads": true,
+    "walls_ads": true,
+    "sale_label": "",
+    "access": {
+      "aurora-ag077": "free",
+      "aurora-ag081": "free",
+      "aurora-ag053": "free",
+      "aurora-ag055": "free",
+      "aurora-ag071": "free",
+      "aurora-ag085": "free",
+      "aurora-ag086": "free",
+      "aurora-ag087": "free"
+    }
   }
 }

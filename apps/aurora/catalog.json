@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": 1794947443971,
+  "updated": 1794967029383,
   "widgets": [
     {
       "id": "aurora-ag074",
@@ -1488,13 +1488,13 @@
     }
   ],
   "announce": {
-    "id": "amwl5d3pf",
-    "title": "50 new widgets",
-    "text": "AG074, AG089, AG092, AG055, AG058, AG063…",
-    "open": "new",
+    "id": "amwlh0vwn",
+    "title": "Update",
+    "text": "Tap to see what's new",
+    "open": "all",
     "link": "",
-    "image": "previews\/aurora-ag074.v1.dark.webp",
-    "start": 1794947443971,
-    "end": 1795552243971
+    "image": "",
+    "start": 1794967029383,
+    "end": 1795571829383
   }
 }
