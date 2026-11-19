@@ -3,11 +3,19 @@
   "name": "Widgets Studio : Material You",
   "package": "my.dd.widgets",
   "author": "By Purvesh Shinde",
-  "updated": 1794764092168,
+  "updated": 1795108019781,
   "logo": "logo.png",
   "links": {},
   "share": {},
   "walls": {
     "enabled": true
+  },
+  "monetization": {
+    "ads": true,
+    "walls_ads": true,
+    "sale_label": "",
+    "access": {
+      "material-e001": "premium"
+    }
   }
 }

@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "updated": 1795105205522,
+  "updated": 1795108019781,
   "widgets": [],
   "announce": {
-    "id": "amwnrahaq",
+    "id": "amwnsyssl",
     "title": "Update",
     "text": "Tap to see what's new",
     "open": "all",
     "link": "",
     "image": "",
-    "start": 1795105205522,
-    "end": 1795710005522
+    "start": 1795108019781,
+    "end": 1795712819781
   }
 }
