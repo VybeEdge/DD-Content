@@ -7,14 +7,5 @@
     ],
     "until": 0,
     "added": 1795148954358
-  },
-  {
-    "h": "6d374a38ff2665a2a454c7f6756e45997e0f28163752191eb571a381312b6e7b",
-    "type": "revoke",
-    "apps": [
-      "materialyou"
-    ],
-    "until": 0,
-    "added": 1795152115560
   }
 ]
