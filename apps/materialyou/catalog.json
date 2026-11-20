@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": 1795147794364,
+  "updated": 1795149324552,
   "widgets": [
     {
       "id": "material-e150",
@@ -4477,13 +4477,13 @@
     }
   ],
   "announce": {
-    "id": "amwognb24",
-    "title": "150 new widgets",
-    "text": "E150, E149, E148, E147, E146, E145…",
-    "open": "new",
+    "id": "amwohk3rc",
+    "title": "Update",
+    "text": "Tap to see what's new",
+    "open": "all",
     "link": "",
-    "image": "previews\/material-e150.v1.light.webp",
-    "start": 1795147794364,
-    "end": 1795752594364
+    "image": "",
+    "start": 1795149324552,
+    "end": 1795754124552
   }
 }
