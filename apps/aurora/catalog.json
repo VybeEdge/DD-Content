@@ -1,7 +1,4446 @@
 {
   "schema": 1,
-  "updated": 1794974638055,
+  "updated": 1795202265308,
   "widgets": [
+    {
+      "id": "peach-pb133",
+      "title": "PB133",
+      "version": 1,
+      "file": "widgets\/peach-pb133.v1.wid",
+      "size": 363686,
+      "sha256": "70b89071a4b59abe8203308accbeaa4ecf33c7740291ebf5d70f6f2d3f102c8d",
+      "preview": "previews\/peach-pb133.v1.light.webp",
+      "preview_light": "previews\/peach-pb133.v1.light.webp",
+      "preview_dark": "previews\/peach-pb133.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "alarm",
+        "sleep"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb032",
+      "title": "PB032",
+      "version": 1,
+      "file": "widgets\/peach-pb032.v1.wid",
+      "size": 364757,
+      "sha256": "64226c13ca064559579a034d39edacc78f8431660aa7f808415c9896d97eb914",
+      "preview": "previews\/peach-pb032.v1.light.webp",
+      "preview_light": "previews\/peach-pb032.v1.light.webp",
+      "preview_dark": "previews\/peach-pb032.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb122",
+      "title": "PB122",
+      "version": 1,
+      "file": "widgets\/peach-pb122.v1.wid",
+      "size": 434942,
+      "sha256": "c31ace1cd8e7a4f2ab73a347df89238da1daaac612a45adbf2a9637235c43fd5",
+      "preview": "previews\/peach-pb122.v1.light.webp",
+      "preview_light": "previews\/peach-pb122.v1.light.webp",
+      "preview_dark": "previews\/peach-pb122.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb128",
+      "title": "PB128",
+      "version": 1,
+      "file": "widgets\/peach-pb128.v1.wid",
+      "size": 363131,
+      "sha256": "7e6dafc98ab7a9536a8d0ec4d6d78db03f37fa6702471ccd2533c2bf2c9441d1",
+      "preview": "previews\/peach-pb128.v1.light.webp",
+      "preview_light": "previews\/peach-pb128.v1.light.webp",
+      "preview_dark": "previews\/peach-pb128.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "dashboard"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb014",
+      "title": "PB014",
+      "version": 1,
+      "file": "widgets\/peach-pb014.v1.wid",
+      "size": 436713,
+      "sha256": "3235a91adecdec99f995d4df560eb4569f8ae1c353462e626f2b8178cf7a7755",
+      "preview": "previews\/peach-pb014.v1.light.webp",
+      "preview_light": "previews\/peach-pb014.v1.light.webp",
+      "preview_dark": "previews\/peach-pb014.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb073",
+      "title": "PB073",
+      "version": 1,
+      "file": "widgets\/peach-pb073.v1.wid",
+      "size": 363342,
+      "sha256": "1644d8d685c5e7fe788aadd23fcad310e0230f2c2ce5c2c58b5f1a714683de0e",
+      "preview": "previews\/peach-pb073.v1.light.webp",
+      "preview_light": "previews\/peach-pb073.v1.light.webp",
+      "preview_dark": "previews\/peach-pb073.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "rain",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb016",
+      "title": "PB016",
+      "version": 1,
+      "file": "widgets\/peach-pb016.v1.wid",
+      "size": 293754,
+      "sha256": "fcc69efeac2b5f66fa7b8a1a8213722db1ccea2963b1b05bd0a7203ce4723212",
+      "preview": "previews\/peach-pb016.v1.light.webp",
+      "preview_light": "previews\/peach-pb016.v1.light.webp",
+      "preview_dark": "previews\/peach-pb016.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "day"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb019",
+      "title": "PB019",
+      "version": 1,
+      "file": "widgets\/peach-pb019.v1.wid",
+      "size": 290919,
+      "sha256": "ef59cc7048cf0107130e3ef5c6e1dbad01ab152cf379bc95d58a0abc2532fbfa",
+      "preview": "previews\/peach-pb019.v1.light.webp",
+      "preview_light": "previews\/peach-pb019.v1.light.webp",
+      "preview_dark": "previews\/peach-pb019.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "sun"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb097",
+      "title": "PB097",
+      "version": 1,
+      "file": "widgets\/peach-pb097.v1.wid",
+      "size": 363300,
+      "sha256": "775e611d4ccb5496087133a89a6c4c9a88eb921230b5d4ddcef3a07ee2565413",
+      "preview": "previews\/peach-pb097.v1.light.webp",
+      "preview_light": "previews\/peach-pb097.v1.light.webp",
+      "preview_dark": "previews\/peach-pb097.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "device",
+        "storage"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb039",
+      "title": "PB039",
+      "version": 1,
+      "file": "widgets\/peach-pb039.v1.wid",
+      "size": 292047,
+      "sha256": "7f23d8a57aa9719c3040c5a7c993e64816a7491b9a83be7d09c0ac5b0c8ee2c3",
+      "preview": "previews\/peach-pb039.v1.light.webp",
+      "preview_light": "previews\/peach-pb039.v1.light.webp",
+      "preview_dark": "previews\/peach-pb039.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "countdown"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb116",
+      "title": "PB116",
+      "version": 1,
+      "file": "widgets\/peach-pb116.v1.wid",
+      "size": 362675,
+      "sha256": "edf91b885012c5312609b2ab6ed1213cece93577b19db174b0c37a6c2e2656d5",
+      "preview": "previews\/peach-pb116.v1.light.webp",
+      "preview_light": "previews\/peach-pb116.v1.light.webp",
+      "preview_dark": "previews\/peach-pb116.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb015",
+      "title": "PB015",
+      "version": 1,
+      "file": "widgets\/peach-pb015.v1.wid",
+      "size": 291253,
+      "sha256": "73ee2c9c1ac4546abb95f3097732dcc7a70f2f8e499b8619d715584119e52a40",
+      "preview": "previews\/peach-pb015.v1.light.webp",
+      "preview_light": "previews\/peach-pb015.v1.light.webp",
+      "preview_dark": "previews\/peach-pb015.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb149",
+      "title": "PB149",
+      "version": 1,
+      "file": "widgets\/peach-pb149.v1.wid",
+      "size": 290404,
+      "sha256": "e313a97af9feed2c72077428b206a1e4f8cbc633c0a951d7ae3f5475762de0a7",
+      "preview": "previews\/peach-pb149.v1.light.webp",
+      "preview_light": "previews\/peach-pb149.v1.light.webp",
+      "preview_dark": "previews\/peach-pb149.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "coffee",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb126",
+      "title": "PB126",
+      "version": 1,
+      "file": "widgets\/peach-pb126.v1.wid",
+      "size": 508947,
+      "sha256": "b88e29e63f3793644625c717c7e6c80d61bf3b4e49ea3420846379a2a0936e2c",
+      "preview": "previews\/peach-pb126.v1.light.webp",
+      "preview_light": "previews\/peach-pb126.v1.light.webp",
+      "preview_dark": "previews\/peach-pb126.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "dashboard",
+        "weather"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb120",
+      "title": "PB120",
+      "version": 1,
+      "file": "widgets\/peach-pb120.v1.wid",
+      "size": 435365,
+      "sha256": "ad2d0f36c676fccc2db4ae8ba1465cc240e9a1a9e7e16cfb505044287e8e34a5",
+      "preview": "previews\/peach-pb120.v1.light.webp",
+      "preview_light": "previews\/peach-pb120.v1.light.webp",
+      "preview_dark": "previews\/peach-pb120.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "notifications",
+        "sound"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb106",
+      "title": "PB106",
+      "version": 1,
+      "file": "widgets\/peach-pb106.v1.wid",
+      "size": 291035,
+      "sha256": "c8ace000d4eda4db0b87283d9e738cfc31164ffd7183b7243e9342977ffaec87",
+      "preview": "previews\/peach-pb106.v1.light.webp",
+      "preview_light": "previews\/peach-pb106.v1.light.webp",
+      "preview_dark": "previews\/peach-pb106.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb107",
+      "title": "PB107",
+      "version": 1,
+      "file": "widgets\/peach-pb107.v1.wid",
+      "size": 363330,
+      "sha256": "706699f4c8493f152db2134dac633bf7fa61de164c9a74e8e8d28ab2f42095a4",
+      "preview": "previews\/peach-pb107.v1.light.webp",
+      "preview_light": "previews\/peach-pb107.v1.light.webp",
+      "preview_dark": "previews\/peach-pb107.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb069",
+      "title": "PB069",
+      "version": 1,
+      "file": "widgets\/peach-pb069.v1.wid",
+      "size": 293234,
+      "sha256": "95ee4215bf399fda0dd232556359b38ae733d4117c74ffba3494b4f5bbc47631",
+      "preview": "previews\/peach-pb069.v1.light.webp",
+      "preview_light": "previews\/peach-pb069.v1.light.webp",
+      "preview_dark": "previews\/peach-pb069.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "forecast",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb114",
+      "title": "PB114",
+      "version": 1,
+      "file": "widgets\/peach-pb114.v1.wid",
+      "size": 362905,
+      "sha256": "e295c13ba5a19f24db10218cd4933fda758c55c08037f74cadfcbc506ab1b36b",
+      "preview": "previews\/peach-pb114.v1.light.webp",
+      "preview_light": "previews\/peach-pb114.v1.light.webp",
+      "preview_dark": "previews\/peach-pb114.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb077",
+      "title": "PB077",
+      "version": 1,
+      "file": "widgets\/peach-pb077.v1.wid",
+      "size": 291879,
+      "sha256": "8eafbe32e7d89ac281e0f1ae23b2e54c81aad243f513a684bf561658ce60cb0f",
+      "preview": "previews\/peach-pb077.v1.light.webp",
+      "preview_light": "previews\/peach-pb077.v1.light.webp",
+      "preview_dark": "previews\/peach-pb077.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb079",
+      "title": "PB079",
+      "version": 1,
+      "file": "widgets\/peach-pb079.v1.wid",
+      "size": 435067,
+      "sha256": "5d3672311c58c48d827eaed5c72d9e0391160ce1aa96af39faa5c6958e10bd6b",
+      "preview": "previews\/peach-pb079.v1.light.webp",
+      "preview_light": "previews\/peach-pb079.v1.light.webp",
+      "preview_dark": "previews\/peach-pb079.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb055",
+      "title": "PB055",
+      "version": 1,
+      "file": "widgets\/peach-pb055.v1.wid",
+      "size": 437842,
+      "sha256": "6824ee62f15f8481b633762e429d06a2f4e08f194681f928b47728af38795753",
+      "preview": "previews\/peach-pb055.v1.light.webp",
+      "preview_light": "previews\/peach-pb055.v1.light.webp",
+      "preview_dark": "previews\/peach-pb055.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "forecast",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb002",
+      "title": "PB002",
+      "version": 1,
+      "file": "widgets\/peach-pb002.v1.wid",
+      "size": 364475,
+      "sha256": "8c3479655bfca54d518320e6bab4db27acc3bd5fdbec222bbee23edda2c6270d",
+      "preview": "previews\/peach-pb002.v1.light.webp",
+      "preview_light": "previews\/peach-pb002.v1.light.webp",
+      "preview_dark": "previews\/peach-pb002.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb013",
+      "title": "PB013",
+      "version": 1,
+      "file": "widgets\/peach-pb013.v1.wid",
+      "size": 434987,
+      "sha256": "4a9737c04c27c2129fe6c1cbc39fc0114d26b13823aded8ad220206272daeeac",
+      "preview": "previews\/peach-pb013.v1.light.webp",
+      "preview_light": "previews\/peach-pb013.v1.light.webp",
+      "preview_dark": "previews\/peach-pb013.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "greeting",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb086",
+      "title": "PB086",
+      "version": 1,
+      "file": "widgets\/peach-pb086.v1.wid",
+      "size": 362979,
+      "sha256": "3a24141ac02e54f0a17f7643c85dbd4e0c0340cd9d57c3a0cbaa752869065c45",
+      "preview": "previews\/peach-pb086.v1.light.webp",
+      "preview_light": "previews\/peach-pb086.v1.light.webp",
+      "preview_dark": "previews\/peach-pb086.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "connectivity"
+      ],
+      "permissions": [
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb022",
+      "title": "PB022",
+      "version": 1,
+      "file": "widgets\/peach-pb022.v1.wid",
+      "size": 291184,
+      "sha256": "9b1f388c581d7d6db086184aa498dde43c4e24a0c20fe7b316afa85459573209",
+      "preview": "previews\/peach-pb022.v1.light.webp",
+      "preview_light": "previews\/peach-pb022.v1.light.webp",
+      "preview_dark": "previews\/peach-pb022.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "sun"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb135",
+      "title": "PB135",
+      "version": 1,
+      "file": "widgets\/peach-pb135.v1.wid",
+      "size": 363144,
+      "sha256": "fd1fc6a9cb17dd16c7826a5a555b9a25e9ce822cb328c1f54683a28261150685",
+      "preview": "previews\/peach-pb135.v1.light.webp",
+      "preview_light": "previews\/peach-pb135.v1.light.webp",
+      "preview_dark": "previews\/peach-pb135.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "alarm"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb070",
+      "title": "PB070",
+      "version": 1,
+      "file": "widgets\/peach-pb070.v1.wid",
+      "size": 291508,
+      "sha256": "9639a55b05e4c41e08e2ef612a1f480dbe0e1ae88372736d967f5dd02fa2955c",
+      "preview": "previews\/peach-pb070.v1.light.webp",
+      "preview_light": "previews\/peach-pb070.v1.light.webp",
+      "preview_dark": "previews\/peach-pb070.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clouds",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb064",
+      "title": "PB064",
+      "version": 1,
+      "file": "widgets\/peach-pb064.v1.wid",
+      "size": 363135,
+      "sha256": "7651a8bcd2c029d8a075488f3943390340c6ee7ca78de576fd3add9e27ef79d4",
+      "preview": "previews\/peach-pb064.v1.light.webp",
+      "preview_light": "previews\/peach-pb064.v1.light.webp",
+      "preview_dark": "previews\/peach-pb064.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "air",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb110",
+      "title": "PB110",
+      "version": 1,
+      "file": "widgets\/peach-pb110.v1.wid",
+      "size": 290766,
+      "sha256": "a6d923a2480a052ad9d71a1bead81975f6d2273c90c500f6dda5e3bb4eb5dae7",
+      "preview": "previews\/peach-pb110.v1.light.webp",
+      "preview_light": "previews\/peach-pb110.v1.light.webp",
+      "preview_dark": "previews\/peach-pb110.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb104",
+      "title": "PB104",
+      "version": 1,
+      "file": "widgets\/peach-pb104.v1.wid",
+      "size": 362729,
+      "sha256": "e965b71eb18056db2f0beeecad34458c30df630e3b40561a77669ad0c191f96a",
+      "preview": "previews\/peach-pb104.v1.light.webp",
+      "preview_light": "previews\/peach-pb104.v1.light.webp",
+      "preview_dark": "previews\/peach-pb104.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb148",
+      "title": "PB148",
+      "version": 1,
+      "file": "widgets\/peach-pb148.v1.wid",
+      "size": 291319,
+      "sha256": "e6ac892289ab98f0b34f8d2e9aa873cc83b118447d326b1ba2c745c515cb1036",
+      "preview": "previews\/peach-pb148.v1.light.webp",
+      "preview_light": "previews\/peach-pb148.v1.light.webp",
+      "preview_dark": "previews\/peach-pb148.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb060",
+      "title": "PB060",
+      "version": 1,
+      "file": "widgets\/peach-pb060.v1.wid",
+      "size": 292162,
+      "sha256": "fc3de0647f632e6aa917ecd8ee3f087bde3e4224ab10c6a48003e2993d3e81af",
+      "preview": "previews\/peach-pb060.v1.light.webp",
+      "preview_light": "previews\/peach-pb060.v1.light.webp",
+      "preview_dark": "previews\/peach-pb060.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "uv",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb034",
+      "title": "PB034",
+      "version": 1,
+      "file": "widgets\/peach-pb034.v1.wid",
+      "size": 436171,
+      "sha256": "5ff6f707c5db9b3bb9d97fbb4ec3ed8166bdb85fee5439cafc235bd5265bf221",
+      "preview": "previews\/peach-pb034.v1.light.webp",
+      "preview_light": "previews\/peach-pb034.v1.light.webp",
+      "preview_dark": "previews\/peach-pb034.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "routine",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb026",
+      "title": "PB026",
+      "version": 1,
+      "file": "widgets\/peach-pb026.v1.wid",
+      "size": 435973,
+      "sha256": "0ef0a6614a29dd4327eda790741d83cd265e6df854a733b1ebd31c13f2049f71",
+      "preview": "previews\/peach-pb026.v1.light.webp",
+      "preview_light": "previews\/peach-pb026.v1.light.webp",
+      "preview_dark": "previews\/peach-pb026.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb095",
+      "title": "PB095",
+      "version": 1,
+      "file": "widgets\/peach-pb095.v1.wid",
+      "size": 292512,
+      "sha256": "7b7b0eb44a7bf16c157e6279efac98a46abb62b76801708ff48c89cbe9ddc391",
+      "preview": "previews\/peach-pb095.v1.light.webp",
+      "preview_light": "previews\/peach-pb095.v1.light.webp",
+      "preview_dark": "previews\/peach-pb095.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "alarm",
+        "sound"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb089",
+      "title": "PB089",
+      "version": 1,
+      "file": "widgets\/peach-pb089.v1.wid",
+      "size": 363165,
+      "sha256": "9aec670ed9d3ded361f5e9b80989c50b9c4274e70ce1190b833244bc59e02c3a",
+      "preview": "previews\/peach-pb089.v1.light.webp",
+      "preview_light": "previews\/peach-pb089.v1.light.webp",
+      "preview_dark": "previews\/peach-pb089.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "sound"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb136",
+      "title": "PB136",
+      "version": 1,
+      "file": "widgets\/peach-pb136.v1.wid",
+      "size": 363726,
+      "sha256": "0c7e8758f83ff7decfaf68a50d207876f2c946f612a36aeee463497b60bf7547",
+      "preview": "previews\/peach-pb136.v1.light.webp",
+      "preview_light": "previews\/peach-pb136.v1.light.webp",
+      "preview_dark": "previews\/peach-pb136.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "alarm",
+        "sun"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb004",
+      "title": "PB004",
+      "version": 1,
+      "file": "widgets\/peach-pb004.v1.wid",
+      "size": 291918,
+      "sha256": "7531e8b87918d646e815340c32d8237ea295699629b95c06bc3d46830322f954",
+      "preview": "previews\/peach-pb004.v1.light.webp",
+      "preview_light": "previews\/peach-pb004.v1.light.webp",
+      "preview_dark": "previews\/peach-pb004.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb130",
+      "title": "PB130",
+      "version": 1,
+      "file": "widgets\/peach-pb130.v1.wid",
+      "size": 509784,
+      "sha256": "e03871f89b478b7fc3d44f54e56cd248d098c01e359b9cf11762ea39c448d5c1",
+      "preview": "previews\/peach-pb130.v1.light.webp",
+      "preview_light": "previews\/peach-pb130.v1.light.webp",
+      "preview_dark": "previews\/peach-pb130.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "dashboard"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb105",
+      "title": "PB105",
+      "version": 1,
+      "file": "widgets\/peach-pb105.v1.wid",
+      "size": 363278,
+      "sha256": "7248649c6ef09362776cda34cb8d13c758374f8bf64d35946580831b19e0e4b2",
+      "preview": "previews\/peach-pb105.v1.light.webp",
+      "preview_light": "previews\/peach-pb105.v1.light.webp",
+      "preview_dark": "previews\/peach-pb105.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb046",
+      "title": "PB046",
+      "version": 1,
+      "file": "widgets\/peach-pb046.v1.wid",
+      "size": 365645,
+      "sha256": "c4c63fdbff66ed400354e82bab379f0298827a8e1057870515406c9d040e367a",
+      "preview": "previews\/peach-pb046.v1.light.webp",
+      "preview_light": "previews\/peach-pb046.v1.light.webp",
+      "preview_dark": "previews\/peach-pb046.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "planner"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb118",
+      "title": "PB118",
+      "version": 1,
+      "file": "widgets\/peach-pb118.v1.wid",
+      "size": 434850,
+      "sha256": "7170e728a60114eeab704559401fdd9cbe6d742bc751967c60a23924e2bd89e2",
+      "preview": "previews\/peach-pb118.v1.light.webp",
+      "preview_light": "previews\/peach-pb118.v1.light.webp",
+      "preview_dark": "previews\/peach-pb118.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb065",
+      "title": "PB065",
+      "version": 1,
+      "file": "widgets\/peach-pb065.v1.wid",
+      "size": 364749,
+      "sha256": "d1eab260a4fe6deb057e54c232c6a38c51986470e7216832a5ce59e477be9c2d",
+      "preview": "previews\/peach-pb065.v1.light.webp",
+      "preview_light": "previews\/peach-pb065.v1.light.webp",
+      "preview_dark": "previews\/peach-pb065.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "forecast",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb071",
+      "title": "PB071",
+      "version": 1,
+      "file": "widgets\/peach-pb071.v1.wid",
+      "size": 364763,
+      "sha256": "e0615c0c79d723d5754831f65d0b0c4d5b6162ed4e4e32d76920227de6621e1a",
+      "preview": "previews\/peach-pb071.v1.light.webp",
+      "preview_light": "previews\/peach-pb071.v1.light.webp",
+      "preview_dark": "previews\/peach-pb071.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "outfit",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb150",
+      "title": "PB150",
+      "version": 1,
+      "file": "widgets\/peach-pb150.v1.wid",
+      "size": 511824,
+      "sha256": "9528437e1d9c19f0821ee07ad0afdf585ceecd74ec383bc86ce479b5ef7e384d",
+      "preview": "previews\/peach-pb150.v1.light.webp",
+      "preview_light": "previews\/peach-pb150.v1.light.webp",
+      "preview_dark": "previews\/peach-pb150.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "dashboard"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb029",
+      "title": "PB029",
+      "version": 1,
+      "file": "widgets\/peach-pb029.v1.wid",
+      "size": 362891,
+      "sha256": "5cd2059981b2fbbe91d8488f68707b9375297438f9856f72a7e0f281709e4ebc",
+      "preview": "previews\/peach-pb029.v1.light.webp",
+      "preview_light": "previews\/peach-pb029.v1.light.webp",
+      "preview_dark": "previews\/peach-pb029.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "calendar"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb119",
+      "title": "PB119",
+      "version": 1,
+      "file": "widgets\/peach-pb119.v1.wid",
+      "size": 435151,
+      "sha256": "2720888878e7100abf470c0069b38514521b3047408f4156815d9cd0d8edd82a",
+      "preview": "previews\/peach-pb119.v1.light.webp",
+      "preview_light": "previews\/peach-pb119.v1.light.webp",
+      "preview_dark": "previews\/peach-pb119.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb098",
+      "title": "PB098",
+      "version": 1,
+      "file": "widgets\/peach-pb098.v1.wid",
+      "size": 290788,
+      "sha256": "220ea3c385400680a3d7ad1ad509a2cfaabe79653c73ed449dec98800e355a8e",
+      "preview": "previews\/peach-pb098.v1.light.webp",
+      "preview_light": "previews\/peach-pb098.v1.light.webp",
+      "preview_dark": "previews\/peach-pb098.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "storage"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb096",
+      "title": "PB096",
+      "version": 1,
+      "file": "widgets\/peach-pb096.v1.wid",
+      "size": 362849,
+      "sha256": "b9efb670aff44d13611dc66ece4cd26fc473408719ae5b2af595677fc104d333",
+      "preview": "previews\/peach-pb096.v1.light.webp",
+      "preview_light": "previews\/peach-pb096.v1.light.webp",
+      "preview_dark": "previews\/peach-pb096.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "connectivity"
+      ],
+      "permissions": [
+        "BLUETOOTH_CONNECT"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb057",
+      "title": "PB057",
+      "version": 1,
+      "file": "widgets\/peach-pb057.v1.wid",
+      "size": 435993,
+      "sha256": "df98803b22f77481d4dc96628df2dd919640fd7c11771e9b76142ce25bdcc89f",
+      "preview": "previews\/peach-pb057.v1.light.webp",
+      "preview_light": "previews\/peach-pb057.v1.light.webp",
+      "preview_dark": "previews\/peach-pb057.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "rain",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb076",
+      "title": "PB076",
+      "version": 1,
+      "file": "widgets\/peach-pb076.v1.wid",
+      "size": 435691,
+      "sha256": "4f3c26b10b8d8537ab3d8ea687a5ffaa4e9b81eb4595d40b80918503f6133fd7",
+      "preview": "previews\/peach-pb076.v1.light.webp",
+      "preview_light": "previews\/peach-pb076.v1.light.webp",
+      "preview_dark": "previews\/peach-pb076.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "device",
+        "storage"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb125",
+      "title": "PB125",
+      "version": 1,
+      "file": "widgets\/peach-pb125.v1.wid",
+      "size": 435957,
+      "sha256": "06040e13b9679adae84a391d2f399c755743bc20ad6eaf746d1d977c25c1f365",
+      "preview": "previews\/peach-pb125.v1.light.webp",
+      "preview_light": "previews\/peach-pb125.v1.light.webp",
+      "preview_dark": "previews\/peach-pb125.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music",
+        "sound"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb074",
+      "title": "PB074",
+      "version": 1,
+      "file": "widgets\/peach-pb074.v1.wid",
+      "size": 362265,
+      "sha256": "96a70ba08614e3adfd94111781e1daf699604add9694e28c1bc0a54bc95589e7",
+      "preview": "previews\/peach-pb074.v1.light.webp",
+      "preview_light": "previews\/peach-pb074.v1.light.webp",
+      "preview_dark": "previews\/peach-pb074.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather",
+        "wind"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb123",
+      "title": "PB123",
+      "version": 1,
+      "file": "widgets\/peach-pb123.v1.wid",
+      "size": 435346,
+      "sha256": "9e4c4ef2b4bdade90cf8fdb11681e6c066afa11f59651b1a2c5c3264fd5074f5",
+      "preview": "previews\/peach-pb123.v1.light.webp",
+      "preview_light": "previews\/peach-pb123.v1.light.webp",
+      "preview_dark": "previews\/peach-pb123.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb031",
+      "title": "PB031",
+      "version": 1,
+      "file": "widgets\/peach-pb031.v1.wid",
+      "size": 367212,
+      "sha256": "e63caee5596599015b4eea3a438c63c54463fa61975e14c59d845f3be43fe92c",
+      "preview": "previews\/peach-pb031.v1.light.webp",
+      "preview_light": "previews\/peach-pb031.v1.light.webp",
+      "preview_dark": "previews\/peach-pb031.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "focus"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb129",
+      "title": "PB129",
+      "version": 1,
+      "file": "widgets\/peach-pb129.v1.wid",
+      "size": 218432,
+      "sha256": "dcda996a02ce27fdf838819bf06f65a077b586a0eb85c5967ee57e5c2443c254",
+      "preview": "previews\/peach-pb129.v1.light.webp",
+      "preview_light": "previews\/peach-pb129.v1.light.webp",
+      "preview_dark": "previews\/peach-pb129.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "dashboard"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb024",
+      "title": "PB024",
+      "version": 1,
+      "file": "widgets\/peach-pb024.v1.wid",
+      "size": 290671,
+      "sha256": "2034c0d0e25da065f77815c1efd70123a4bc549146f0afb92b5e66f8c0e7252f",
+      "preview": "previews\/peach-pb024.v1.light.webp",
+      "preview_light": "previews\/peach-pb024.v1.light.webp",
+      "preview_dark": "previews\/peach-pb024.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "alarm",
+        "moon"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb051",
+      "title": "PB051",
+      "version": 1,
+      "file": "widgets\/peach-pb051.v1.wid",
+      "size": 372230,
+      "sha256": "970a8b88358162f9c1123ce9e2e98e36ec941c67c1b6b52c25fe79d869d942d1",
+      "preview": "previews\/peach-pb051.v1.light.webp",
+      "preview_light": "previews\/peach-pb051.v1.light.webp",
+      "preview_dark": "previews\/peach-pb051.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb018",
+      "title": "PB018",
+      "version": 1,
+      "file": "widgets\/peach-pb018.v1.wid",
+      "size": 291667,
+      "sha256": "0591d9b823e30d4b2b7e3d87bea9431529fdcf1454b83a726581aab4902e837a",
+      "preview": "previews\/peach-pb018.v1.light.webp",
+      "preview_light": "previews\/peach-pb018.v1.light.webp",
+      "preview_dark": "previews\/peach-pb018.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "sky",
+        "sun"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb138",
+      "title": "PB138",
+      "version": 1,
+      "file": "widgets\/peach-pb138.v1.wid",
+      "size": 363996,
+      "sha256": "71f26882d1070d4d8c8f51b8fc581774dd0fb47a91e39906c3d456ed1699aa18",
+      "preview": "previews\/peach-pb138.v1.light.webp",
+      "preview_light": "previews\/peach-pb138.v1.light.webp",
+      "preview_dark": "previews\/peach-pb138.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "fitness"
+      ],
+      "permissions": [
+        "ACTIVITY_RECOGNITION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb075",
+      "title": "PB075",
+      "version": 1,
+      "file": "widgets\/peach-pb075.v1.wid",
+      "size": 363387,
+      "sha256": "284ef263c0603256176f8199386193c472bbb46744ef7ac59edcbf6289382779",
+      "preview": "previews\/peach-pb075.v1.light.webp",
+      "preview_light": "previews\/peach-pb075.v1.light.webp",
+      "preview_dark": "previews\/peach-pb075.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb007",
+      "title": "PB007",
+      "version": 1,
+      "file": "widgets\/peach-pb007.v1.wid",
+      "size": 362858,
+      "sha256": "fd4264a151a8105be230f4e7f541ed59bc292a37bba74377a26c5932603a7edb",
+      "preview": "previews\/peach-pb007.v1.light.webp",
+      "preview_light": "previews\/peach-pb007.v1.light.webp",
+      "preview_dark": "previews\/peach-pb007.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb094",
+      "title": "PB094",
+      "version": 1,
+      "file": "widgets\/peach-pb094.v1.wid",
+      "size": 219442,
+      "sha256": "f4f2065595b8c68b722ff7198257aa37bbfba4ace614f8ec0af8e01e2c243823",
+      "preview": "previews\/peach-pb094.v1.light.webp",
+      "preview_light": "previews\/peach-pb094.v1.light.webp",
+      "preview_dark": "previews\/peach-pb094.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "controls",
+        "shortcuts"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb041",
+      "title": "PB041",
+      "version": 1,
+      "file": "widgets\/peach-pb041.v1.wid",
+      "size": 363276,
+      "sha256": "89e03505823ae392c30cf1774ff73359a5d3c3eaede94b45ecf3fe56ebf6498c",
+      "preview": "previews\/peach-pb041.v1.light.webp",
+      "preview_light": "previews\/peach-pb041.v1.light.webp",
+      "preview_dark": "previews\/peach-pb041.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "tracker",
+        "wellbeing"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb005",
+      "title": "PB005",
+      "version": 1,
+      "file": "widgets\/peach-pb005.v1.wid",
+      "size": 364656,
+      "sha256": "cb602703ef0ceb1908e86006c1ff74fedb66afadb5458ef6ca4d7d9f94722d2b",
+      "preview": "previews\/peach-pb005.v1.light.webp",
+      "preview_light": "previews\/peach-pb005.v1.light.webp",
+      "preview_dark": "previews\/peach-pb005.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb011",
+      "title": "PB011",
+      "version": 1,
+      "file": "widgets\/peach-pb011.v1.wid",
+      "size": 447105,
+      "sha256": "b24c9813386a98da15d990e20db39b7ab9d766326eee97a0c9791cc6f03440f0",
+      "preview": "previews\/peach-pb011.v1.light.webp",
+      "preview_light": "previews\/peach-pb011.v1.light.webp",
+      "preview_dark": "previews\/peach-pb011.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb025",
+      "title": "PB025",
+      "version": 1,
+      "file": "widgets\/peach-pb025.v1.wid",
+      "size": 363602,
+      "sha256": "7de1b33bf5e6ba3c869809febd60a6d95616e0b3427fd57d4de4f2acb98d6129",
+      "preview": "previews\/peach-pb025.v1.light.webp",
+      "preview_light": "previews\/peach-pb025.v1.light.webp",
+      "preview_dark": "previews\/peach-pb025.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "dashboard"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb108",
+      "title": "PB108",
+      "version": 1,
+      "file": "widgets\/peach-pb108.v1.wid",
+      "size": 290928,
+      "sha256": "a29cbddc8de13a99b1d1aeff66577e85a673e7f00bca482fe3e0f63079e4ead6",
+      "preview": "previews\/peach-pb108.v1.light.webp",
+      "preview_light": "previews\/peach-pb108.v1.light.webp",
+      "preview_dark": "previews\/peach-pb108.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb058",
+      "title": "PB058",
+      "version": 1,
+      "file": "widgets\/peach-pb058.v1.wid",
+      "size": 436685,
+      "sha256": "6760dfc989cd22c04e316cc95fb18c993c570388bbd10a05c1b839247a171f6a",
+      "preview": "previews\/peach-pb058.v1.light.webp",
+      "preview_light": "previews\/peach-pb058.v1.light.webp",
+      "preview_dark": "previews\/peach-pb058.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb088",
+      "title": "PB088",
+      "version": 1,
+      "file": "widgets\/peach-pb088.v1.wid",
+      "size": 365797,
+      "sha256": "6da15208c99dc1042ffcc8828c715905e2bfeb78f2b5950f66a4826fc989f7de",
+      "preview": "previews\/peach-pb088.v1.light.webp",
+      "preview_light": "previews\/peach-pb088.v1.light.webp",
+      "preview_dark": "previews\/peach-pb088.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "device",
+        "storage"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb124",
+      "title": "PB124",
+      "version": 1,
+      "file": "widgets\/peach-pb124.v1.wid",
+      "size": 291074,
+      "sha256": "42fd48f5a7d68d6e8999539f0ec40e7fe57b0ec6e6986238050b8626510a83ae",
+      "preview": "previews\/peach-pb124.v1.light.webp",
+      "preview_light": "previews\/peach-pb124.v1.light.webp",
+      "preview_dark": "previews\/peach-pb124.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb093",
+      "title": "PB093",
+      "version": 1,
+      "file": "widgets\/peach-pb093.v1.wid",
+      "size": 363786,
+      "sha256": "9f8cc95b0aa94f2b85597bb0b2ab4a885da7edf08f8e0c1e8c8fd93d29221001",
+      "preview": "previews\/peach-pb093.v1.light.webp",
+      "preview_light": "previews\/peach-pb093.v1.light.webp",
+      "preview_dark": "previews\/peach-pb093.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb091",
+      "title": "PB091",
+      "version": 1,
+      "file": "widgets\/peach-pb091.v1.wid",
+      "size": 434469,
+      "sha256": "6717d162c83b7110eeb01757cbd466f713151968723a60c627e48642ce77dbcd",
+      "preview": "previews\/peach-pb091.v1.light.webp",
+      "preview_light": "previews\/peach-pb091.v1.light.webp",
+      "preview_dark": "previews\/peach-pb091.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "memory"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb131",
+      "title": "PB131",
+      "version": 1,
+      "file": "widgets\/peach-pb131.v1.wid",
+      "size": 291892,
+      "sha256": "7ffaabe97e5f1697dfe50ddd36c0efd875d3f32e61b098c51a36086460d5090c",
+      "preview": "previews\/peach-pb131.v1.light.webp",
+      "preview_light": "previews\/peach-pb131.v1.light.webp",
+      "preview_dark": "previews\/peach-pb131.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "dashboard"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb147",
+      "title": "PB147",
+      "version": 1,
+      "file": "widgets\/peach-pb147.v1.wid",
+      "size": 361919,
+      "sha256": "0372bd89272721912f8926dbad4a3bb9d6f57d4275fc6bb5f84fdef5dd77c773",
+      "preview": "previews\/peach-pb147.v1.light.webp",
+      "preview_light": "previews\/peach-pb147.v1.light.webp",
+      "preview_dark": "previews\/peach-pb147.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb042",
+      "title": "PB042",
+      "version": 1,
+      "file": "widgets\/peach-pb042.v1.wid",
+      "size": 366058,
+      "sha256": "5439e98c494d8be855d22ee492d82e063952c048508e6b3b237ad29673c73e23",
+      "preview": "previews\/peach-pb042.v1.light.webp",
+      "preview_light": "previews\/peach-pb042.v1.light.webp",
+      "preview_dark": "previews\/peach-pb042.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "habit",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb043",
+      "title": "PB043",
+      "version": 1,
+      "file": "widgets\/peach-pb043.v1.wid",
+      "size": 291450,
+      "sha256": "0ee93880004ca5635f648105a930d0b59c02891c6c8d910c9d8357e32cbf202a",
+      "preview": "previews\/peach-pb043.v1.light.webp",
+      "preview_light": "previews\/peach-pb043.v1.light.webp",
+      "preview_dark": "previews\/peach-pb043.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "habit",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb111",
+      "title": "PB111",
+      "version": 1,
+      "file": "widgets\/peach-pb111.v1.wid",
+      "size": 435904,
+      "sha256": "584ff4ee9b0c62efbd931a9a2fdfa6aa217c10336aaa0037d071aeb79454a491",
+      "preview": "previews\/peach-pb111.v1.light.webp",
+      "preview_light": "previews\/peach-pb111.v1.light.webp",
+      "preview_dark": "previews\/peach-pb111.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb084",
+      "title": "PB084",
+      "version": 1,
+      "file": "widgets\/peach-pb084.v1.wid",
+      "size": 435628,
+      "sha256": "7edbecd90ff8cd80b0510bea586478e3410a862a853414472fd159a36e244f55",
+      "preview": "previews\/peach-pb084.v1.light.webp",
+      "preview_light": "previews\/peach-pb084.v1.light.webp",
+      "preview_dark": "previews\/peach-pb084.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "controls",
+        "sound"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb050",
+      "title": "PB050",
+      "version": 1,
+      "file": "widgets\/peach-pb050.v1.wid",
+      "size": 435039,
+      "sha256": "2b49920b9deb98d3c8c40ea49ca8e60a2762fe03de830da750ea17bb75c1154c",
+      "preview": "previews\/peach-pb050.v1.light.webp",
+      "preview_light": "previews\/peach-pb050.v1.light.webp",
+      "preview_dark": "previews\/peach-pb050.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "car",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb099",
+      "title": "PB099",
+      "version": 1,
+      "file": "widgets\/peach-pb099.v1.wid",
+      "size": 363243,
+      "sha256": "4b2b5726519c37917a2ea104b581e7cf5b2644f72a77f19d64adac76cfdbec48",
+      "preview": "previews\/peach-pb099.v1.light.webp",
+      "preview_light": "previews\/peach-pb099.v1.light.webp",
+      "preview_dark": "previews\/peach-pb099.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb102",
+      "title": "PB102",
+      "version": 1,
+      "file": "widgets\/peach-pb102.v1.wid",
+      "size": 291115,
+      "sha256": "90c752cf80cbe747b5c4b03466441642df8ee6e9e097b37fefe7f7b8deaba9cb",
+      "preview": "previews\/peach-pb102.v1.light.webp",
+      "preview_light": "previews\/peach-pb102.v1.light.webp",
+      "preview_dark": "previews\/peach-pb102.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb044",
+      "title": "PB044",
+      "version": 1,
+      "file": "widgets\/peach-pb044.v1.wid",
+      "size": 291051,
+      "sha256": "7e153149a956086133a833d828e74286859b023af4f187921f12743b63872a4a",
+      "preview": "previews\/peach-pb044.v1.light.webp",
+      "preview_light": "previews\/peach-pb044.v1.light.webp",
+      "preview_dark": "previews\/peach-pb044.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "game",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb081",
+      "title": "PB081",
+      "version": 1,
+      "file": "widgets\/peach-pb081.v1.wid",
+      "size": 434868,
+      "sha256": "35f1c6601f976242dfe819c25970d25fa08f2a600c194dfd7a5ea1d808dac868",
+      "preview": "previews\/peach-pb081.v1.light.webp",
+      "preview_light": "previews\/peach-pb081.v1.light.webp",
+      "preview_dark": "previews\/peach-pb081.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "device",
+        "memory"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb049",
+      "title": "PB049",
+      "version": 1,
+      "file": "widgets\/peach-pb049.v1.wid",
+      "size": 291814,
+      "sha256": "b82cbbc10bf2e27cffe4fb0e3cf3f905cd8751d77870d3d3bc63b68ec0ef6410",
+      "preview": "previews\/peach-pb049.v1.light.webp",
+      "preview_light": "previews\/peach-pb049.v1.light.webp",
+      "preview_dark": "previews\/peach-pb049.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "timer"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb056",
+      "title": "PB056",
+      "version": 1,
+      "file": "widgets\/peach-pb056.v1.wid",
+      "size": 362112,
+      "sha256": "000650b1ff7750536992066187b2d54c2a6cf37013371611dab5feae4ef0b80e",
+      "preview": "previews\/peach-pb056.v1.light.webp",
+      "preview_light": "previews\/peach-pb056.v1.light.webp",
+      "preview_dark": "previews\/peach-pb056.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "rain",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb001",
+      "title": "PB001",
+      "version": 1,
+      "file": "widgets\/peach-pb001.v1.wid",
+      "size": 436614,
+      "sha256": "525294a1a40f60ab17bd56255c90d50ad8f10a6e354b1a133570f292d4adc04e",
+      "preview": "previews\/peach-pb001.v1.light.webp",
+      "preview_light": "previews\/peach-pb001.v1.light.webp",
+      "preview_dark": "previews\/peach-pb001.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "dashboard",
+        "fitness"
+      ],
+      "permissions": [
+        "ACTIVITY_RECOGNITION",
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb003",
+      "title": "PB003",
+      "version": 1,
+      "file": "widgets\/peach-pb003.v1.wid",
+      "size": 509394,
+      "sha256": "07a6d4d4e0591732c33c97a9220e58b05c00b5b996aa889b2c0e3a01587fb234",
+      "preview": "previews\/peach-pb003.v1.light.webp",
+      "preview_light": "previews\/peach-pb003.v1.light.webp",
+      "preview_dark": "previews\/peach-pb003.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb017",
+      "title": "PB017",
+      "version": 1,
+      "file": "widgets\/peach-pb017.v1.wid",
+      "size": 292934,
+      "sha256": "c37e31b88a46c2e3ab22c951520b7558f4ef6f0e3f85adf99ee13b79f2d3466d",
+      "preview": "previews\/peach-pb017.v1.light.webp",
+      "preview_light": "previews\/peach-pb017.v1.light.webp",
+      "preview_dark": "previews\/peach-pb017.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "sky",
+        "sun"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb101",
+      "title": "PB101",
+      "version": 1,
+      "file": "widgets\/peach-pb101.v1.wid",
+      "size": 363320,
+      "sha256": "a79d57ad0cbeefbb568ad0f1f994422ed45b1961649cbc950b9107e83aad7353",
+      "preview": "previews\/peach-pb101.v1.light.webp",
+      "preview_light": "previews\/peach-pb101.v1.light.webp",
+      "preview_dark": "previews\/peach-pb101.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb062",
+      "title": "PB062",
+      "version": 1,
+      "file": "widgets\/peach-pb062.v1.wid",
+      "size": 362122,
+      "sha256": "e719ae66e62c79402d7e1ab8b0112dcd9e0f2a08492a29907b4212f12ab2c43d",
+      "preview": "previews\/peach-pb062.v1.light.webp",
+      "preview_light": "previews\/peach-pb062.v1.light.webp",
+      "preview_dark": "previews\/peach-pb062.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb121",
+      "title": "PB121",
+      "version": 1,
+      "file": "widgets\/peach-pb121.v1.wid",
+      "size": 364677,
+      "sha256": "a160a5d6b848034ef9c0cfbe97723374c12c0d05fdf2633df05f2b9737c4894f",
+      "preview": "previews\/peach-pb121.v1.light.webp",
+      "preview_light": "previews\/peach-pb121.v1.light.webp",
+      "preview_dark": "previews\/peach-pb121.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb033",
+      "title": "PB033",
+      "version": 1,
+      "file": "widgets\/peach-pb033.v1.wid",
+      "size": 435503,
+      "sha256": "8e82e666e1eb14e6d3178c854225ee5e58e04b73860342926bc0b8d4f677a0a7",
+      "preview": "previews\/peach-pb033.v1.light.webp",
+      "preview_light": "previews\/peach-pb033.v1.light.webp",
+      "preview_dark": "previews\/peach-pb033.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb072",
+      "title": "PB072",
+      "version": 1,
+      "file": "widgets\/peach-pb072.v1.wid",
+      "size": 362862,
+      "sha256": "b18b7d9eb1b33ec5691e2c7a121442c5bfc66a6c4c19c7545992e49b1fd00278",
+      "preview": "previews\/peach-pb072.v1.light.webp",
+      "preview_light": "previews\/peach-pb072.v1.light.webp",
+      "preview_dark": "previews\/peach-pb072.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "uv",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb109",
+      "title": "PB109",
+      "version": 1,
+      "file": "widgets\/peach-pb109.v1.wid",
+      "size": 436260,
+      "sha256": "8d186a683c24d2405ebee9323e30a10065835fac4acd1c85e2644dbbfcd669a3",
+      "preview": "previews\/peach-pb109.v1.light.webp",
+      "preview_light": "previews\/peach-pb109.v1.light.webp",
+      "preview_dark": "previews\/peach-pb109.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music",
+        "sound"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb085",
+      "title": "PB085",
+      "version": 1,
+      "file": "widgets\/peach-pb085.v1.wid",
+      "size": 219874,
+      "sha256": "34514fd0e635943ecb39e444f5dfd98f98b2270646e6afea7759a278b08fe0fc",
+      "preview": "previews\/peach-pb085.v1.light.webp",
+      "preview_light": "previews\/peach-pb085.v1.light.webp",
+      "preview_dark": "previews\/peach-pb085.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "controls"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb009",
+      "title": "PB009",
+      "version": 1,
+      "file": "widgets\/peach-pb009.v1.wid",
+      "size": 291785,
+      "sha256": "254717c69bd57ef6ce9c1e8e0e354aca799998720dca9912e776839a14af73f9",
+      "preview": "previews\/peach-pb009.v1.light.webp",
+      "preview_light": "previews\/peach-pb009.v1.light.webp",
+      "preview_dark": "previews\/peach-pb009.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date",
+        "year"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb067",
+      "title": "PB067",
+      "version": 1,
+      "file": "widgets\/peach-pb067.v1.wid",
+      "size": 508098,
+      "sha256": "187cfd396daa42dbd27dade969db7d9594dd1a80a880772229b29949f4c8e8b7",
+      "preview": "previews\/peach-pb067.v1.light.webp",
+      "preview_light": "previews\/peach-pb067.v1.light.webp",
+      "preview_dark": "previews\/peach-pb067.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather",
+        "weekend"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb080",
+      "title": "PB080",
+      "version": 1,
+      "file": "widgets\/peach-pb080.v1.wid",
+      "size": 364075,
+      "sha256": "e08d2b87f366cbd1180d3c5008b85aa477ff80f5d344affd0b5ccdc161327c00",
+      "preview": "previews\/peach-pb080.v1.light.webp",
+      "preview_light": "previews\/peach-pb080.v1.light.webp",
+      "preview_dark": "previews\/peach-pb080.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "memory",
+        "storage"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb100",
+      "title": "PB100",
+      "version": 1,
+      "file": "widgets\/peach-pb100.v1.wid",
+      "size": 434475,
+      "sha256": "711e9a975502f5cba50d6ed988aa8bd00ed9fc06de9161c6d56680fbbe058080",
+      "preview": "previews\/peach-pb100.v1.light.webp",
+      "preview_light": "previews\/peach-pb100.v1.light.webp",
+      "preview_dark": "previews\/peach-pb100.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "storage"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb036",
+      "title": "PB036",
+      "version": 1,
+      "file": "widgets\/peach-pb036.v1.wid",
+      "size": 364133,
+      "sha256": "876ea785c388f97206008c085abb545d7428489fe3ce9a24b2b981055bae542c",
+      "preview": "previews\/peach-pb036.v1.light.webp",
+      "preview_light": "previews\/peach-pb036.v1.light.webp",
+      "preview_dark": "previews\/peach-pb036.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "habit",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb143",
+      "title": "PB143",
+      "version": 1,
+      "file": "widgets\/peach-pb143.v1.wid",
+      "size": 365497,
+      "sha256": "c2460fa02e062fe47415a66da8b2598817c309f5206ecc1ccd45d4ea10f8de28",
+      "preview": "previews\/peach-pb143.v1.light.webp",
+      "preview_light": "previews\/peach-pb143.v1.light.webp",
+      "preview_dark": "previews\/peach-pb143.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "pets",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb112",
+      "title": "PB112",
+      "version": 1,
+      "file": "widgets\/peach-pb112.v1.wid",
+      "size": 291802,
+      "sha256": "6273c2169e5314e35931a62b4585682c8b8cb0dadee6b68e284a72fac199071b",
+      "preview": "previews\/peach-pb112.v1.light.webp",
+      "preview_light": "previews\/peach-pb112.v1.light.webp",
+      "preview_dark": "previews\/peach-pb112.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb134",
+      "title": "PB134",
+      "version": 1,
+      "file": "widgets\/peach-pb134.v1.wid",
+      "size": 436184,
+      "sha256": "959613531fd01a671fb84f4dd4f48a56f83a8c753f9b7fe04433c004cdaf6005",
+      "preview": "previews\/peach-pb134.v1.light.webp",
+      "preview_light": "previews\/peach-pb134.v1.light.webp",
+      "preview_dark": "previews\/peach-pb134.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "alarm",
+        "sleep"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb144",
+      "title": "PB144",
+      "version": 1,
+      "file": "widgets\/peach-pb144.v1.wid",
+      "size": 363983,
+      "sha256": "aab17185258104746eaf36a7c249e88120e83d19051a5526f0ab19143596190f",
+      "preview": "previews\/peach-pb144.v1.light.webp",
+      "preview_light": "previews\/peach-pb144.v1.light.webp",
+      "preview_dark": "previews\/peach-pb144.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "home",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb047",
+      "title": "PB047",
+      "version": 1,
+      "file": "widgets\/peach-pb047.v1.wid",
+      "size": 435737,
+      "sha256": "150f7cad5b40d7159f69b8a0ff7e12867f039bdfcd1f1a772b20c28058f6eae1",
+      "preview": "previews\/peach-pb047.v1.light.webp",
+      "preview_light": "previews\/peach-pb047.v1.light.webp",
+      "preview_dark": "previews\/peach-pb047.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "commute"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb061",
+      "title": "PB061",
+      "version": 1,
+      "file": "widgets\/peach-pb061.v1.wid",
+      "size": 292121,
+      "sha256": "c4a6c2541e1adfc1157741fba79e46b80adb76ad3cee8d43b9941b7db938a8fb",
+      "preview": "previews\/peach-pb061.v1.light.webp",
+      "preview_light": "previews\/peach-pb061.v1.light.webp",
+      "preview_dark": "previews\/peach-pb061.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather",
+        "wind"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb132",
+      "title": "PB132",
+      "version": 1,
+      "file": "widgets\/peach-pb132.v1.wid",
+      "size": 435292,
+      "sha256": "d2b091c859093f1b30e7958d62c2303f80ae080b5b26781ed7e7aea3e4dbaeaa",
+      "preview": "previews\/peach-pb132.v1.light.webp",
+      "preview_light": "previews\/peach-pb132.v1.light.webp",
+      "preview_dark": "previews\/peach-pb132.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "work"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb021",
+      "title": "PB021",
+      "version": 1,
+      "file": "widgets\/peach-pb021.v1.wid",
+      "size": 364662,
+      "sha256": "09fcb11a13ce9caf0f74133381aea096471c8ce04a54d29cd31f612b9a1e1fb9",
+      "preview": "previews\/peach-pb021.v1.light.webp",
+      "preview_light": "previews\/peach-pb021.v1.light.webp",
+      "preview_dark": "previews\/peach-pb021.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "photo",
+        "sun"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb117",
+      "title": "PB117",
+      "version": 1,
+      "file": "widgets\/peach-pb117.v1.wid",
+      "size": 435500,
+      "sha256": "2f368614acc40a5b3d1223d844cd9f40cb6d8f0d1b51b537ffff95200cbf939f",
+      "preview": "previews\/peach-pb117.v1.light.webp",
+      "preview_light": "previews\/peach-pb117.v1.light.webp",
+      "preview_dark": "previews\/peach-pb117.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb008",
+      "title": "PB008",
+      "version": 1,
+      "file": "widgets\/peach-pb008.v1.wid",
+      "size": 292523,
+      "sha256": "e9cef89a51ab5bddbbc9e628e1116e04b7d0970bc7b8edb69c517a44be4abe92",
+      "preview": "previews\/peach-pb008.v1.light.webp",
+      "preview_light": "previews\/peach-pb008.v1.light.webp",
+      "preview_dark": "previews\/peach-pb008.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date",
+        "week"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb142",
+      "title": "PB142",
+      "version": 1,
+      "file": "widgets\/peach-pb142.v1.wid",
+      "size": 367456,
+      "sha256": "1e41e7828569cae47059062ac96d19c288e9af0066927d08f264f41d9f34d3f4",
+      "preview": "previews\/peach-pb142.v1.light.webp",
+      "preview_light": "previews\/peach-pb142.v1.light.webp",
+      "preview_dark": "previews\/peach-pb142.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "dashboard",
+        "fitness"
+      ],
+      "permissions": [
+        "ACTIVITY_RECOGNITION",
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb145",
+      "title": "PB145",
+      "version": 1,
+      "file": "widgets\/peach-pb145.v1.wid",
+      "size": 362815,
+      "sha256": "569c7c52a7f068c4835a70b0860b2e656b376828861b956ada435e1038aba1cd",
+      "preview": "previews\/peach-pb145.v1.light.webp",
+      "preview_light": "previews\/peach-pb145.v1.light.webp",
+      "preview_dark": "previews\/peach-pb145.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date",
+        "month"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb037",
+      "title": "PB037",
+      "version": 1,
+      "file": "widgets\/peach-pb037.v1.wid",
+      "size": 362766,
+      "sha256": "6d572bf418760e297be232b66ec0234c658beb07f168e4c191c2c94d7b3cf204",
+      "preview": "previews\/peach-pb037.v1.light.webp",
+      "preview_light": "previews\/peach-pb037.v1.light.webp",
+      "preview_dark": "previews\/peach-pb037.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "health",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb028",
+      "title": "PB028",
+      "version": 1,
+      "file": "widgets\/peach-pb028.v1.wid",
+      "size": 363239,
+      "sha256": "c1d964d1757b2e5c111b3f1e80b6f5ac666bc1301702dc26bb339803e73afc36",
+      "preview": "previews\/peach-pb028.v1.light.webp",
+      "preview_light": "previews\/peach-pb028.v1.light.webp",
+      "preview_dark": "previews\/peach-pb028.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb035",
+      "title": "PB035",
+      "version": 1,
+      "file": "widgets\/peach-pb035.v1.wid",
+      "size": 292881,
+      "sha256": "4612d2dad61d4046aa7e9caaac64f2137bde465c6b2514c017461138749121f1",
+      "preview": "previews\/peach-pb035.v1.light.webp",
+      "preview_light": "previews\/peach-pb035.v1.light.webp",
+      "preview_dark": "previews\/peach-pb035.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "focus",
+        "timer"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb040",
+      "title": "PB040",
+      "version": 1,
+      "file": "widgets\/peach-pb040.v1.wid",
+      "size": 436432,
+      "sha256": "106a362f47858920c164cdfd24d61dd3bb742b27e94bdd64a86e93b198037a6a",
+      "preview": "previews\/peach-pb040.v1.light.webp",
+      "preview_light": "previews\/peach-pb040.v1.light.webp",
+      "preview_dark": "previews\/peach-pb040.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb090",
+      "title": "PB090",
+      "version": 1,
+      "file": "widgets\/peach-pb090.v1.wid",
+      "size": 362481,
+      "sha256": "91ec76a51c9496b58e607319efeb56080c79f2c961b926e1f5b1784e8a6f6b29",
+      "preview": "previews\/peach-pb090.v1.light.webp",
+      "preview_light": "previews\/peach-pb090.v1.light.webp",
+      "preview_dark": "previews\/peach-pb090.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "storage"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb012",
+      "title": "PB012",
+      "version": 1,
+      "file": "widgets\/peach-pb012.v1.wid",
+      "size": 294632,
+      "sha256": "1e7e62b12be01daebe252afb1f67b5ccab6cd0993f0ec6297b1b0bf401dbaa11",
+      "preview": "previews\/peach-pb012.v1.light.webp",
+      "preview_light": "previews\/peach-pb012.v1.light.webp",
+      "preview_dark": "previews\/peach-pb012.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "countdown",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb139",
+      "title": "PB139",
+      "version": 1,
+      "file": "widgets\/peach-pb139.v1.wid",
+      "size": 362700,
+      "sha256": "f5ced686f7e091b7349f18aedc2e8b08848088ebdab0b234350fe0dd9485fc6a",
+      "preview": "previews\/peach-pb139.v1.light.webp",
+      "preview_light": "previews\/peach-pb139.v1.light.webp",
+      "preview_dark": "previews\/peach-pb139.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "fitness"
+      ],
+      "permissions": [
+        "ACTIVITY_RECOGNITION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb038",
+      "title": "PB038",
+      "version": 1,
+      "file": "widgets\/peach-pb038.v1.wid",
+      "size": 436758,
+      "sha256": "1ed25e9f890c4e8e9b832a886765ca0a34d889b73d454254e62d556c3053a5a6",
+      "preview": "previews\/peach-pb038.v1.light.webp",
+      "preview_light": "previews\/peach-pb038.v1.light.webp",
+      "preview_dark": "previews\/peach-pb038.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb078",
+      "title": "PB078",
+      "version": 1,
+      "file": "widgets\/peach-pb078.v1.wid",
+      "size": 291551,
+      "sha256": "a51cda5444d9d7eccc9ba16774b9fb8dba8f5a21fdab2030f7f6f55a2b0025d6",
+      "preview": "previews\/peach-pb078.v1.light.webp",
+      "preview_light": "previews\/peach-pb078.v1.light.webp",
+      "preview_dark": "previews\/peach-pb078.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb082",
+      "title": "PB082",
+      "version": 1,
+      "file": "widgets\/peach-pb082.v1.wid",
+      "size": 507233,
+      "sha256": "2fe1a7cc2a496ac42aeacc5d32c063c3324279181fd3cb15dfdd8875c155bf08",
+      "preview": "previews\/peach-pb082.v1.light.webp",
+      "preview_light": "previews\/peach-pb082.v1.light.webp",
+      "preview_dark": "previews\/peach-pb082.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "device"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb010",
+      "title": "PB010",
+      "version": 1,
+      "file": "widgets\/peach-pb010.v1.wid",
+      "size": 445252,
+      "sha256": "173b4bb5048ee7c334b8b5ffab88954771de898f970b04327057e5c8b908b03d",
+      "preview": "previews\/peach-pb010.v1.light.webp",
+      "preview_light": "previews\/peach-pb010.v1.light.webp",
+      "preview_dark": "previews\/peach-pb010.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb020",
+      "title": "PB020",
+      "version": 1,
+      "file": "widgets\/peach-pb020.v1.wid",
+      "size": 290385,
+      "sha256": "4d5fa196beb4c43ec19d37af922568e67ec1eeb3491236c25b09e21af6db98e9",
+      "preview": "previews\/peach-pb020.v1.light.webp",
+      "preview_light": "previews\/peach-pb020.v1.light.webp",
+      "preview_dark": "previews\/peach-pb020.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "moon",
+        "sky"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb083",
+      "title": "PB083",
+      "version": 1,
+      "file": "widgets\/peach-pb083.v1.wid",
+      "size": 365404,
+      "sha256": "13ae639a2cde835e3e6beb43f6c82529c8865cbacbd84de5d13f46b167e395fe",
+      "preview": "previews\/peach-pb083.v1.light.webp",
+      "preview_light": "previews\/peach-pb083.v1.light.webp",
+      "preview_dark": "previews\/peach-pb083.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "connectivity",
+        "controls",
+        "sound"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb023",
+      "title": "PB023",
+      "version": 1,
+      "file": "widgets\/peach-pb023.v1.wid",
+      "size": 363187,
+      "sha256": "a7b1885515c7514de347fdd68d1e0daf327fd0332284c5bd4faf929ceb0b6eef",
+      "preview": "previews\/peach-pb023.v1.light.webp",
+      "preview_light": "previews\/peach-pb023.v1.light.webp",
+      "preview_dark": "previews\/peach-pb023.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "moon",
+        "sky",
+        "sun"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb048",
+      "title": "PB048",
+      "version": 1,
+      "file": "widgets\/peach-pb048.v1.wid",
+      "size": 363917,
+      "sha256": "ec01c90432992db377d5643ae8bdfe080e73172f6b1c5454e7b5e12b223ba3e2",
+      "preview": "previews\/peach-pb048.v1.light.webp",
+      "preview_light": "previews\/peach-pb048.v1.light.webp",
+      "preview_dark": "previews\/peach-pb048.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "health",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb137",
+      "title": "PB137",
+      "version": 1,
+      "file": "widgets\/peach-pb137.v1.wid",
+      "size": 291826,
+      "sha256": "2db3aa6d9a908beecfa08a5a284da4349a8f458c438f0f9ae9120a96adb0fd51",
+      "preview": "previews\/peach-pb137.v1.light.webp",
+      "preview_light": "previews\/peach-pb137.v1.light.webp",
+      "preview_dark": "previews\/peach-pb137.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "fitness"
+      ],
+      "permissions": [
+        "ACTIVITY_RECOGNITION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb140",
+      "title": "PB140",
+      "version": 1,
+      "file": "widgets\/peach-pb140.v1.wid",
+      "size": 363782,
+      "sha256": "6445b0ee4da992b88a745959a1e4be4eeb77ed3a0f31d31c65a950b88c62bc0d",
+      "preview": "previews\/peach-pb140.v1.light.webp",
+      "preview_light": "previews\/peach-pb140.v1.light.webp",
+      "preview_dark": "previews\/peach-pb140.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "fitness"
+      ],
+      "permissions": [
+        "ACTIVITY_RECOGNITION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb068",
+      "title": "PB068",
+      "version": 1,
+      "file": "widgets\/peach-pb068.v1.wid",
+      "size": 291007,
+      "sha256": "c14851a0ac4816d450505288eaba99369485b043c6fb7f8434cea3b18d616555",
+      "preview": "previews\/peach-pb068.v1.light.webp",
+      "preview_light": "previews\/peach-pb068.v1.light.webp",
+      "preview_dark": "previews\/peach-pb068.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb030",
+      "title": "PB030",
+      "version": 1,
+      "file": "widgets\/peach-pb030.v1.wid",
+      "size": 436470,
+      "sha256": "db5891abcdbe959f54f3fcf7629cfab0bbec900bd16a06e44e363b83796980d2",
+      "preview": "previews\/peach-pb030.v1.light.webp",
+      "preview_light": "previews\/peach-pb030.v1.light.webp",
+      "preview_dark": "previews\/peach-pb030.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "timeline"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb053",
+      "title": "PB053",
+      "version": 1,
+      "file": "widgets\/peach-pb053.v1.wid",
+      "size": 293428,
+      "sha256": "fefeb9a87999f5912f84f7e3900646457cdf1f6b07f17912fbfc279099fe7009",
+      "preview": "previews\/peach-pb053.v1.light.webp",
+      "preview_light": "previews\/peach-pb053.v1.light.webp",
+      "preview_dark": "previews\/peach-pb053.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "forecast",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb027",
+      "title": "PB027",
+      "version": 1,
+      "file": "widgets\/peach-pb027.v1.wid",
+      "size": 363235,
+      "sha256": "f1c03026e4e0a2c402f0c789895c13a96454586c10553a30817aa9bb3470ff2d",
+      "preview": "previews\/peach-pb027.v1.light.webp",
+      "preview_light": "previews\/peach-pb027.v1.light.webp",
+      "preview_dark": "previews\/peach-pb027.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "countdown"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb066",
+      "title": "PB066",
+      "version": 1,
+      "file": "widgets\/peach-pb066.v1.wid",
+      "size": 437642,
+      "sha256": "d72ba3547a653b90ea60e3cab0260f7e070e7d055ab012790ea28e260d46d773",
+      "preview": "previews\/peach-pb066.v1.light.webp",
+      "preview_light": "previews\/peach-pb066.v1.light.webp",
+      "preview_dark": "previews\/peach-pb066.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "forecast",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb052",
+      "title": "PB052",
+      "version": 1,
+      "file": "widgets\/peach-pb052.v1.wid",
+      "size": 436067,
+      "sha256": "ffaa85ab5c463314c60a542a4d8695c2fedbb300aba680a457b03907eacce367",
+      "preview": "previews\/peach-pb052.v1.light.webp",
+      "preview_light": "previews\/peach-pb052.v1.light.webp",
+      "preview_dark": "previews\/peach-pb052.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb092",
+      "title": "PB092",
+      "version": 1,
+      "file": "widgets\/peach-pb092.v1.wid",
+      "size": 434676,
+      "sha256": "f8491b4d219c4d761824ae5f0015472542353c4861dbef7b186c0f9ea57f6fb4",
+      "preview": "previews\/peach-pb092.v1.light.webp",
+      "preview_light": "previews\/peach-pb092.v1.light.webp",
+      "preview_dark": "previews\/peach-pb092.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "controls"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb006",
+      "title": "PB006",
+      "version": 1,
+      "file": "widgets\/peach-pb006.v1.wid",
+      "size": 436914,
+      "sha256": "c62aeb1cf13072de75fcb115aebc21bfd2dd87b855127e9c77666dadcf3865d9",
+      "preview": "previews\/peach-pb006.v1.light.webp",
+      "preview_light": "previews\/peach-pb006.v1.light.webp",
+      "preview_dark": "previews\/peach-pb006.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "sun"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb054",
+      "title": "PB054",
+      "version": 1,
+      "file": "widgets\/peach-pb054.v1.wid",
+      "size": 435542,
+      "sha256": "6090daff977d31551b4f897abfb5900a28a85de31c317e6dbb393533fd446efb",
+      "preview": "previews\/peach-pb054.v1.light.webp",
+      "preview_light": "previews\/peach-pb054.v1.light.webp",
+      "preview_dark": "previews\/peach-pb054.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb127",
+      "title": "PB127",
+      "version": 1,
+      "file": "widgets\/peach-pb127.v1.wid",
+      "size": 435675,
+      "sha256": "7794acb8775e84a85bd5b256e4fa2ee0c24c309ac3a701f97e06f3b98ecf4502",
+      "preview": "previews\/peach-pb127.v1.light.webp",
+      "preview_light": "previews\/peach-pb127.v1.light.webp",
+      "preview_dark": "previews\/peach-pb127.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "dashboard",
+        "sleep",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb113",
+      "title": "PB113",
+      "version": 1,
+      "file": "widgets\/peach-pb113.v1.wid",
+      "size": 364017,
+      "sha256": "8a7ea48aea7d3b90701017ef5f83493bbbdcdb28bcfdbdc48d68d886739e3286",
+      "preview": "previews\/peach-pb113.v1.light.webp",
+      "preview_light": "previews\/peach-pb113.v1.light.webp",
+      "preview_dark": "previews\/peach-pb113.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb146",
+      "title": "PB146",
+      "version": 1,
+      "file": "widgets\/peach-pb146.v1.wid",
+      "size": 443211,
+      "sha256": "0f18445fcee30f05f92e7a879c81769e6fddfbc8034739b4a70fd633eb2e24ff",
+      "preview": "previews\/peach-pb146.v1.light.webp",
+      "preview_light": "previews\/peach-pb146.v1.light.webp",
+      "preview_dark": "previews\/peach-pb146.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb045",
+      "title": "PB045",
+      "version": 1,
+      "file": "widgets\/peach-pb045.v1.wid",
+      "size": 363032,
+      "sha256": "9d1d7c89d2507008e5158e8fbe3bf7c1c9b7200fe9b2cef28e874a381594b2ad",
+      "preview": "previews\/peach-pb045.v1.light.webp",
+      "preview_light": "previews\/peach-pb045.v1.light.webp",
+      "preview_dark": "previews\/peach-pb045.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "shopping",
+        "tracker"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb059",
+      "title": "PB059",
+      "version": 1,
+      "file": "widgets\/peach-pb059.v1.wid",
+      "size": 365503,
+      "sha256": "516d83967f0447eee0e61cda557a5d1acca635bdecd6963eddca04fd3f84fb39",
+      "preview": "previews\/peach-pb059.v1.light.webp",
+      "preview_light": "previews\/peach-pb059.v1.light.webp",
+      "preview_dark": "previews\/peach-pb059.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb103",
+      "title": "PB103",
+      "version": 1,
+      "file": "widgets\/peach-pb103.v1.wid",
+      "size": 363047,
+      "sha256": "2770dd031bcb8e21b9c90bf98d8c391718e04bb67c431936371cb4540267e176",
+      "preview": "previews\/peach-pb103.v1.light.webp",
+      "preview_light": "previews\/peach-pb103.v1.light.webp",
+      "preview_dark": "previews\/peach-pb103.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb141",
+      "title": "PB141",
+      "version": 1,
+      "file": "widgets\/peach-pb141.v1.wid",
+      "size": 363111,
+      "sha256": "42f1c3aff2e97909982768aa0465a222be816ff613731b2cd16560680b8bb20b",
+      "preview": "previews\/peach-pb141.v1.light.webp",
+      "preview_light": "previews\/peach-pb141.v1.light.webp",
+      "preview_dark": "previews\/peach-pb141.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "timer",
+        "wellbeing"
+      ],
+      "permissions": [],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb087",
+      "title": "PB087",
+      "version": 1,
+      "file": "widgets\/peach-pb087.v1.wid",
+      "size": 363546,
+      "sha256": "57af04d0082fd2d12943ceeaa1d44cab2e47db14901b749810ee98053061e934",
+      "preview": "previews\/peach-pb087.v1.light.webp",
+      "preview_light": "previews\/peach-pb087.v1.light.webp",
+      "preview_dark": "previews\/peach-pb087.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "connectivity"
+      ],
+      "permissions": [
+        "BLUETOOTH_CONNECT"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb115",
+      "title": "PB115",
+      "version": 1,
+      "file": "widgets\/peach-pb115.v1.wid",
+      "size": 362606,
+      "sha256": "125e409a88af5f82d0fc24ae1ba2f54d4b86e80ba8586fed31051bff435ce60f",
+      "preview": "previews\/peach-pb115.v1.light.webp",
+      "preview_light": "previews\/peach-pb115.v1.light.webp",
+      "preview_dark": "previews\/peach-pb115.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "peach-pb063",
+      "title": "PB063",
+      "version": 1,
+      "file": "widgets\/peach-pb063.v1.wid",
+      "size": 293273,
+      "sha256": "68bd376515c5866c762fcead41d48dfc9ef7b500ad321673cceb9ef66d344354",
+      "preview": "previews\/peach-pb063.v1.light.webp",
+      "preview_light": "previews\/peach-pb063.v1.light.webp",
+      "preview_dark": "previews\/peach-pb063.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "dashboard",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795202265308,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
     {
       "id": "aurora-ag074",
       "title": "AG074",
