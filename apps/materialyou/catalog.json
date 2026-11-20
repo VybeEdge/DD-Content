@@ -1,15 +1,4489 @@
 {
   "schema": 1,
-  "updated": 1795108019781,
-  "widgets": [],
+  "updated": 1795147794364,
+  "widgets": [
+    {
+      "id": "material-e150",
+      "title": "E150",
+      "version": 1,
+      "file": "widgets\/material-e150.v1.wid",
+      "size": 60869,
+      "sha256": "222139381f250723924bbd3691968f2e192c7f436c0779ab24a33b47e4ed1a90",
+      "preview": "previews\/material-e150.v1.light.webp",
+      "preview_light": "previews\/material-e150.v1.light.webp",
+      "preview_dark": "previews\/material-e150.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e149",
+      "title": "E149",
+      "version": 1,
+      "file": "widgets\/material-e149.v1.wid",
+      "size": 230343,
+      "sha256": "72eb64820c90760a42230022626fbe45da51b3ccf075306f47ee43a1e25a20b4",
+      "preview": "previews\/material-e149.v1.light.webp",
+      "preview_light": "previews\/material-e149.v1.light.webp",
+      "preview_dark": "previews\/material-e149.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE",
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e148",
+      "title": "E148",
+      "version": 1,
+      "file": "widgets\/material-e148.v1.wid",
+      "size": 170907,
+      "sha256": "6164a0239151ff69076a2717df2fbca9b4776d0a0eae7b4c2fddf72aad009aac",
+      "preview": "previews\/material-e148.v1.light.webp",
+      "preview_light": "previews\/material-e148.v1.light.webp",
+      "preview_dark": "previews\/material-e148.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e147",
+      "title": "E147",
+      "version": 1,
+      "file": "widgets\/material-e147.v1.wid",
+      "size": 87859,
+      "sha256": "4903f7af8cfc874d37850236d9e02eb8207f1f56b9ace7e31bf6a1141742e8ec",
+      "preview": "previews\/material-e147.v1.light.webp",
+      "preview_light": "previews\/material-e147.v1.light.webp",
+      "preview_dark": "previews\/material-e147.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e146",
+      "title": "E146",
+      "version": 1,
+      "file": "widgets\/material-e146.v1.wid",
+      "size": 197766,
+      "sha256": "47a1ecd7f7a4ed76658e84ade74d34e4fb8cdb2a4a6cf4ae8db00fc047b2b192",
+      "preview": "previews\/material-e146.v1.light.webp",
+      "preview_light": "previews\/material-e146.v1.light.webp",
+      "preview_dark": "previews\/material-e146.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e145",
+      "title": "E145",
+      "version": 1,
+      "file": "widgets\/material-e145.v1.wid",
+      "size": 228307,
+      "sha256": "0bad2c76411e79ffe90805c912649cca37c42f90a0eab368f1b538b1c041bdf0",
+      "preview": "previews\/material-e145.v1.dark.webp",
+      "preview_light": "previews\/material-e145.v1.light.webp",
+      "preview_dark": "previews\/material-e145.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e144",
+      "title": "E144",
+      "version": 1,
+      "file": "widgets\/material-e144.v1.wid",
+      "size": 197331,
+      "sha256": "caef784a13720d181cba1b6d2dfe04f9336de289c221b53769da75d90635e245",
+      "preview": "previews\/material-e144.v1.light.webp",
+      "preview_light": "previews\/material-e144.v1.light.webp",
+      "preview_dark": "previews\/material-e144.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e143",
+      "title": "E143",
+      "version": 1,
+      "file": "widgets\/material-e143.v1.wid",
+      "size": 202507,
+      "sha256": "50af6beaf7e8a7499e30acde286cd2ec87f5ce8d7236ccf661782361ed8f8e9b",
+      "preview": "previews\/material-e143.v1.light.webp",
+      "preview_light": "previews\/material-e143.v1.light.webp",
+      "preview_dark": "previews\/material-e143.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e142",
+      "title": "E142",
+      "version": 1,
+      "file": "widgets\/material-e142.v1.wid",
+      "size": 197028,
+      "sha256": "1807f2438e09bec402a3eb0d3881f60ed08434f1147fbf9ed99d9616403188d0",
+      "preview": "previews\/material-e142.v1.light.webp",
+      "preview_light": "previews\/material-e142.v1.light.webp",
+      "preview_dark": "previews\/material-e142.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e141",
+      "title": "E141",
+      "version": 1,
+      "file": "widgets\/material-e141.v1.wid",
+      "size": 60651,
+      "sha256": "09ca57ccfeb17517a7be863e97a6d5274deb925d9122ccf7b954f58cdcb6d34c",
+      "preview": "previews\/material-e141.v1.light.webp",
+      "preview_light": "previews\/material-e141.v1.light.webp",
+      "preview_dark": "previews\/material-e141.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e140",
+      "title": "E140",
+      "version": 1,
+      "file": "widgets\/material-e140.v1.wid",
+      "size": 57346,
+      "sha256": "aba2aa7ebbe8559609f44586578c350f9b878820cbd0ef62d3c98bf6392e6ed0",
+      "preview": "previews\/material-e140.v1.light.webp",
+      "preview_light": "previews\/material-e140.v1.light.webp",
+      "preview_dark": "previews\/material-e140.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e139",
+      "title": "E139",
+      "version": 1,
+      "file": "widgets\/material-e139.v1.wid",
+      "size": 86302,
+      "sha256": "1d4a86312bba9f656efa75853b19fd8bf8d5e6482974df690054137f6e7be883",
+      "preview": "previews\/material-e139.v1.light.webp",
+      "preview_light": "previews\/material-e139.v1.light.webp",
+      "preview_dark": "previews\/material-e139.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e138",
+      "title": "E138",
+      "version": 1,
+      "file": "widgets\/material-e138.v1.wid",
+      "size": 228255,
+      "sha256": "e2d005f0d133e37694123a682919f1f936bdd442894a77ba64283c6ba107e3c8",
+      "preview": "previews\/material-e138.v1.light.webp",
+      "preview_light": "previews\/material-e138.v1.light.webp",
+      "preview_dark": "previews\/material-e138.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e137",
+      "title": "E137",
+      "version": 1,
+      "file": "widgets\/material-e137.v1.wid",
+      "size": 174374,
+      "sha256": "07e1f39e824af14b0ed2a7b658e5c5ee968851977e8aa870be7754b30df881ba",
+      "preview": "previews\/material-e137.v1.light.webp",
+      "preview_light": "previews\/material-e137.v1.light.webp",
+      "preview_dark": "previews\/material-e137.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e136",
+      "title": "E136",
+      "version": 1,
+      "file": "widgets\/material-e136.v1.wid",
+      "size": 202540,
+      "sha256": "f1c00ee8700cc2386189f1adfccc98b96bf9809caa12764dfd14bff1e6ca705d",
+      "preview": "previews\/material-e136.v1.light.webp",
+      "preview_light": "previews\/material-e136.v1.light.webp",
+      "preview_dark": "previews\/material-e136.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e135",
+      "title": "E135",
+      "version": 1,
+      "file": "widgets\/material-e135.v1.wid",
+      "size": 204727,
+      "sha256": "1fb0f9b22977c29210d4a85771f2c54951300f3809d7382d7845d738efb7e7b4",
+      "preview": "previews\/material-e135.v1.light.webp",
+      "preview_light": "previews\/material-e135.v1.light.webp",
+      "preview_dark": "previews\/material-e135.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e134",
+      "title": "E134",
+      "version": 1,
+      "file": "widgets\/material-e134.v1.wid",
+      "size": 60513,
+      "sha256": "d5283e4832dc00d4cbe0143af805d2f415d411ab24130fea1ccd590252acc755",
+      "preview": "previews\/material-e134.v1.light.webp",
+      "preview_light": "previews\/material-e134.v1.light.webp",
+      "preview_dark": "previews\/material-e134.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e133",
+      "title": "E133",
+      "version": 1,
+      "file": "widgets\/material-e133.v1.wid",
+      "size": 227684,
+      "sha256": "e2ceab78b43056ae54160ddfc4893b3271a7b46d5df88c21751100a71db14f82",
+      "preview": "previews\/material-e133.v1.light.webp",
+      "preview_light": "previews\/material-e133.v1.light.webp",
+      "preview_dark": "previews\/material-e133.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e132",
+      "title": "E132",
+      "version": 1,
+      "file": "widgets\/material-e132.v1.wid",
+      "size": 202735,
+      "sha256": "e9e38ccbc8c5872c2084d4f9979118af26b275733a33591c70df348d73c18f5f",
+      "preview": "previews\/material-e132.v1.light.webp",
+      "preview_light": "previews\/material-e132.v1.light.webp",
+      "preview_dark": "previews\/material-e132.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e131",
+      "title": "E131",
+      "version": 1,
+      "file": "widgets\/material-e131.v1.wid",
+      "size": 197056,
+      "sha256": "b182d29a3665cdb5adb88716e1805515955a3425467c32a4f75a30f06a99f964",
+      "preview": "previews\/material-e131.v1.light.webp",
+      "preview_light": "previews\/material-e131.v1.light.webp",
+      "preview_dark": "previews\/material-e131.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e130",
+      "title": "E130",
+      "version": 1,
+      "file": "widgets\/material-e130.v1.wid",
+      "size": 228287,
+      "sha256": "dc9311291f3f587e284f2644c6734155df4f64a35d1a45e0c1798fab96ea7077",
+      "preview": "previews\/material-e130.v1.dark.webp",
+      "preview_light": "previews\/material-e130.v1.light.webp",
+      "preview_dark": "previews\/material-e130.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e129",
+      "title": "E129",
+      "version": 1,
+      "file": "widgets\/material-e129.v1.wid",
+      "size": 196951,
+      "sha256": "fd0d4167799915fee3ffb2e194120c9306a19b448c7861ca437044637aa71fe9",
+      "preview": "previews\/material-e129.v1.light.webp",
+      "preview_light": "previews\/material-e129.v1.light.webp",
+      "preview_dark": "previews\/material-e129.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e128",
+      "title": "E128",
+      "version": 1,
+      "file": "widgets\/material-e128.v1.wid",
+      "size": 197122,
+      "sha256": "f6a8bb20b557ddc4246e2232f48a016990557024e94418dc96483fab3adcbbdf",
+      "preview": "previews\/material-e128.v1.light.webp",
+      "preview_light": "previews\/material-e128.v1.light.webp",
+      "preview_dark": "previews\/material-e128.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e127",
+      "title": "E127",
+      "version": 1,
+      "file": "widgets\/material-e127.v1.wid",
+      "size": 190915,
+      "sha256": "a1029d529911b74dad63033c93df047bc04607870aa527f01f3ad7de061c24ba",
+      "preview": "previews\/material-e127.v1.dark.webp",
+      "preview_light": "previews\/material-e127.v1.light.webp",
+      "preview_dark": "previews\/material-e127.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e126",
+      "title": "E126",
+      "version": 1,
+      "file": "widgets\/material-e126.v1.wid",
+      "size": 197556,
+      "sha256": "a1c9d17ef5dd3cdb811db2138f18765234567000692a7be38e1920ad776ca577",
+      "preview": "previews\/material-e126.v1.light.webp",
+      "preview_light": "previews\/material-e126.v1.light.webp",
+      "preview_dark": "previews\/material-e126.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e125",
+      "title": "E125",
+      "version": 1,
+      "file": "widgets\/material-e125.v1.wid",
+      "size": 244079,
+      "sha256": "0a282663119c2d3abe72700cd29e4c89a942ab8dc8f8bff39f71543b1164d27d",
+      "preview": "previews\/material-e125.v1.light.webp",
+      "preview_light": "previews\/material-e125.v1.light.webp",
+      "preview_dark": "previews\/material-e125.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e124",
+      "title": "E124",
+      "version": 1,
+      "file": "widgets\/material-e124.v1.wid",
+      "size": 202763,
+      "sha256": "71676e046ca4d5e322801940c4333f107cc62e7748a240eca419cb2d26e34c1d",
+      "preview": "previews\/material-e124.v1.light.webp",
+      "preview_light": "previews\/material-e124.v1.light.webp",
+      "preview_dark": "previews\/material-e124.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e123",
+      "title": "E123",
+      "version": 1,
+      "file": "widgets\/material-e123.v1.wid",
+      "size": 167789,
+      "sha256": "d30f621efe811565a6d60110e901f87cc80958820cb264085bad0a2db436990e",
+      "preview": "previews\/material-e123.v1.light.webp",
+      "preview_light": "previews\/material-e123.v1.light.webp",
+      "preview_dark": "previews\/material-e123.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e122",
+      "title": "E122",
+      "version": 1,
+      "file": "widgets\/material-e122.v1.wid",
+      "size": 277832,
+      "sha256": "902889aa01fde37ee8677cb5219d75984675d9908b5ccd6b85ed2c34e3bf79ee",
+      "preview": "previews\/material-e122.v1.light.webp",
+      "preview_light": "previews\/material-e122.v1.light.webp",
+      "preview_dark": "previews\/material-e122.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "notifications",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e121",
+      "title": "E121",
+      "version": 1,
+      "file": "widgets\/material-e121.v1.wid",
+      "size": 109772,
+      "sha256": "f4e05465048970970a03d5fc887d7a4dc0e2021799a82c77a9fa48e7af5bab2a",
+      "preview": "previews\/material-e121.v1.light.webp",
+      "preview_light": "previews\/material-e121.v1.light.webp",
+      "preview_dark": "previews\/material-e121.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e120",
+      "title": "E120",
+      "version": 1,
+      "file": "widgets\/material-e120.v1.wid",
+      "size": 86480,
+      "sha256": "4b101116c6a68f673561b9a7aa050ba9bddd5c1b582790420f39c2481fcf7462",
+      "preview": "previews\/material-e120.v1.light.webp",
+      "preview_light": "previews\/material-e120.v1.light.webp",
+      "preview_dark": "previews\/material-e120.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e119",
+      "title": "E119",
+      "version": 1,
+      "file": "widgets\/material-e119.v1.wid",
+      "size": 277195,
+      "sha256": "f6d8b3d2a796f7d51d8a992005f00c0df8ea3b0c55a3d19709d3372a466bd5d6",
+      "preview": "previews\/material-e119.v1.light.webp",
+      "preview_light": "previews\/material-e119.v1.light.webp",
+      "preview_dark": "previews\/material-e119.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e118",
+      "title": "E118",
+      "version": 1,
+      "file": "widgets\/material-e118.v1.wid",
+      "size": 309656,
+      "sha256": "1920b913d6528b2dc2a9ace11d48b92ff9a5df0cb213d43f2e570df153431cc6",
+      "preview": "previews\/material-e118.v1.light.webp",
+      "preview_light": "previews\/material-e118.v1.light.webp",
+      "preview_dark": "previews\/material-e118.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e117",
+      "title": "E117",
+      "version": 1,
+      "file": "widgets\/material-e117.v1.wid",
+      "size": 228523,
+      "sha256": "a1d5ddb950e5ef39cddcf2bcc9edc59187deb063b51026392ba7a574f8d28f29",
+      "preview": "previews\/material-e117.v1.light.webp",
+      "preview_light": "previews\/material-e117.v1.light.webp",
+      "preview_dark": "previews\/material-e117.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e116",
+      "title": "E116",
+      "version": 1,
+      "file": "widgets\/material-e116.v1.wid",
+      "size": 86294,
+      "sha256": "908e2ae7862194068ef4a91c32e8dffb0577080a28c56673e0f347e764c5f70c",
+      "preview": "previews\/material-e116.v1.light.webp",
+      "preview_light": "previews\/material-e116.v1.light.webp",
+      "preview_dark": "previews\/material-e116.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e115",
+      "title": "E115",
+      "version": 1,
+      "file": "widgets\/material-e115.v1.wid",
+      "size": 86202,
+      "sha256": "342c08fda3a8acd44e9104e31d2ffc2143462a570fe43e2c4318b2563655f189",
+      "preview": "previews\/material-e115.v1.light.webp",
+      "preview_light": "previews\/material-e115.v1.light.webp",
+      "preview_dark": "previews\/material-e115.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e114",
+      "title": "E114",
+      "version": 1,
+      "file": "widgets\/material-e114.v1.wid",
+      "size": 87965,
+      "sha256": "d92aee3ee4086a2262b62a2d8e2dfad7c513595712d9417bf5092396113ccd6a",
+      "preview": "previews\/material-e114.v1.light.webp",
+      "preview_light": "previews\/material-e114.v1.light.webp",
+      "preview_dark": "previews\/material-e114.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e113",
+      "title": "E113",
+      "version": 1,
+      "file": "widgets\/material-e113.v1.wid",
+      "size": 202786,
+      "sha256": "a8c34733d68fbfc02a0d5e27905c75efb0c599b7307f05049dcc81ea59e0f347",
+      "preview": "previews\/material-e113.v1.light.webp",
+      "preview_light": "previews\/material-e113.v1.light.webp",
+      "preview_dark": "previews\/material-e113.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e112",
+      "title": "E112",
+      "version": 1,
+      "file": "widgets\/material-e112.v1.wid",
+      "size": 230448,
+      "sha256": "797c251650853e15393bda529819e94e601d2f121ab0f9c451d519084b49a644",
+      "preview": "previews\/material-e112.v1.light.webp",
+      "preview_light": "previews\/material-e112.v1.light.webp",
+      "preview_dark": "previews\/material-e112.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e111",
+      "title": "E111",
+      "version": 1,
+      "file": "widgets\/material-e111.v1.wid",
+      "size": 176712,
+      "sha256": "5f665cb29eb81e46d02c63eeb3ceebb4e0312ebe51f67d946225dd968ef1e09f",
+      "preview": "previews\/material-e111.v1.light.webp",
+      "preview_light": "previews\/material-e111.v1.light.webp",
+      "preview_dark": "previews\/material-e111.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e110",
+      "title": "E110",
+      "version": 1,
+      "file": "widgets\/material-e110.v1.wid",
+      "size": 59945,
+      "sha256": "aa5ef8492adf2754330164fde2832aa91cfe3cc59fa897049ddb0f3fe305fa99",
+      "preview": "previews\/material-e110.v1.dark.webp",
+      "preview_light": "previews\/material-e110.v1.light.webp",
+      "preview_dark": "previews\/material-e110.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e109",
+      "title": "E109",
+      "version": 1,
+      "file": "widgets\/material-e109.v1.wid",
+      "size": 37119,
+      "sha256": "4cfb896961a3c58b409789d4b1714ea8fb155b6e893cd17d87bebd7b7e42358e",
+      "preview": "previews\/material-e109.v1.light.webp",
+      "preview_light": "previews\/material-e109.v1.light.webp",
+      "preview_dark": "previews\/material-e109.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "clock"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e108",
+      "title": "E108",
+      "version": 1,
+      "file": "widgets\/material-e108.v1.wid",
+      "size": 31488,
+      "sha256": "d7b25f927059e21829f4b0ae945aab89796d5803a1760f685ed7155e8a98bcaf",
+      "preview": "previews\/material-e108.v1.light.webp",
+      "preview_light": "previews\/material-e108.v1.light.webp",
+      "preview_dark": "previews\/material-e108.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e107",
+      "title": "E107",
+      "version": 1,
+      "file": "widgets\/material-e107.v1.wid",
+      "size": 61518,
+      "sha256": "560ab6549daae0ee83212eec861f82ee11b59811dafbb29cfb151b579caf3e8a",
+      "preview": "previews\/material-e107.v1.light.webp",
+      "preview_light": "previews\/material-e107.v1.light.webp",
+      "preview_dark": "previews\/material-e107.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e106",
+      "title": "E106",
+      "version": 1,
+      "file": "widgets\/material-e106.v1.wid",
+      "size": 85649,
+      "sha256": "1316920134f3b1afba52a43f3a1b61aea8ebb0db0c8ee7c119b1360b4fac500f",
+      "preview": "previews\/material-e106.v1.light.webp",
+      "preview_light": "previews\/material-e106.v1.light.webp",
+      "preview_dark": "previews\/material-e106.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "analog",
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e105",
+      "title": "E105",
+      "version": 1,
+      "file": "widgets\/material-e105.v1.wid",
+      "size": 62873,
+      "sha256": "9a7f69543a3adf431fb4ce9d74d6be547975952a6b2e45470ab3a0dc89760b72",
+      "preview": "previews\/material-e105.v1.light.webp",
+      "preview_light": "previews\/material-e105.v1.light.webp",
+      "preview_dark": "previews\/material-e105.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e104",
+      "title": "E104",
+      "version": 1,
+      "file": "widgets\/material-e104.v1.wid",
+      "size": 66563,
+      "sha256": "8396e4c8adee82d96f1d34d0314bfff24f773be3d1270cfa444dc434dd715dcc",
+      "preview": "previews\/material-e104.v1.light.webp",
+      "preview_light": "previews\/material-e104.v1.light.webp",
+      "preview_dark": "previews\/material-e104.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e103",
+      "title": "E103",
+      "version": 1,
+      "file": "widgets\/material-e103.v1.wid",
+      "size": 56363,
+      "sha256": "8ddc2d0dad717d0ffbec43f68f26f85bbbd7721b67c0462ef7e69c552be91050",
+      "preview": "previews\/material-e103.v1.light.webp",
+      "preview_light": "previews\/material-e103.v1.light.webp",
+      "preview_dark": "previews\/material-e103.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e102",
+      "title": "E102",
+      "version": 1,
+      "file": "widgets\/material-e102.v1.wid",
+      "size": 203374,
+      "sha256": "3b53aeb084192ad9fa9ad6ae6b561d9d9406a1cae7a7da14427a7144ca161ad1",
+      "preview": "previews\/material-e102.v1.light.webp",
+      "preview_light": "previews\/material-e102.v1.light.webp",
+      "preview_dark": "previews\/material-e102.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e101",
+      "title": "E101",
+      "version": 1,
+      "file": "widgets\/material-e101.v1.wid",
+      "size": 203647,
+      "sha256": "68de3e53309f85f8d117efe2fd092fc08fcd4d67ce5e552b754f68594c58fef5",
+      "preview": "previews\/material-e101.v1.light.webp",
+      "preview_light": "previews\/material-e101.v1.light.webp",
+      "preview_dark": "previews\/material-e101.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e100",
+      "title": "E100",
+      "version": 1,
+      "file": "widgets\/material-e100.v1.wid",
+      "size": 228891,
+      "sha256": "c848b9eb45ff7acb93102095c5ec0ba5a7d1286c5184e4a85b7f72a6d3e75cb5",
+      "preview": "previews\/material-e100.v1.light.webp",
+      "preview_light": "previews\/material-e100.v1.light.webp",
+      "preview_dark": "previews\/material-e100.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e099",
+      "title": "E099",
+      "version": 1,
+      "file": "widgets\/material-e099.v1.wid",
+      "size": 48632,
+      "sha256": "65a40dd5c1046d0c034660cea9d19bbff3b3caf59c2159b5095b72007851f431",
+      "preview": "previews\/material-e099.v1.dark.webp",
+      "preview_light": "previews\/material-e099.v1.light.webp",
+      "preview_dark": "previews\/material-e099.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e098",
+      "title": "E098",
+      "version": 1,
+      "file": "widgets\/material-e098.v1.wid",
+      "size": 54639,
+      "sha256": "630ea75ce78c521ea07c4c6d8554a383d2f964f0784e0df1340c4c6606325cd9",
+      "preview": "previews\/material-e098.v1.light.webp",
+      "preview_light": "previews\/material-e098.v1.light.webp",
+      "preview_dark": "previews\/material-e098.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e097",
+      "title": "E097",
+      "version": 1,
+      "file": "widgets\/material-e097.v1.wid",
+      "size": 165723,
+      "sha256": "1bc0b5ac151481e5023af3037a71a72b19d8bd783bec06771db697dd38c1f3bf",
+      "preview": "previews\/material-e097.v1.light.webp",
+      "preview_light": "previews\/material-e097.v1.light.webp",
+      "preview_dark": "previews\/material-e097.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "notifications",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e096",
+      "title": "E096",
+      "version": 1,
+      "file": "widgets\/material-e096.v1.wid",
+      "size": 85536,
+      "sha256": "73899b32a70508c78f4f4ee7953c9d078b7361503d62ad6c7e994743afd8454c",
+      "preview": "previews\/material-e096.v1.light.webp",
+      "preview_light": "previews\/material-e096.v1.light.webp",
+      "preview_dark": "previews\/material-e096.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e095",
+      "title": "E095",
+      "version": 1,
+      "file": "widgets\/material-e095.v1.wid",
+      "size": 227160,
+      "sha256": "5276c021fb5534c935ed217e9dccf4b7d817652761905521b50d5ad644bbebb0",
+      "preview": "previews\/material-e095.v1.light.webp",
+      "preview_light": "previews\/material-e095.v1.light.webp",
+      "preview_dark": "previews\/material-e095.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e094",
+      "title": "E094",
+      "version": 1,
+      "file": "widgets\/material-e094.v1.wid",
+      "size": 230081,
+      "sha256": "65920f3ed4eb0dc0d67822a365256911e521b35474b46ec1157eacc30b02270a",
+      "preview": "previews\/material-e094.v1.light.webp",
+      "preview_light": "previews\/material-e094.v1.light.webp",
+      "preview_dark": "previews\/material-e094.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "analog",
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e093",
+      "title": "E093",
+      "version": 1,
+      "file": "widgets\/material-e093.v1.wid",
+      "size": 85993,
+      "sha256": "12dcca6a78ecb67818c7e5b9970ee962bb0f0da9dbece14f3292c79c368df620",
+      "preview": "previews\/material-e093.v1.light.webp",
+      "preview_light": "previews\/material-e093.v1.light.webp",
+      "preview_dark": "previews\/material-e093.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e092",
+      "title": "E092",
+      "version": 1,
+      "file": "widgets\/material-e092.v1.wid",
+      "size": 227586,
+      "sha256": "391b4a0c1c0068f099951cc4ce39e32bd54c519f3744ae57af7943abede751ba",
+      "preview": "previews\/material-e092.v1.light.webp",
+      "preview_light": "previews\/material-e092.v1.light.webp",
+      "preview_dark": "previews\/material-e092.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e091",
+      "title": "E091",
+      "version": 1,
+      "file": "widgets\/material-e091.v1.wid",
+      "size": 85646,
+      "sha256": "ad941cf0a445beaf1173b19f1e89e20f31524a68ebe320ea3682951f6f2df301",
+      "preview": "previews\/material-e091.v1.light.webp",
+      "preview_light": "previews\/material-e091.v1.light.webp",
+      "preview_dark": "previews\/material-e091.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e090",
+      "title": "E090",
+      "version": 1,
+      "file": "widgets\/material-e090.v1.wid",
+      "size": 56438,
+      "sha256": "c147e575fa5d594b4860f63f477b1706b3f6657afc4c42e834e2477df1821197",
+      "preview": "previews\/material-e090.v1.light.webp",
+      "preview_light": "previews\/material-e090.v1.light.webp",
+      "preview_dark": "previews\/material-e090.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e089",
+      "title": "E089",
+      "version": 1,
+      "file": "widgets\/material-e089.v1.wid",
+      "size": 197078,
+      "sha256": "e0d30ccf360bf35b794d54ef748a6476bca7407bc1230bcec9f37b2c1e5513de",
+      "preview": "previews\/material-e089.v1.light.webp",
+      "preview_light": "previews\/material-e089.v1.light.webp",
+      "preview_dark": "previews\/material-e089.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e088",
+      "title": "E088",
+      "version": 1,
+      "file": "widgets\/material-e088.v1.wid",
+      "size": 196898,
+      "sha256": "bdcde0d9b19747332fae06f907d883d5d2c965fb21b696c304263c325976b36c",
+      "preview": "previews\/material-e088.v1.dark.webp",
+      "preview_light": "previews\/material-e088.v1.light.webp",
+      "preview_dark": "previews\/material-e088.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e087",
+      "title": "E087",
+      "version": 1,
+      "file": "widgets\/material-e087.v1.wid",
+      "size": 197331,
+      "sha256": "213ccbc0aa5816df29b3c82654b6c696528c28be9ef9002db5457dd64f862fac",
+      "preview": "previews\/material-e087.v1.light.webp",
+      "preview_light": "previews\/material-e087.v1.light.webp",
+      "preview_dark": "previews\/material-e087.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e086",
+      "title": "E086",
+      "version": 1,
+      "file": "widgets\/material-e086.v1.wid",
+      "size": 227917,
+      "sha256": "1914eb75b247bf190f7a04b926b93dbf7ceac4f8ea78af7628807ff199075894",
+      "preview": "previews\/material-e086.v1.light.webp",
+      "preview_light": "previews\/material-e086.v1.light.webp",
+      "preview_dark": "previews\/material-e086.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e085",
+      "title": "E085",
+      "version": 1,
+      "file": "widgets\/material-e085.v1.wid",
+      "size": 227131,
+      "sha256": "faa2b8057c23d343e8287e4eab61b1929cb7eee133208750bea86457fbaae815",
+      "preview": "previews\/material-e085.v1.dark.webp",
+      "preview_light": "previews\/material-e085.v1.light.webp",
+      "preview_dark": "previews\/material-e085.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e084",
+      "title": "E084",
+      "version": 1,
+      "file": "widgets\/material-e084.v1.wid",
+      "size": 56176,
+      "sha256": "0c85742202ab67378ad91ec39db19a0f2e16616b737073f7a6dee2d0a0647bac",
+      "preview": "previews\/material-e084.v1.light.webp",
+      "preview_light": "previews\/material-e084.v1.light.webp",
+      "preview_dark": "previews\/material-e084.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e083",
+      "title": "E083",
+      "version": 1,
+      "file": "widgets\/material-e083.v1.wid",
+      "size": 86743,
+      "sha256": "517b32916f75137840899962bfceaa940cf98d485520b9fe7eec1be621a163cd",
+      "preview": "previews\/material-e083.v1.light.webp",
+      "preview_light": "previews\/material-e083.v1.light.webp",
+      "preview_dark": "previews\/material-e083.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e082",
+      "title": "E082",
+      "version": 1,
+      "file": "widgets\/material-e082.v1.wid",
+      "size": 190661,
+      "sha256": "2c1003336e58aeba9c87f4941a56a7e3b675928d5186ce1ea7dfde6d6f76b9fe",
+      "preview": "previews\/material-e082.v1.dark.webp",
+      "preview_light": "previews\/material-e082.v1.light.webp",
+      "preview_dark": "previews\/material-e082.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e081",
+      "title": "E081",
+      "version": 1,
+      "file": "widgets\/material-e081.v1.wid",
+      "size": 197097,
+      "sha256": "ffbbb1d9c0e13e757a187ff0989f8e6a76d66475a9a9af7b76642643c1431bbc",
+      "preview": "previews\/material-e081.v1.light.webp",
+      "preview_light": "previews\/material-e081.v1.light.webp",
+      "preview_dark": "previews\/material-e081.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e080",
+      "title": "E080",
+      "version": 1,
+      "file": "widgets\/material-e080.v1.wid",
+      "size": 134523,
+      "sha256": "df2726ba82bfa27000f1886cac9709688c9256775d49cc56cbfb8b72a96cc9ae",
+      "preview": "previews\/material-e080.v1.light.webp",
+      "preview_light": "previews\/material-e080.v1.light.webp",
+      "preview_dark": "previews\/material-e080.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e079",
+      "title": "E079",
+      "version": 1,
+      "file": "widgets\/material-e079.v1.wid",
+      "size": 229137,
+      "sha256": "cbf56d8cc3f72d553fe0f9d9afdc8bff3036adaf5bc0d03984e66b67b4c73683",
+      "preview": "previews\/material-e079.v1.light.webp",
+      "preview_light": "previews\/material-e079.v1.light.webp",
+      "preview_dark": "previews\/material-e079.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e078",
+      "title": "E078",
+      "version": 1,
+      "file": "widgets\/material-e078.v1.wid",
+      "size": 307239,
+      "sha256": "0c185799ea4a8c189b32c10466823edeb1af75d1b44e764712c5193833ea5db1",
+      "preview": "previews\/material-e078.v1.light.webp",
+      "preview_light": "previews\/material-e078.v1.light.webp",
+      "preview_dark": "previews\/material-e078.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e077",
+      "title": "E077",
+      "version": 1,
+      "file": "widgets\/material-e077.v1.wid",
+      "size": 198485,
+      "sha256": "e78955744e1dce4d06be5147e29ee34d6654437e50be319e392f0a8c1ddd18c8",
+      "preview": "previews\/material-e077.v1.light.webp",
+      "preview_light": "previews\/material-e077.v1.light.webp",
+      "preview_dark": "previews\/material-e077.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e076",
+      "title": "E076",
+      "version": 1,
+      "file": "widgets\/material-e076.v1.wid",
+      "size": 196857,
+      "sha256": "d0323518e1a47cff3eb59493de3eb2d06d19bdfe1fdfdffb8bcd1d5bb8df2c76",
+      "preview": "previews\/material-e076.v1.light.webp",
+      "preview_light": "previews\/material-e076.v1.light.webp",
+      "preview_dark": "previews\/material-e076.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e075",
+      "title": "E075",
+      "version": 1,
+      "file": "widgets\/material-e075.v1.wid",
+      "size": 87865,
+      "sha256": "cff835b1ab2b4ceb5a87464cb5c90eb99076c0817f0140e2b9a2d2a9bb61d59f",
+      "preview": "previews\/material-e075.v1.light.webp",
+      "preview_light": "previews\/material-e075.v1.light.webp",
+      "preview_dark": "previews\/material-e075.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e074",
+      "title": "E074",
+      "version": 1,
+      "file": "widgets\/material-e074.v1.wid",
+      "size": 31534,
+      "sha256": "ebe1ec2b83dc9f212de663615b6e5cca14a4fc6aee9d7f496caf42e161b636f9",
+      "preview": "previews\/material-e074.v1.light.webp",
+      "preview_light": "previews\/material-e074.v1.light.webp",
+      "preview_dark": "previews\/material-e074.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "battery",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e073",
+      "title": "E073",
+      "version": 1,
+      "file": "widgets\/material-e073.v1.wid",
+      "size": 79459,
+      "sha256": "35eeb9c1e28c24e44e8c172e6b851778a3410717b2e68b29ca97b2fba4aa2bef",
+      "preview": "previews\/material-e073.v1.dark.webp",
+      "preview_light": "previews\/material-e073.v1.light.webp",
+      "preview_dark": "previews\/material-e073.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e072",
+      "title": "E072",
+      "version": 1,
+      "file": "widgets\/material-e072.v1.wid",
+      "size": 194972,
+      "sha256": "a88ac5f5119fb599392001812f2cfbad6f3df304c932bc582286a78716cffafe",
+      "preview": "previews\/material-e072.v1.dark.webp",
+      "preview_light": "previews\/material-e072.v1.light.webp",
+      "preview_dark": "previews\/material-e072.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e071",
+      "title": "E071",
+      "version": 1,
+      "file": "widgets\/material-e071.v1.wid",
+      "size": 55491,
+      "sha256": "722e8a7eb68319f3a0f72f1f7b9d522c4cf843ee1d656a25047226c74a83c4dd",
+      "preview": "previews\/material-e071.v1.light.webp",
+      "preview_light": "previews\/material-e071.v1.light.webp",
+      "preview_dark": "previews\/material-e071.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e070",
+      "title": "E070",
+      "version": 1,
+      "file": "widgets\/material-e070.v1.wid",
+      "size": 228987,
+      "sha256": "4a914262c19000b18d4417a8ec8decf3531fe468380ef355b3201e3d6f9ec7fd",
+      "preview": "previews\/material-e070.v1.light.webp",
+      "preview_light": "previews\/material-e070.v1.light.webp",
+      "preview_dark": "previews\/material-e070.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e069",
+      "title": "E069",
+      "version": 1,
+      "file": "widgets\/material-e069.v1.wid",
+      "size": 229695,
+      "sha256": "bb1974fcdf0b950a30a599c55b88f5ea8376be5b53cfa28789faecc658f114b0",
+      "preview": "previews\/material-e069.v1.light.webp",
+      "preview_light": "previews\/material-e069.v1.light.webp",
+      "preview_dark": "previews\/material-e069.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE",
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e068",
+      "title": "E068",
+      "version": 1,
+      "file": "widgets\/material-e068.v1.wid",
+      "size": 229165,
+      "sha256": "89eb9930c1c29e7474b2c1500faf2ea84cfce4c210cf099b16a27be991a78385",
+      "preview": "previews\/material-e068.v1.light.webp",
+      "preview_light": "previews\/material-e068.v1.light.webp",
+      "preview_dark": "previews\/material-e068.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e067",
+      "title": "E067",
+      "version": 1,
+      "file": "widgets\/material-e067.v1.wid",
+      "size": 63134,
+      "sha256": "146fdbba9fd152a1565f8d67e59812b582325a4917abb14348ebdcb3bfffb325",
+      "preview": "previews\/material-e067.v1.dark.webp",
+      "preview_light": "previews\/material-e067.v1.light.webp",
+      "preview_dark": "previews\/material-e067.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e066",
+      "title": "E066",
+      "version": 1,
+      "file": "widgets\/material-e066.v1.wid",
+      "size": 203029,
+      "sha256": "dcd00fd85dca4340b75d5f8458db879a580a771d310adf14a9a05885ec858946",
+      "preview": "previews\/material-e066.v1.light.webp",
+      "preview_light": "previews\/material-e066.v1.light.webp",
+      "preview_dark": "previews\/material-e066.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e065",
+      "title": "E065",
+      "version": 1,
+      "file": "widgets\/material-e065.v1.wid",
+      "size": 87080,
+      "sha256": "a18c4606421706992b695a770d4d29bb401f5afd0dc82513ebcf52024faab20e",
+      "preview": "previews\/material-e065.v1.light.webp",
+      "preview_light": "previews\/material-e065.v1.light.webp",
+      "preview_dark": "previews\/material-e065.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e064",
+      "title": "E064",
+      "version": 1,
+      "file": "widgets\/material-e064.v1.wid",
+      "size": 196495,
+      "sha256": "9c532a92e1f99e0ad3e0f67dd5b0ef89c0fd3dca759b70a7c6c7e7122a0c1cbb",
+      "preview": "previews\/material-e064.v1.light.webp",
+      "preview_light": "previews\/material-e064.v1.light.webp",
+      "preview_dark": "previews\/material-e064.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e063",
+      "title": "E063",
+      "version": 1,
+      "file": "widgets\/material-e063.v1.wid",
+      "size": 196937,
+      "sha256": "4b6df18718ed2355899c879be4a7364d791ce18be484e3d6edc331b0382eb7ab",
+      "preview": "previews\/material-e063.v1.light.webp",
+      "preview_light": "previews\/material-e063.v1.light.webp",
+      "preview_dark": "previews\/material-e063.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e062",
+      "title": "E062",
+      "version": 1,
+      "file": "widgets\/material-e062.v1.wid",
+      "size": 234252,
+      "sha256": "0332801601d94948335a54ccf18e4167ab1b40a70f3e369575c5731891539ad9",
+      "preview": "previews\/material-e062.v1.dark.webp",
+      "preview_light": "previews\/material-e062.v1.light.webp",
+      "preview_dark": "previews\/material-e062.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e061",
+      "title": "E061",
+      "version": 1,
+      "file": "widgets\/material-e061.v1.wid",
+      "size": 85647,
+      "sha256": "5144a445300c0804c94fde215fa1710800abdeb65982b24b75ee3acfc811115f",
+      "preview": "previews\/material-e061.v1.light.webp",
+      "preview_light": "previews\/material-e061.v1.light.webp",
+      "preview_dark": "previews\/material-e061.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e060",
+      "title": "E060",
+      "version": 1,
+      "file": "widgets\/material-e060.v1.wid",
+      "size": 227145,
+      "sha256": "81d3c746afbd3d9375578978683add1fab80040387d1557635f72a326aa39d08",
+      "preview": "previews\/material-e060.v1.light.webp",
+      "preview_light": "previews\/material-e060.v1.light.webp",
+      "preview_dark": "previews\/material-e060.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e059",
+      "title": "E059",
+      "version": 1,
+      "file": "widgets\/material-e059.v1.wid",
+      "size": 98941,
+      "sha256": "5b719a621ab38cc28c48b1ec8defc2bffb98233ff24e093de85434c75e725998",
+      "preview": "previews\/material-e059.v1.light.webp",
+      "preview_light": "previews\/material-e059.v1.light.webp",
+      "preview_dark": "previews\/material-e059.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e058",
+      "title": "E058",
+      "version": 1,
+      "file": "widgets\/material-e058.v1.wid",
+      "size": 86930,
+      "sha256": "2d16aa3622289e5a032a86ac1da7b8670fb25df661611d3c23479a2ce42c9d43",
+      "preview": "previews\/material-e058.v1.light.webp",
+      "preview_light": "previews\/material-e058.v1.light.webp",
+      "preview_dark": "previews\/material-e058.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e057",
+      "title": "E057",
+      "version": 1,
+      "file": "widgets\/material-e057.v1.wid",
+      "size": 229486,
+      "sha256": "2122c63f0afe15589d5bb84bcac2e348defccf071e74f9d2e57af4e40f82747d",
+      "preview": "previews\/material-e057.v1.light.webp",
+      "preview_light": "previews\/material-e057.v1.light.webp",
+      "preview_dark": "previews\/material-e057.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e056",
+      "title": "E056",
+      "version": 1,
+      "file": "widgets\/material-e056.v1.wid",
+      "size": 228077,
+      "sha256": "8a8b4af747905ee3dcc90626bf1fd8c4955d0b999a150b8c16bbfd57d3a6c4eb",
+      "preview": "previews\/material-e056.v1.light.webp",
+      "preview_light": "previews\/material-e056.v1.light.webp",
+      "preview_dark": "previews\/material-e056.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e055",
+      "title": "E055",
+      "version": 1,
+      "file": "widgets\/material-e055.v1.wid",
+      "size": 57775,
+      "sha256": "c7bd0583f21e9d5b6e7f40fbdfe2aad66dd88968ec712131866c49910c15d80a",
+      "preview": "previews\/material-e055.v1.light.webp",
+      "preview_light": "previews\/material-e055.v1.light.webp",
+      "preview_dark": "previews\/material-e055.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e054",
+      "title": "E054",
+      "version": 1,
+      "file": "widgets\/material-e054.v1.wid",
+      "size": 227419,
+      "sha256": "55457bda3728b7e1eaffe5435b0ada3875f5fa8e0c7b5ba54cabf3b99c3aba21",
+      "preview": "previews\/material-e054.v1.dark.webp",
+      "preview_light": "previews\/material-e054.v1.light.webp",
+      "preview_dark": "previews\/material-e054.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e053",
+      "title": "E053",
+      "version": 1,
+      "file": "widgets\/material-e053.v1.wid",
+      "size": 228478,
+      "sha256": "60d5d2dec887af307f5f99fdf1c860b9d313d6fcfc30e9fd928778dcf5750734",
+      "preview": "previews\/material-e053.v1.light.webp",
+      "preview_light": "previews\/material-e053.v1.light.webp",
+      "preview_dark": "previews\/material-e053.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e052",
+      "title": "E052",
+      "version": 1,
+      "file": "widgets\/material-e052.v1.wid",
+      "size": 51075,
+      "sha256": "2df4313027c923ef032c6f9d6b048caa9cef5481e4c8928f241552283f29b701",
+      "preview": "previews\/material-e052.v1.dark.webp",
+      "preview_light": "previews\/material-e052.v1.light.webp",
+      "preview_dark": "previews\/material-e052.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e051",
+      "title": "E051",
+      "version": 1,
+      "file": "widgets\/material-e051.v1.wid",
+      "size": 87836,
+      "sha256": "01cafbe287462ee1ac418c120f183a30a5b38b514f959fe97bd6b1b7e830de65",
+      "preview": "previews\/material-e051.v1.light.webp",
+      "preview_light": "previews\/material-e051.v1.light.webp",
+      "preview_dark": "previews\/material-e051.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e050",
+      "title": "E050",
+      "version": 1,
+      "file": "widgets\/material-e050.v1.wid",
+      "size": 227723,
+      "sha256": "97fb112fd49d399a902ea5cc983474d5d551a0cd8978265114f4ac98ca3141fc",
+      "preview": "previews\/material-e050.v1.light.webp",
+      "preview_light": "previews\/material-e050.v1.light.webp",
+      "preview_dark": "previews\/material-e050.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e049",
+      "title": "E049",
+      "version": 1,
+      "file": "widgets\/material-e049.v1.wid",
+      "size": 196521,
+      "sha256": "5759b04daa2067ee828f71a4b04c8db61f193d2586ffc522df75ac0184f3c799",
+      "preview": "previews\/material-e049.v1.light.webp",
+      "preview_light": "previews\/material-e049.v1.light.webp",
+      "preview_dark": "previews\/material-e049.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e048",
+      "title": "E048",
+      "version": 1,
+      "file": "widgets\/material-e048.v1.wid",
+      "size": 201350,
+      "sha256": "317265185a6be373290049fc20870808ee2d5052820165f65c9c483959900170",
+      "preview": "previews\/material-e048.v1.light.webp",
+      "preview_light": "previews\/material-e048.v1.light.webp",
+      "preview_dark": "previews\/material-e048.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e047",
+      "title": "E047",
+      "version": 1,
+      "file": "widgets\/material-e047.v1.wid",
+      "size": 88660,
+      "sha256": "fba48f93c486cdcb0fe098e626a8d1917064cb060e050a265288e94cc6d5749e",
+      "preview": "previews\/material-e047.v1.light.webp",
+      "preview_light": "previews\/material-e047.v1.light.webp",
+      "preview_dark": "previews\/material-e047.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e046",
+      "title": "E046",
+      "version": 1,
+      "file": "widgets\/material-e046.v1.wid",
+      "size": 85414,
+      "sha256": "78bebbec1b1e94a1fe306245132fef227c4d21c23f64d103b255f23083b78b1c",
+      "preview": "previews\/material-e046.v1.light.webp",
+      "preview_light": "previews\/material-e046.v1.light.webp",
+      "preview_dark": "previews\/material-e046.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e045",
+      "title": "E045",
+      "version": 1,
+      "file": "widgets\/material-e045.v1.wid",
+      "size": 229621,
+      "sha256": "b4ed993847e46d9d6fb956f70758c218ea0f255f367f5a28672da4da70c4025d",
+      "preview": "previews\/material-e045.v1.light.webp",
+      "preview_light": "previews\/material-e045.v1.light.webp",
+      "preview_dark": "previews\/material-e045.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e044",
+      "title": "E044",
+      "version": 1,
+      "file": "widgets\/material-e044.v1.wid",
+      "size": 229223,
+      "sha256": "b800ed665d4424574087d419c2041cc8fe3ba0e00fd5acf9fa34b557f1bf3e54",
+      "preview": "previews\/material-e044.v1.dark.webp",
+      "preview_light": "previews\/material-e044.v1.light.webp",
+      "preview_dark": "previews\/material-e044.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e043",
+      "title": "E043",
+      "version": 1,
+      "file": "widgets\/material-e043.v1.wid",
+      "size": 228362,
+      "sha256": "b89aac3e19606842426f63c1f230460f502a8d61db82d353f334b899c9ec25e0",
+      "preview": "previews\/material-e043.v1.light.webp",
+      "preview_light": "previews\/material-e043.v1.light.webp",
+      "preview_dark": "previews\/material-e043.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock"
+      ],
+      "permissions": [
+        "BLUETOOTH_CONNECT"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e042",
+      "title": "E042",
+      "version": 1,
+      "file": "widgets\/material-e042.v1.wid",
+      "size": 199976,
+      "sha256": "a97ea434611443f76c856a1ba78a6c01ef60a739d11ae1f28e82e94dc05f70e7",
+      "preview": "previews\/material-e042.v1.dark.webp",
+      "preview_light": "previews\/material-e042.v1.light.webp",
+      "preview_dark": "previews\/material-e042.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e041",
+      "title": "E041",
+      "version": 1,
+      "file": "widgets\/material-e041.v1.wid",
+      "size": 87158,
+      "sha256": "e2d37dbd4c1ca78a9d12b91125cabe2a25ed9714aa1a6259c3b6ef296ca7b7d8",
+      "preview": "previews\/material-e041.v1.light.webp",
+      "preview_light": "previews\/material-e041.v1.light.webp",
+      "preview_dark": "previews\/material-e041.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e040",
+      "title": "E040",
+      "version": 1,
+      "file": "widgets\/material-e040.v1.wid",
+      "size": 85803,
+      "sha256": "e0a1a016c625e1af6f15cccd48662140a2ae25e86354f86c34366aecac0b2cd1",
+      "preview": "previews\/material-e040.v1.light.webp",
+      "preview_light": "previews\/material-e040.v1.light.webp",
+      "preview_dark": "previews\/material-e040.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e039",
+      "title": "E039",
+      "version": 1,
+      "file": "widgets\/material-e039.v1.wid",
+      "size": 228230,
+      "sha256": "dedf33d69f8d4163784441dc00d16deed78b8ddd545f731813dbec179fa77bbc",
+      "preview": "previews\/material-e039.v1.dark.webp",
+      "preview_light": "previews\/material-e039.v1.light.webp",
+      "preview_dark": "previews\/material-e039.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e038",
+      "title": "E038",
+      "version": 1,
+      "file": "widgets\/material-e038.v1.wid",
+      "size": 230018,
+      "sha256": "6b0cc173b3241eece96c4129127347f86960a2b0b1665deb48033f64a8516e5a",
+      "preview": "previews\/material-e038.v1.light.webp",
+      "preview_light": "previews\/material-e038.v1.light.webp",
+      "preview_dark": "previews\/material-e038.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e037",
+      "title": "E037",
+      "version": 1,
+      "file": "widgets\/material-e037.v1.wid",
+      "size": 64731,
+      "sha256": "d48f7cf0aed0e983396db271ca11a5431baaf3d85c48f98ece43c1c14beba17c",
+      "preview": "previews\/material-e037.v1.light.webp",
+      "preview_light": "previews\/material-e037.v1.light.webp",
+      "preview_dark": "previews\/material-e037.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e036",
+      "title": "E036",
+      "version": 1,
+      "file": "widgets\/material-e036.v1.wid",
+      "size": 86531,
+      "sha256": "4704acc88dec6ae367e9f7defb8d1c967c5e1cb2e72edaef222e028a681bdaf2",
+      "preview": "previews\/material-e036.v1.light.webp",
+      "preview_light": "previews\/material-e036.v1.light.webp",
+      "preview_dark": "previews\/material-e036.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e035",
+      "title": "E035",
+      "version": 1,
+      "file": "widgets\/material-e035.v1.wid",
+      "size": 228902,
+      "sha256": "44fb23d3193df1c7afa047abed6b89b3d1ba85da6d78fef484c2be83ab1b94e6",
+      "preview": "previews\/material-e035.v1.light.webp",
+      "preview_light": "previews\/material-e035.v1.light.webp",
+      "preview_dark": "previews\/material-e035.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e034",
+      "title": "E034",
+      "version": 1,
+      "file": "widgets\/material-e034.v1.wid",
+      "size": 227251,
+      "sha256": "a376e3d120c5af7f25caa06e1a08f9a20bf4e70f1ce6a4172a3ecd1e85607d69",
+      "preview": "previews\/material-e034.v1.light.webp",
+      "preview_light": "previews\/material-e034.v1.light.webp",
+      "preview_dark": "previews\/material-e034.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e033",
+      "title": "E033",
+      "version": 1,
+      "file": "widgets\/material-e033.v1.wid",
+      "size": 58818,
+      "sha256": "0a2073bb3e6214768ccf34a266044b4e285a288eb4784e238e13854e78e21915",
+      "preview": "previews\/material-e033.v1.dark.webp",
+      "preview_light": "previews\/material-e033.v1.light.webp",
+      "preview_dark": "previews\/material-e033.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e032",
+      "title": "E032",
+      "version": 1,
+      "file": "widgets\/material-e032.v1.wid",
+      "size": 202068,
+      "sha256": "65451b9b54b23a6124896353acd237e3f71a9b951817ea2fae277ffc49c93e91",
+      "preview": "previews\/material-e032.v1.dark.webp",
+      "preview_light": "previews\/material-e032.v1.light.webp",
+      "preview_dark": "previews\/material-e032.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e031",
+      "title": "E031",
+      "version": 1,
+      "file": "widgets\/material-e031.v1.wid",
+      "size": 228242,
+      "sha256": "3eb16545b826d0f7c289f3cdf4ee4a313894bf21d0ca76d7073b64d698754544",
+      "preview": "previews\/material-e031.v1.light.webp",
+      "preview_light": "previews\/material-e031.v1.light.webp",
+      "preview_dark": "previews\/material-e031.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e030",
+      "title": "E030",
+      "version": 1,
+      "file": "widgets\/material-e030.v1.wid",
+      "size": 227781,
+      "sha256": "b09a5ffccfa08fe11bbe3e808205fca54813b3d3c99a842e69f3e2a345bffa5d",
+      "preview": "previews\/material-e030.v1.light.webp",
+      "preview_light": "previews\/material-e030.v1.light.webp",
+      "preview_dark": "previews\/material-e030.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e029",
+      "title": "E029",
+      "version": 1,
+      "file": "widgets\/material-e029.v1.wid",
+      "size": 228539,
+      "sha256": "a58a15218675d23d0cf3add845e5fc2765a1b8270ad8529fbd36c0478e3d9632",
+      "preview": "previews\/material-e029.v1.light.webp",
+      "preview_light": "previews\/material-e029.v1.light.webp",
+      "preview_dark": "previews\/material-e029.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e028",
+      "title": "E028",
+      "version": 1,
+      "file": "widgets\/material-e028.v1.wid",
+      "size": 87486,
+      "sha256": "b95d459b2ce25ed6e71cda14b852b5f3aee66d04dd5952e6dced96055044a20d",
+      "preview": "previews\/material-e028.v1.light.webp",
+      "preview_light": "previews\/material-e028.v1.light.webp",
+      "preview_dark": "previews\/material-e028.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e027",
+      "title": "E027",
+      "version": 1,
+      "file": "widgets\/material-e027.v1.wid",
+      "size": 228056,
+      "sha256": "225b1230656703a87ac84da55e161c806aea772260ff2a680707e8aa0f824932",
+      "preview": "previews\/material-e027.v1.light.webp",
+      "preview_light": "previews\/material-e027.v1.light.webp",
+      "preview_dark": "previews\/material-e027.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e026",
+      "title": "E026",
+      "version": 1,
+      "file": "widgets\/material-e026.v1.wid",
+      "size": 232436,
+      "sha256": "b9a6d218f7ff2b441cb7769237278dbdfff36696dc32569591a9fbe7b78c49a8",
+      "preview": "previews\/material-e026.v1.light.webp",
+      "preview_light": "previews\/material-e026.v1.light.webp",
+      "preview_dark": "previews\/material-e026.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e025",
+      "title": "E025",
+      "version": 1,
+      "file": "widgets\/material-e025.v1.wid",
+      "size": 228894,
+      "sha256": "e522503018e9055b19e981ac89ed85feec81b699bb93024d1f0a6c5a81fa7b47",
+      "preview": "previews\/material-e025.v1.light.webp",
+      "preview_light": "previews\/material-e025.v1.light.webp",
+      "preview_dark": "previews\/material-e025.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e024",
+      "title": "E024",
+      "version": 1,
+      "file": "widgets\/material-e024.v1.wid",
+      "size": 200000,
+      "sha256": "f130a7604f3e42aee74b723542689a6359997f5c7ba6231b1700ae2a90872690",
+      "preview": "previews\/material-e024.v1.light.webp",
+      "preview_light": "previews\/material-e024.v1.light.webp",
+      "preview_dark": "previews\/material-e024.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e023",
+      "title": "E023",
+      "version": 1,
+      "file": "widgets\/material-e023.v1.wid",
+      "size": 232444,
+      "sha256": "8bba65a61593d270c2268eb1ee85961fd72670b1bab85ce49ab4022c881aeb01",
+      "preview": "previews\/material-e023.v1.light.webp",
+      "preview_light": "previews\/material-e023.v1.light.webp",
+      "preview_dark": "previews\/material-e023.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock"
+      ],
+      "permissions": [
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e022",
+      "title": "E022",
+      "version": 1,
+      "file": "widgets\/material-e022.v1.wid",
+      "size": 88594,
+      "sha256": "e0e5dd137a3ba7c9c65266fe3bb122778ebece8faf8548dcb0074ad70cdd2143",
+      "preview": "previews\/material-e022.v1.light.webp",
+      "preview_light": "previews\/material-e022.v1.light.webp",
+      "preview_dark": "previews\/material-e022.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e021",
+      "title": "E021",
+      "version": 1,
+      "file": "widgets\/material-e021.v1.wid",
+      "size": 230013,
+      "sha256": "372650dcab379f38c266ad69313577732934e2c5d8ecb66a5b7115bb75c2f65c",
+      "preview": "previews\/material-e021.v1.light.webp",
+      "preview_light": "previews\/material-e021.v1.light.webp",
+      "preview_dark": "previews\/material-e021.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e020",
+      "title": "E020",
+      "version": 1,
+      "file": "widgets\/material-e020.v1.wid",
+      "size": 62346,
+      "sha256": "411360cd1a5e397db04ec8db216a1c312f73fe4711aaa7c77336bef0b49b1c4a",
+      "preview": "previews\/material-e020.v1.dark.webp",
+      "preview_light": "previews\/material-e020.v1.light.webp",
+      "preview_dark": "previews\/material-e020.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e019",
+      "title": "E019",
+      "version": 1,
+      "file": "widgets\/material-e019.v1.wid",
+      "size": 202008,
+      "sha256": "24f62e15c037eb75e49681c7fb773ed6164623b21b84d55b68fea2ce603f36d0",
+      "preview": "previews\/material-e019.v1.light.webp",
+      "preview_light": "previews\/material-e019.v1.light.webp",
+      "preview_dark": "previews\/material-e019.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e018",
+      "title": "E018",
+      "version": 1,
+      "file": "widgets\/material-e018.v1.wid",
+      "size": 88250,
+      "sha256": "4114b25051ab5f9f2c8503dd03aef098d96455cd45e737aa960ddb9b4bc2f875",
+      "preview": "previews\/material-e018.v1.light.webp",
+      "preview_light": "previews\/material-e018.v1.light.webp",
+      "preview_dark": "previews\/material-e018.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e017",
+      "title": "E017",
+      "version": 1,
+      "file": "widgets\/material-e017.v1.wid",
+      "size": 205209,
+      "sha256": "2b12018cbad592625109f71541218733af6babc85e86a7da6a8cbee0888bd33c",
+      "preview": "previews\/material-e017.v1.light.webp",
+      "preview_light": "previews\/material-e017.v1.light.webp",
+      "preview_dark": "previews\/material-e017.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "battery",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e016",
+      "title": "E016",
+      "version": 1,
+      "file": "widgets\/material-e016.v1.wid",
+      "size": 231691,
+      "sha256": "9e0767e37810114d2731329f0c90a7481732d9e80d4c5d5a50026de43833888c",
+      "preview": "previews\/material-e016.v1.light.webp",
+      "preview_light": "previews\/material-e016.v1.light.webp",
+      "preview_dark": "previews\/material-e016.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e015",
+      "title": "E015",
+      "version": 1,
+      "file": "widgets\/material-e015.v1.wid",
+      "size": 198494,
+      "sha256": "eed791cc2f76fc7019d503ea3e40b614a6a841b0f65b820c3c7f03aa0922a4db",
+      "preview": "previews\/material-e015.v1.light.webp",
+      "preview_light": "previews\/material-e015.v1.light.webp",
+      "preview_dark": "previews\/material-e015.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e014",
+      "title": "E014",
+      "version": 1,
+      "file": "widgets\/material-e014.v1.wid",
+      "size": 202938,
+      "sha256": "63db15351942ac84f2ea06bc1c8a304d183d03fb0cd0e56fbc74c55d5189b927",
+      "preview": "previews\/material-e014.v1.light.webp",
+      "preview_light": "previews\/material-e014.v1.light.webp",
+      "preview_dark": "previews\/material-e014.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e013",
+      "title": "E013",
+      "version": 1,
+      "file": "widgets\/material-e013.v1.wid",
+      "size": 229093,
+      "sha256": "db739d14fb3fe53f7c0d5460eed3d03ee64130d9d69ac67f330cd24fdc22b92d",
+      "preview": "previews\/material-e013.v1.light.webp",
+      "preview_light": "previews\/material-e013.v1.light.webp",
+      "preview_dark": "previews\/material-e013.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e012",
+      "title": "E012",
+      "version": 1,
+      "file": "widgets\/material-e012.v1.wid",
+      "size": 227223,
+      "sha256": "6d9415c716f8caf79fd881a51116f94e2f0514bfd464768f9722c772409012e9",
+      "preview": "previews\/material-e012.v1.light.webp",
+      "preview_light": "previews\/material-e012.v1.light.webp",
+      "preview_dark": "previews\/material-e012.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e011",
+      "title": "E011",
+      "version": 1,
+      "file": "widgets\/material-e011.v1.wid",
+      "size": 61959,
+      "sha256": "428c5e6d4db94b15d8db06e54c58924baa5f0bed4ab1d0237ee2f0ae0a952ddb",
+      "preview": "previews\/material-e011.v1.light.webp",
+      "preview_light": "previews\/material-e011.v1.light.webp",
+      "preview_dark": "previews\/material-e011.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e010",
+      "title": "E010",
+      "version": 1,
+      "file": "widgets\/material-e010.v1.wid",
+      "size": 202406,
+      "sha256": "4a8e33b254be73f9c3135312c1d65625b3d7dfceeaf79365d44993fe0f74f0b2",
+      "preview": "previews\/material-e010.v1.light.webp",
+      "preview_light": "previews\/material-e010.v1.light.webp",
+      "preview_dark": "previews\/material-e010.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e009",
+      "title": "E009",
+      "version": 1,
+      "file": "widgets\/material-e009.v1.wid",
+      "size": 87251,
+      "sha256": "5aec2ec562b02da96ab25f0d47c6c6d0f7ffdeae0c4acd58cec35012f20cd71b",
+      "preview": "previews\/material-e009.v1.light.webp",
+      "preview_light": "previews\/material-e009.v1.light.webp",
+      "preview_dark": "previews\/material-e009.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e008",
+      "title": "E008",
+      "version": 1,
+      "file": "widgets\/material-e008.v1.wid",
+      "size": 55775,
+      "sha256": "4e708a1a8503180ab9b4d6c52ef82d98616b8f02c70fe01c465921eb43ab65b9",
+      "preview": "previews\/material-e008.v1.light.webp",
+      "preview_light": "previews\/material-e008.v1.light.webp",
+      "preview_dark": "previews\/material-e008.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e007",
+      "title": "E007",
+      "version": 1,
+      "file": "widgets\/material-e007.v1.wid",
+      "size": 60422,
+      "sha256": "4e9ec5ea36abcc2f399b3da4440d221d20d9cf4806abcbc095b2d10debdd6fec",
+      "preview": "previews\/material-e007.v1.light.webp",
+      "preview_light": "previews\/material-e007.v1.light.webp",
+      "preview_dark": "previews\/material-e007.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e006",
+      "title": "E006",
+      "version": 1,
+      "file": "widgets\/material-e006.v1.wid",
+      "size": 229658,
+      "sha256": "4c5b2e5b5d5891104621c72ac43cdc162c58ebb1fdeb35e94ecab9c1bed9284b",
+      "preview": "previews\/material-e006.v1.light.webp",
+      "preview_light": "previews\/material-e006.v1.light.webp",
+      "preview_dark": "previews\/material-e006.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e005",
+      "title": "E005",
+      "version": 1,
+      "file": "widgets\/material-e005.v1.wid",
+      "size": 203380,
+      "sha256": "4334c272a1ab0e3a7efc5ec8827bd584e2e4b661fdf91589ad539870438f95ac",
+      "preview": "previews\/material-e005.v1.light.webp",
+      "preview_light": "previews\/material-e005.v1.light.webp",
+      "preview_dark": "previews\/material-e005.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e004",
+      "title": "E004",
+      "version": 1,
+      "file": "widgets\/material-e004.v1.wid",
+      "size": 170995,
+      "sha256": "ac22769ee03568d15b30b30b3b8e74229788fce37f7371d1b1be5f95eb97cb38",
+      "preview": "previews\/material-e004.v1.light.webp",
+      "preview_light": "previews\/material-e004.v1.light.webp",
+      "preview_dark": "previews\/material-e004.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e003",
+      "title": "E003",
+      "version": 1,
+      "file": "widgets\/material-e003.v1.wid",
+      "size": 199739,
+      "sha256": "78a3165aedcff23239f2fda7a07bc77b009a7b426f1b0b1acc5833579765da73",
+      "preview": "previews\/material-e003.v1.light.webp",
+      "preview_light": "previews\/material-e003.v1.light.webp",
+      "preview_dark": "previews\/material-e003.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e002",
+      "title": "E002",
+      "version": 1,
+      "file": "widgets\/material-e002.v1.wid",
+      "size": 229758,
+      "sha256": "df6d38e5c05913b74168c409c3b1d805e6a904dc23339ff61f4f5871248c5dc4",
+      "preview": "previews\/material-e002.v1.light.webp",
+      "preview_light": "previews\/material-e002.v1.light.webp",
+      "preview_dark": "previews\/material-e002.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "material-e001",
+      "title": "E001",
+      "version": 1,
+      "file": "widgets\/material-e001.v1.wid",
+      "size": 172498,
+      "sha256": "01668a16cbb7b90083a097d6e77b45fa4f4642da6791555440750d733d51896c",
+      "preview": "previews\/material-e001.v1.light.webp",
+      "preview_light": "previews\/material-e001.v1.light.webp",
+      "preview_dark": "previews\/material-e001.v1.dark.webp",
+      "native_look": "light",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795147794364,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    }
+  ],
   "announce": {
-    "id": "amwnsyssl",
-    "title": "Update",
-    "text": "Tap to see what's new",
-    "open": "all",
+    "id": "amwognb24",
+    "title": "150 new widgets",
+    "text": "E150, E149, E148, E147, E146, E145…",
+    "open": "new",
     "link": "",
-    "image": "",
-    "start": 1795108019781,
-    "end": 1795712819781
+    "image": "previews\/material-e150.v1.light.webp",
+    "start": 1795147794364,
+    "end": 1795752594364
   }
 }
