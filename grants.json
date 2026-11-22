@@ -1,20 +1,11 @@
 [
   {
-    "h": "6d201272ae86f3b6520f327e2d70d7436b8ca410fc0f13a7750b6e6ccdb284cb",
-    "type": "revoke",
-    "apps": [
-      "materialyou"
-    ],
-    "until": 0,
-    "added": 1795148954358
-  },
-  {
-    "h": "7106b86471ee629307577efb165dd8bb6367db0f37ae48229e3bfeeef7470550",
+    "h": "2afbbb4b9607a7a483cda69f21646c922b04e383b2adc5ae6a9d83ea0805ca31",
     "type": "grant",
     "apps": [
       "materialyou"
     ],
     "until": 0,
-    "added": 1795368117678
+    "added": 1795373176509
   }
 ]
