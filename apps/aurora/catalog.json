@@ -1,15 +1,4993 @@
 {
   "schema": 1,
-  "updated": 1795546422188,
-  "widgets": [],
+  "updated": 1795547525635,
+  "widgets": [
+    {
+      "id": "aurora-ag166",
+      "title": "AG166",
+      "version": 1,
+      "file": "widgets\/aurora-ag166.v1.wid",
+      "size": 263015,
+      "sha256": "649fbc2142a461ac28c2be0bc60440c1d69bfae0c7c7c6cb6b6f529881b3a3bb",
+      "preview": "previews\/aurora-ag166.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag166.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag166.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag165",
+      "title": "AG165",
+      "version": 1,
+      "file": "widgets\/aurora-ag165.v1.wid",
+      "size": 120039,
+      "sha256": "0327dd47a86cc3c4193f895c1379fbc8a0b0a3ac05ffad801803b0306c662b9a",
+      "preview": "previews\/aurora-ag165.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag165.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag165.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag164",
+      "title": "AG164",
+      "version": 1,
+      "file": "widgets\/aurora-ag164.v1.wid",
+      "size": 62445,
+      "sha256": "2eb941cbb5bf97ddd60db4d102ac4e460d61ccb91317d9277c23f1dbd9b76369",
+      "preview": "previews\/aurora-ag164.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag164.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag164.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag163",
+      "title": "AG163",
+      "version": 1,
+      "file": "widgets\/aurora-ag163.v1.wid",
+      "size": 261796,
+      "sha256": "504c72b9be47fb00dc23a1483a3db3def8e4ebf8b69df2025aa7359a6d0a4c46",
+      "preview": "previews\/aurora-ag163.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag163.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag163.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag162",
+      "title": "AG162",
+      "version": 1,
+      "file": "widgets\/aurora-ag162.v1.wid",
+      "size": 234517,
+      "sha256": "ba93762516f7b8744761ea35f1f3319f46c0b35a33deb197124aa1fc649cd9d8",
+      "preview": "previews\/aurora-ag162.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag162.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag162.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag161",
+      "title": "AG161",
+      "version": 1,
+      "file": "widgets\/aurora-ag161.v1.wid",
+      "size": 262900,
+      "sha256": "3f40a3ec1a73637f9b2c102b74c248477b072436387cc48a487e548b0fa3ed02",
+      "preview": "previews\/aurora-ag161.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag161.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag161.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag160",
+      "title": "AG160",
+      "version": 1,
+      "file": "widgets\/aurora-ag160.v1.wid",
+      "size": 62230,
+      "sha256": "a27df8b81010d359ca5c80b0a396d9b6021aa8336d719abe70c182dd852a11a4",
+      "preview": "previews\/aurora-ag160.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag160.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag160.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag159",
+      "title": "AG159",
+      "version": 1,
+      "file": "widgets\/aurora-ag159.v1.wid",
+      "size": 175686,
+      "sha256": "940303be82749736c5ab366b1e88e5b5fe39fdae2934a9bedb265276a50ffc40",
+      "preview": "previews\/aurora-ag159.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag159.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag159.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "clock",
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag158",
+      "title": "AG158",
+      "version": 1,
+      "file": "widgets\/aurora-ag158.v1.wid",
+      "size": 240473,
+      "sha256": "ae5d7293670abaf45b62f757d58b6dccbd90db588f9bc513ad148a9703743ef7",
+      "preview": "previews\/aurora-ag158.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag158.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag158.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag157",
+      "title": "AG157",
+      "version": 1,
+      "file": "widgets\/aurora-ag157.v1.wid",
+      "size": 122956,
+      "sha256": "28844911960f3754c7c2a4457a4ad75c58c716f896b19cfdd377ec2fbe2b3e00",
+      "preview": "previews\/aurora-ag157.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag157.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag157.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag156",
+      "title": "AG156",
+      "version": 1,
+      "file": "widgets\/aurora-ag156.v1.wid",
+      "size": 119569,
+      "sha256": "a4c84c7bdc515767436624f3c548e36ab9d8d00b6550e400b831b4bb2b45e3e3",
+      "preview": "previews\/aurora-ag156.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag156.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag156.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag155",
+      "title": "AG155",
+      "version": 1,
+      "file": "widgets\/aurora-ag155.v1.wid",
+      "size": 233480,
+      "sha256": "2bad116aff7b7c2cd5622cfb17a6519048ed8a3dd88383147d3d9d3e64be915c",
+      "preview": "previews\/aurora-ag155.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag155.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag155.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag154",
+      "title": "AG154",
+      "version": 1,
+      "file": "widgets\/aurora-ag154.v1.wid",
+      "size": 68626,
+      "sha256": "0280e05d9e020205fc122bdf94fbfaac37a7cde710b95ac10f06e20e1c7b7e0b",
+      "preview": "previews\/aurora-ag154.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag154.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag154.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag153",
+      "title": "AG153",
+      "version": 1,
+      "file": "widgets\/aurora-ag153.v1.wid",
+      "size": 296281,
+      "sha256": "db9545bd3a442e0388b54326407893b8c1ec36d35b6951bfcc700cfb40cdce3f",
+      "preview": "previews\/aurora-ag153.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag153.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag153.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag152",
+      "title": "AG152",
+      "version": 1,
+      "file": "widgets\/aurora-ag152.v1.wid",
+      "size": 233321,
+      "sha256": "78e95e052cfd1d8513d333e29316c16142a29644fd65194ed8a137c46a668607",
+      "preview": "previews\/aurora-ag152.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag152.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag152.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag151",
+      "title": "AG151",
+      "version": 1,
+      "file": "widgets\/aurora-ag151.v1.wid",
+      "size": 231725,
+      "sha256": "00284af3f79706afb90d458ca061ad5da136d7a77529ae46af3cbe43fa31cc16",
+      "preview": "previews\/aurora-ag151.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag151.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag151.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag150",
+      "title": "AG150",
+      "version": 1,
+      "file": "widgets\/aurora-ag150.v1.wid",
+      "size": 291887,
+      "sha256": "f7a82c4e0b09c6c1c7292220c6da34f564f5691fbfb28c2d77404138576ef09a",
+      "preview": "previews\/aurora-ag150.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag150.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag150.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag149",
+      "title": "AG149",
+      "version": 1,
+      "file": "widgets\/aurora-ag149.v1.wid",
+      "size": 233248,
+      "sha256": "7e87217bf436d4afdf0caeb50925e900d69151ce9ee934360fe8c8c362e09332",
+      "preview": "previews\/aurora-ag149.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag149.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag149.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag148",
+      "title": "AG148",
+      "version": 1,
+      "file": "widgets\/aurora-ag148.v1.wid",
+      "size": 90993,
+      "sha256": "c66ac321341a39a77885f5af04ff8f64a5bd2bb04021b1774ead8e4f310d2f13",
+      "preview": "previews\/aurora-ag148.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag148.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag148.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag147",
+      "title": "AG147",
+      "version": 1,
+      "file": "widgets\/aurora-ag147.v1.wid",
+      "size": 232521,
+      "sha256": "e5b167930bcc9c0642b4f0f72389f911e36fde7542723a889c4f67fa5698bc4e",
+      "preview": "previews\/aurora-ag147.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag147.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag147.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag146",
+      "title": "AG146",
+      "version": 1,
+      "file": "widgets\/aurora-ag146.v1.wid",
+      "size": 232725,
+      "sha256": "14c21cd4a62d6f3f51d148f155e350a65be1a38886ebd65010a23bb97e758fdc",
+      "preview": "previews\/aurora-ag146.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag146.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag146.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag145",
+      "title": "AG145",
+      "version": 1,
+      "file": "widgets\/aurora-ag145.v1.wid",
+      "size": 202748,
+      "sha256": "7209db599d1a375886c575bf2c13c771ebd98eb4eb820801a9f6a7a52346f162",
+      "preview": "previews\/aurora-ag145.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag145.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag145.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "search"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag144",
+      "title": "AG144",
+      "version": 1,
+      "file": "widgets\/aurora-ag144.v1.wid",
+      "size": 120557,
+      "sha256": "761848b6802b64b8902256887d2811fd77abaa15e22129a0ca2ac85d04b36f58",
+      "preview": "previews\/aurora-ag144.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag144.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag144.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag143",
+      "title": "AG143",
+      "version": 1,
+      "file": "widgets\/aurora-ag143.v1.wid",
+      "size": 61424,
+      "sha256": "9a28843b63040ee702cc720035817ce7eabba9b42f77305aef444f430821c9f7",
+      "preview": "previews\/aurora-ag143.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag143.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag143.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag142",
+      "title": "AG142",
+      "version": 1,
+      "file": "widgets\/aurora-ag142.v1.wid",
+      "size": 90483,
+      "sha256": "763a9f96b044f3e605da0cf48c9c75ec6191554469ee6a7c28a290665a086747",
+      "preview": "previews\/aurora-ag142.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag142.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag142.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag141",
+      "title": "AG141",
+      "version": 1,
+      "file": "widgets\/aurora-ag141.v1.wid",
+      "size": 202942,
+      "sha256": "47c2b6b4fd813703484609075d67d0797d096525ef634f1fa0afb3832bbcb0bd",
+      "preview": "previews\/aurora-ag141.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag141.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag141.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag140",
+      "title": "AG140",
+      "version": 1,
+      "file": "widgets\/aurora-ag140.v1.wid",
+      "size": 234880,
+      "sha256": "af0db11b0259da2bf69822e9ec0314665f6b8461882b7fd8c3f9ef4804d56441",
+      "preview": "previews\/aurora-ag140.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag140.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag140.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag139",
+      "title": "AG139",
+      "version": 1,
+      "file": "widgets\/aurora-ag139.v1.wid",
+      "size": 232352,
+      "sha256": "1ef46562facfc4262c280c69a6b72103cf61a62c26d82c5ce5343b10ec5b8386",
+      "preview": "previews\/aurora-ag139.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag139.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag139.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag138",
+      "title": "AG138",
+      "version": 1,
+      "file": "widgets\/aurora-ag138.v1.wid",
+      "size": 174775,
+      "sha256": "43cc651e75b2c73eec56efad80626ccc9642966c5da03723064488cc756f1dfb",
+      "preview": "previews\/aurora-ag138.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag138.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag138.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag137",
+      "title": "AG137",
+      "version": 1,
+      "file": "widgets\/aurora-ag137.v1.wid",
+      "size": 204032,
+      "sha256": "e4291e09fc4eeb5b6ba72dd2e3ff731d8e4733417abd661344980949c8f7c370",
+      "preview": "previews\/aurora-ag137.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag137.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag137.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag136",
+      "title": "AG136",
+      "version": 1,
+      "file": "widgets\/aurora-ag136.v1.wid",
+      "size": 119253,
+      "sha256": "bbf072d3db65c0faf41f163a2a2c88042ab7613b8897f4f628e463cfe1002111",
+      "preview": "previews\/aurora-ag136.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag136.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag136.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag135",
+      "title": "AG135",
+      "version": 1,
+      "file": "widgets\/aurora-ag135.v1.wid",
+      "size": 68597,
+      "sha256": "ba398a72918d00c1c1a4ae2307be2f55de51228831aaa391a6e62715bfd62291",
+      "preview": "previews\/aurora-ag135.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag135.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag135.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag134",
+      "title": "AG134",
+      "version": 1,
+      "file": "widgets\/aurora-ag134.v1.wid",
+      "size": 261649,
+      "sha256": "96355ad87b2c7d9b8a488a6bb9108917813dab50023d3df98a2b7ef606ad2093",
+      "preview": "previews\/aurora-ag134.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag134.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag134.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag133",
+      "title": "AG133",
+      "version": 1,
+      "file": "widgets\/aurora-ag133.v1.wid",
+      "size": 233283,
+      "sha256": "cd928515968bc809c209b1691012dfcd513065316fb5d36aa28ff63dc7380cd5",
+      "preview": "previews\/aurora-ag133.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag133.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag133.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag132",
+      "title": "AG132",
+      "version": 1,
+      "file": "widgets\/aurora-ag132.v1.wid",
+      "size": 90378,
+      "sha256": "2f7b7367efc95e49924589dc72c6347cf623bd3fe1de099a7f2dfdf4fe88e84f",
+      "preview": "previews\/aurora-ag132.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag132.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag132.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag131",
+      "title": "AG131",
+      "version": 1,
+      "file": "widgets\/aurora-ag131.v1.wid",
+      "size": 61589,
+      "sha256": "c7ceb0a691a9c4ab6614ea927f448c0dd18b1cdcd9d4708e1c4dfc21cde15fff",
+      "preview": "previews\/aurora-ag131.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag131.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag131.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag130",
+      "title": "AG130",
+      "version": 1,
+      "file": "widgets\/aurora-ag130.v1.wid",
+      "size": 263475,
+      "sha256": "99f3f351bf764a440d5cdbde5c3fe8ffc00739b8945215b17e960ef3480cb6bb",
+      "preview": "previews\/aurora-ag130.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag130.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag130.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag129",
+      "title": "AG129",
+      "version": 1,
+      "file": "widgets\/aurora-ag129.v1.wid",
+      "size": 210194,
+      "sha256": "aff0007ca1b4d76e77be801ad9c79481b77ce8da1c290e6ff8ee5a0c758b8621",
+      "preview": "previews\/aurora-ag129.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag129.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag129.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag128",
+      "title": "AG128",
+      "version": 1,
+      "file": "widgets\/aurora-ag128.v1.wid",
+      "size": 232296,
+      "sha256": "a9993178ade6ae36494366c75d96b032d25a91087dd6d839c93e5b63a5013d4e",
+      "preview": "previews\/aurora-ag128.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag128.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag128.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag127",
+      "title": "AG127",
+      "version": 1,
+      "file": "widgets\/aurora-ag127.v1.wid",
+      "size": 33292,
+      "sha256": "d7c766ad95c79512416b8b86bb7e1b56405cd7a82b760b1fb8b3dbad717400f8",
+      "preview": "previews\/aurora-ag127.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag127.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag127.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag126",
+      "title": "AG126",
+      "version": 1,
+      "file": "widgets\/aurora-ag126.v1.wid",
+      "size": 205440,
+      "sha256": "692dab9bd95e200edc412d924ec6de5d959b185f37ffd83d79c17e756b71a499",
+      "preview": "previews\/aurora-ag126.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag126.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag126.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "music",
+        "weather"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE",
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag125",
+      "title": "AG125",
+      "version": 1,
+      "file": "widgets\/aurora-ag125.v1.wid",
+      "size": 263780,
+      "sha256": "daf34ec1231df48e057ccbd4d96b8dda4c9a8d112ffbdb79b31e560d1ad863ab",
+      "preview": "previews\/aurora-ag125.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag125.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag125.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag124",
+      "title": "AG124",
+      "version": 1,
+      "file": "widgets\/aurora-ag124.v1.wid",
+      "size": 63665,
+      "sha256": "640b472fda1594f05c5d71dcfd813d075fde5192d2cbf3d47e8fb92a5de73d04",
+      "preview": "previews\/aurora-ag124.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag124.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag124.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag123",
+      "title": "AG123",
+      "version": 1,
+      "file": "widgets\/aurora-ag123.v1.wid",
+      "size": 205281,
+      "sha256": "fe72ff9f302e55b01db225539d47a030a2c5023fedb806b5b7841f8c615899e4",
+      "preview": "previews\/aurora-ag123.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag123.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag123.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag122",
+      "title": "AG122",
+      "version": 1,
+      "file": "widgets\/aurora-ag122.v1.wid",
+      "size": 204711,
+      "sha256": "ec64c1b70c49dde47402c3897ac49c68218b5f1731529ab754ccfa889c130428",
+      "preview": "previews\/aurora-ag122.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag122.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag122.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag121",
+      "title": "AG121",
+      "version": 1,
+      "file": "widgets\/aurora-ag121.v1.wid",
+      "size": 90986,
+      "sha256": "57395e030571d4d894290ade83b9bd9262a0cb26c48721ffb951ee0554e3779c",
+      "preview": "previews\/aurora-ag121.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag121.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag121.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag120",
+      "title": "AG120",
+      "version": 1,
+      "file": "widgets\/aurora-ag120.v1.wid",
+      "size": 63084,
+      "sha256": "8ec85f689c207e6e72d63f5206cf11d044e5ee68e0975ac11db96bdfdb2498e4",
+      "preview": "previews\/aurora-ag120.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag120.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag120.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag119",
+      "title": "AG119",
+      "version": 1,
+      "file": "widgets\/aurora-ag119.v1.wid",
+      "size": 233187,
+      "sha256": "e17d83aca87a863078e4a243c32c939fc906c1463c31bd8581327b3c857c397c",
+      "preview": "previews\/aurora-ag119.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag119.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag119.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag118",
+      "title": "AG118",
+      "version": 1,
+      "file": "widgets\/aurora-ag118.v1.wid",
+      "size": 262696,
+      "sha256": "d1acf679fc9ec69ee6591837683f12aca52c548d7814824e59ab22d11560bfa2",
+      "preview": "previews\/aurora-ag118.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag118.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag118.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag117",
+      "title": "AG117",
+      "version": 1,
+      "file": "widgets\/aurora-ag117.v1.wid",
+      "size": 63447,
+      "sha256": "d75845f213c337ac5c8bb2657267deaec156849fc932048af36d9816560b0082",
+      "preview": "previews\/aurora-ag117.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag117.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag117.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag116",
+      "title": "AG116",
+      "version": 1,
+      "file": "widgets\/aurora-ag116.v1.wid",
+      "size": 91007,
+      "sha256": "af0f4cc4c90085cd77757cb5a9de91146f615053faca535d578a8678577a4cb4",
+      "preview": "previews\/aurora-ag116.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag116.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag116.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag115",
+      "title": "AG115",
+      "version": 1,
+      "file": "widgets\/aurora-ag115.v1.wid",
+      "size": 206552,
+      "sha256": "5b6842a51fe00700b860918368316453a0c83dbc91be9268ce99a132c1a64629",
+      "preview": "previews\/aurora-ag115.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag115.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag115.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag114",
+      "title": "AG114",
+      "version": 1,
+      "file": "widgets\/aurora-ag114.v1.wid",
+      "size": 204511,
+      "sha256": "5675c33d161ebf2e48a214191abd46551bd7ac497713e1c2e7a8d3079e9c9310",
+      "preview": "previews\/aurora-ag114.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag114.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag114.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag113",
+      "title": "AG113",
+      "version": 1,
+      "file": "widgets\/aurora-ag113.v1.wid",
+      "size": 261835,
+      "sha256": "c194716163cffaa4173054a87ced72b78b8fa3ff88e403ca25b20c36f322211e",
+      "preview": "previews\/aurora-ag113.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag113.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag113.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag112",
+      "title": "AG112",
+      "version": 1,
+      "file": "widgets\/aurora-ag112.v1.wid",
+      "size": 234401,
+      "sha256": "401d6570583777da8a58414edd34451e948f32d57fbde9544a3d225fc6dabbac",
+      "preview": "previews\/aurora-ag112.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag112.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag112.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag111",
+      "title": "AG111",
+      "version": 1,
+      "file": "widgets\/aurora-ag111.v1.wid",
+      "size": 119844,
+      "sha256": "449297657d06938d0069206b520a842259f6fb206bf88a44f84af8f22e604e4a",
+      "preview": "previews\/aurora-ag111.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag111.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag111.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag110",
+      "title": "AG110",
+      "version": 1,
+      "file": "widgets\/aurora-ag110.v1.wid",
+      "size": 231961,
+      "sha256": "df0b92d5baf9de01a7f7364b8b1486d3576880fa0626fee0f8137693048d1958",
+      "preview": "previews\/aurora-ag110.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag110.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag110.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "game"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag109",
+      "title": "AG109",
+      "version": 1,
+      "file": "widgets\/aurora-ag109.v1.wid",
+      "size": 205621,
+      "sha256": "17f1ef3b660ce08be4e0f50a2af4d0f64abf3546d3d931205d80cf5446017d9e",
+      "preview": "previews\/aurora-ag109.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag109.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag109.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag108",
+      "title": "AG108",
+      "version": 1,
+      "file": "widgets\/aurora-ag108.v1.wid",
+      "size": 90674,
+      "sha256": "7bec42680ce4a50cc0a7d0ff5d9b54861ab55a047056c3207791a9c9d6d58d08",
+      "preview": "previews\/aurora-ag108.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag108.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag108.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag107",
+      "title": "AG107",
+      "version": 1,
+      "file": "widgets\/aurora-ag107.v1.wid",
+      "size": 93348,
+      "sha256": "fa3c9ca69cb316fef58a43fbc0207954f45ff7e99700868417586112486c8cde",
+      "preview": "previews\/aurora-ag107.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag107.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag107.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag106",
+      "title": "AG106",
+      "version": 1,
+      "file": "widgets\/aurora-ag106.v1.wid",
+      "size": 90770,
+      "sha256": "0ed9a61fec73d436258b830c3bfd1933b4876de21fe0c99d5e51db3cfb74d213",
+      "preview": "previews\/aurora-ag106.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag106.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag106.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag105",
+      "title": "AG105",
+      "version": 1,
+      "file": "widgets\/aurora-ag105.v1.wid",
+      "size": 234685,
+      "sha256": "1efcf044018e0f2a17fb684f098b62136c80c67c23839ef6ff08eb2dfaa3b5d9",
+      "preview": "previews\/aurora-ag105.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag105.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag105.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [
+        "BLUETOOTH_CONNECT"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag104",
+      "title": "AG104",
+      "version": 1,
+      "file": "widgets\/aurora-ag104.v1.wid",
+      "size": 233994,
+      "sha256": "a4164267c08c7ec5efb0a38ae3187f9bee63828c9088ea3cf306d9e9f4fc65d8",
+      "preview": "previews\/aurora-ag104.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag104.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag104.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag103",
+      "title": "AG103",
+      "version": 1,
+      "file": "widgets\/aurora-ag103.v1.wid",
+      "size": 204530,
+      "sha256": "af402d79b65f7b064f122a57c61570333d4c5bcd9624c77fbded4b5e4bbeb47c",
+      "preview": "previews\/aurora-ag103.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag103.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag103.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag102",
+      "title": "AG102",
+      "version": 1,
+      "file": "widgets\/aurora-ag102.v1.wid",
+      "size": 204128,
+      "sha256": "b15c993311bd458aacfd20a705dac90236eaf8d9b9cf39deacde154a44f827f8",
+      "preview": "previews\/aurora-ag102.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag102.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag102.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag101",
+      "title": "AG101",
+      "version": 1,
+      "file": "widgets\/aurora-ag101.v1.wid",
+      "size": 232841,
+      "sha256": "7b2c0115a59b884141990a479612de15cb43ca690d816dd28447594ca6cdc410",
+      "preview": "previews\/aurora-ag101.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag101.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag101.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag100",
+      "title": "AG100",
+      "version": 1,
+      "file": "widgets\/aurora-ag100.v1.wid",
+      "size": 120806,
+      "sha256": "60eb547936a286df50b5a13837d7eace04f0ade69d8fe435e991a80ec18c0ffa",
+      "preview": "previews\/aurora-ag100.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag100.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag100.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag099",
+      "title": "AG099",
+      "version": 1,
+      "file": "widgets\/aurora-ag099.v1.wid",
+      "size": 239716,
+      "sha256": "ac931547ef078de112f8b1dbe96d76215b36c750bd42320880575c3c8d75edc4",
+      "preview": "previews\/aurora-ag099.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag099.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag099.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag098",
+      "title": "AG098",
+      "version": 1,
+      "file": "widgets\/aurora-ag098.v1.wid",
+      "size": 119903,
+      "sha256": "27da0dfd32c083ff31bb93f384ff6718e7ec0db1465b2132364588d2d16787e3",
+      "preview": "previews\/aurora-ag098.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag098.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag098.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag097",
+      "title": "AG097",
+      "version": 1,
+      "file": "widgets\/aurora-ag097.v1.wid",
+      "size": 232982,
+      "sha256": "25a2544982431a7a498de535f44a7b8927c5ba916769b6139dd75acd8e68435b",
+      "preview": "previews\/aurora-ag097.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag097.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag097.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag096",
+      "title": "AG096",
+      "version": 1,
+      "file": "widgets\/aurora-ag096.v1.wid",
+      "size": 232062,
+      "sha256": "1952e3a08454dc6441e192363afe340666497a37c5f31ac830ca84cfd537d36d",
+      "preview": "previews\/aurora-ag096.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag096.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag096.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "search",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag095",
+      "title": "AG095",
+      "version": 1,
+      "file": "widgets\/aurora-ag095.v1.wid",
+      "size": 121264,
+      "sha256": "c928443f506b3dd026b0d8fcfe44c46a34622287b68ad971601d758589484ad6",
+      "preview": "previews\/aurora-ag095.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag095.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag095.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag094",
+      "title": "AG094",
+      "version": 1,
+      "file": "widgets\/aurora-ag094.v1.wid",
+      "size": 178000,
+      "sha256": "9989854ddc592ce054a2e7b4742327e0d38153ac094b99c63a7fe34ff3dd2b69",
+      "preview": "previews\/aurora-ag094.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag094.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag094.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag093",
+      "title": "AG093",
+      "version": 1,
+      "file": "widgets\/aurora-ag093.v1.wid",
+      "size": 93347,
+      "sha256": "b50c6b0b1e6b67173507e21aab340706964c5cfd5c907db3f665b0ba307be3fc",
+      "preview": "previews\/aurora-ag093.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag093.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag093.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag092",
+      "title": "AG092",
+      "version": 1,
+      "file": "widgets\/aurora-ag092.v1.wid",
+      "size": 232574,
+      "sha256": "e7b5a2ca503c613648ef301c6cf7c87a819aa42179c110b282946c114172261e",
+      "preview": "previews\/aurora-ag092.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag092.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag092.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag091",
+      "title": "AG091",
+      "version": 1,
+      "file": "widgets\/aurora-ag091.v1.wid",
+      "size": 205063,
+      "sha256": "da7d93c09628efeb1f76781ed90804bf03bf3dd4c0a0e0599e578592daf0ee8f",
+      "preview": "previews\/aurora-ag091.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag091.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag091.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag090",
+      "title": "AG090",
+      "version": 1,
+      "file": "widgets\/aurora-ag090.v1.wid",
+      "size": 203082,
+      "sha256": "387ca011079eb70bf998ae9de33eaf11c3f1b05441e381f23c82bf4c139ab6fc",
+      "preview": "previews\/aurora-ag090.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag090.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag090.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag089",
+      "title": "AG089",
+      "version": 1,
+      "file": "widgets\/aurora-ag089.v1.wid",
+      "size": 209515,
+      "sha256": "40f98b7234ea0f384b9be2d773cecc4b566bca83881cb1340019265f479cc9ae",
+      "preview": "previews\/aurora-ag089.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag089.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag089.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag088",
+      "title": "AG088",
+      "version": 1,
+      "file": "widgets\/aurora-ag088.v1.wid",
+      "size": 240485,
+      "sha256": "908c5382b918dda79e78334e374ef86b456d9ff6acb927aa1f605152f041d9d1",
+      "preview": "previews\/aurora-ag088.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag088.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag088.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag087",
+      "title": "AG087",
+      "version": 1,
+      "file": "widgets\/aurora-ag087.v1.wid",
+      "size": 249534,
+      "sha256": "fbff708d98d649a7f7fa5f356d69dc3a02e88494a51cbc16f4fc676be83ea6b3",
+      "preview": "previews\/aurora-ag087.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag087.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag087.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag086",
+      "title": "AG086",
+      "version": 1,
+      "file": "widgets\/aurora-ag086.v1.wid",
+      "size": 92216,
+      "sha256": "bc96968976e9e711ad781f1e00b838afaceaf7fa3e68823c71bac01962f27c9b",
+      "preview": "previews\/aurora-ag086.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag086.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag086.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag085",
+      "title": "AG085",
+      "version": 1,
+      "file": "widgets\/aurora-ag085.v1.wid",
+      "size": 266752,
+      "sha256": "685bb3244fccc8cddc711bf2000282103e5cc35f43642bd7d3f2ce9df0db9136",
+      "preview": "previews\/aurora-ag085.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag085.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag085.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag084",
+      "title": "AG084",
+      "version": 1,
+      "file": "widgets\/aurora-ag084.v1.wid",
+      "size": 177586,
+      "sha256": "d5c8782d81e50dbfb8cb4d9a8cc85e9a1339bf710977fdcf9d6b79f209f2dea0",
+      "preview": "previews\/aurora-ag084.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag084.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag084.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag083",
+      "title": "AG083",
+      "version": 1,
+      "file": "widgets\/aurora-ag083.v1.wid",
+      "size": 120178,
+      "sha256": "071a8d0033e033ccd23883853d0ee58a6c0309ec81144ce607c7d9ca7a11340d",
+      "preview": "previews\/aurora-ag083.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag083.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag083.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag082",
+      "title": "AG082",
+      "version": 1,
+      "file": "widgets\/aurora-ag082.v1.wid",
+      "size": 214871,
+      "sha256": "4efbd936492eec2cf3c072756e8cd772a57b8cf6b0d1a736f8721e8e0a34eb01",
+      "preview": "previews\/aurora-ag082.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag082.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag082.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag081",
+      "title": "AG081",
+      "version": 1,
+      "file": "widgets\/aurora-ag081.v1.wid",
+      "size": 91138,
+      "sha256": "43d263d48b92d54cc3c6a6f726e9a619660a9bba9bd791ea05b82baae81a6cce",
+      "preview": "previews\/aurora-ag081.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag081.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag081.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag080",
+      "title": "AG080",
+      "version": 1,
+      "file": "widgets\/aurora-ag080.v1.wid",
+      "size": 235929,
+      "sha256": "e79d56d3b1608627d3a532f50908cc4b46734d3e9473c1d3344a4011f55cad1f",
+      "preview": "previews\/aurora-ag080.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag080.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag080.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag079",
+      "title": "AG079",
+      "version": 1,
+      "file": "widgets\/aurora-ag079.v1.wid",
+      "size": 233245,
+      "sha256": "54d40b28769dcb46c9f514db0a73a0050c8f78b4dc245bcd49cd3a6329398a91",
+      "preview": "previews\/aurora-ag079.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag079.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag079.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag078",
+      "title": "AG078",
+      "version": 1,
+      "file": "widgets\/aurora-ag078.v1.wid",
+      "size": 206546,
+      "sha256": "ddda57d259dd36fb0e64df2c72cd351165aa0a57ecab06e8cfd9ba4c0907707f",
+      "preview": "previews\/aurora-ag078.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag078.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag078.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag077",
+      "title": "AG077",
+      "version": 1,
+      "file": "widgets\/aurora-ag077.v1.wid",
+      "size": 261990,
+      "sha256": "e14388a85286e2cc0df91661b0c456981e494ab02bc436fecaa66e826afac7cf",
+      "preview": "previews\/aurora-ag077.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag077.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag077.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag076",
+      "title": "AG076",
+      "version": 1,
+      "file": "widgets\/aurora-ag076.v1.wid",
+      "size": 204173,
+      "sha256": "0d548e81fb80dc49fe149ff3070d9500d97259ac63854c50cf7e6e038f68c34c",
+      "preview": "previews\/aurora-ag076.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag076.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag076.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag075",
+      "title": "AG075",
+      "version": 1,
+      "file": "widgets\/aurora-ag075.v1.wid",
+      "size": 234065,
+      "sha256": "8811949004b1280b43e5ba6045f256ad271f12b8c0b5ae28d266d20eb68fdbf6",
+      "preview": "previews\/aurora-ag075.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag075.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag075.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music",
+        "notifications"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag074",
+      "title": "AG074",
+      "version": 1,
+      "file": "widgets\/aurora-ag074.v1.wid",
+      "size": 244170,
+      "sha256": "19c7abb2e20a610f6d7cc32e7c86487de7a4f3b9b4fadcb22ec51f4e39888c88",
+      "preview": "previews\/aurora-ag074.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag074.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag074.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag073",
+      "title": "AG073",
+      "version": 1,
+      "file": "widgets\/aurora-ag073.v1.wid",
+      "size": 204901,
+      "sha256": "ed9bf3669ed9bd1a39749c72e05b2084ac66d4c771e086af1ebf30bb452669da",
+      "preview": "previews\/aurora-ag073.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag073.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag073.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag072",
+      "title": "AG072",
+      "version": 1,
+      "file": "widgets\/aurora-ag072.v1.wid",
+      "size": 91410,
+      "sha256": "c3a6079cd26cb79897848e85b76e126ef96523a92acfdce8be9d89e0589e2463",
+      "preview": "previews\/aurora-ag072.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag072.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag072.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag071",
+      "title": "AG071",
+      "version": 1,
+      "file": "widgets\/aurora-ag071.v1.wid",
+      "size": 265543,
+      "sha256": "9ff5c015c238ae2c5cf1fe9afc67fb3766fbcfa43db2769524f0ddebdc245273",
+      "preview": "previews\/aurora-ag071.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag071.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag071.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag070",
+      "title": "AG070",
+      "version": 1,
+      "file": "widgets\/aurora-ag070.v1.wid",
+      "size": 202598,
+      "sha256": "8421e32d0856c67953f891084817e4516bfe2c8f907e4e7a4edf01ac19c56834",
+      "preview": "previews\/aurora-ag070.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag070.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag070.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag069",
+      "title": "AG069",
+      "version": 1,
+      "file": "widgets\/aurora-ag069.v1.wid",
+      "size": 203779,
+      "sha256": "be209d7332abf363a7ecdce4a240f992dc60d5596230b85641a0c73a2edabedb",
+      "preview": "previews\/aurora-ag069.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag069.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag069.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag068",
+      "title": "AG068",
+      "version": 1,
+      "file": "widgets\/aurora-ag068.v1.wid",
+      "size": 269487,
+      "sha256": "5ffdbebb18c0917cb59de64d0d0dbac9341df72e3d4d4093c5e6a778bab70f73",
+      "preview": "previews\/aurora-ag068.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag068.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag068.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "music",
+        "weather"
+      ],
+      "permissions": [
+        "BLUETOOTH_CONNECT",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag067",
+      "title": "AG067",
+      "version": 1,
+      "file": "widgets\/aurora-ag067.v1.wid",
+      "size": 174685,
+      "sha256": "6e80343a75a42d02eb29b424b8420b805dd2c2e8d28330ccd2f032b68eaced25",
+      "preview": "previews\/aurora-ag067.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag067.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag067.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag066",
+      "title": "AG066",
+      "version": 1,
+      "file": "widgets\/aurora-ag066.v1.wid",
+      "size": 203785,
+      "sha256": "8c585348f15901c7ff51a5e876ebb9a16db70863e54bc679f842bbeda9ad2b20",
+      "preview": "previews\/aurora-ag066.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag066.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag066.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag065",
+      "title": "AG065",
+      "version": 1,
+      "file": "widgets\/aurora-ag065.v1.wid",
+      "size": 235643,
+      "sha256": "14ab774975d1b311e8ca45ac373371308ba0ed868a1b75d27249f6032d2343d8",
+      "preview": "previews\/aurora-ag065.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag065.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag065.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag064",
+      "title": "AG064",
+      "version": 1,
+      "file": "widgets\/aurora-ag064.v1.wid",
+      "size": 204802,
+      "sha256": "e671d83e8069ebe15c43781d0a09d6bdcaf52d240b203a6d6b16301861467b58",
+      "preview": "previews\/aurora-ag064.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag064.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag064.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag063",
+      "title": "AG063",
+      "version": 1,
+      "file": "widgets\/aurora-ag063.v1.wid",
+      "size": 94069,
+      "sha256": "d7c4230ff8b4bb99824fa05db55ccc26be57679b5904a11d709087ddfdb73f55",
+      "preview": "previews\/aurora-ag063.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag063.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag063.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag062",
+      "title": "AG062",
+      "version": 1,
+      "file": "widgets\/aurora-ag062.v1.wid",
+      "size": 203233,
+      "sha256": "c3d9433f846137eb09ed1ee492dc14c372b8b4425888eb743d248c3459003b13",
+      "preview": "previews\/aurora-ag062.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag062.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag062.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag061",
+      "title": "AG061",
+      "version": 1,
+      "file": "widgets\/aurora-ag061.v1.wid",
+      "size": 264444,
+      "sha256": "6e9e011193c04680ff3b8a9ad389bb263fca29cffb5fdea164e41fbabfa34866",
+      "preview": "previews\/aurora-ag061.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag061.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag061.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag060",
+      "title": "AG060",
+      "version": 1,
+      "file": "widgets\/aurora-ag060.v1.wid",
+      "size": 202944,
+      "sha256": "953d5a6db9c572f666b4fe1fcdafaf5b66a4fa9fb698640fcd7a8ed080468669",
+      "preview": "previews\/aurora-ag060.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag060.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag060.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "search",
+        "assistant"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag059",
+      "title": "AG059",
+      "version": 1,
+      "file": "widgets\/aurora-ag059.v1.wid",
+      "size": 233733,
+      "sha256": "e14a77a9ae4638ed618fd1ed011ee94fa41cdd33f14d67be4f1fa92401bdb47f",
+      "preview": "previews\/aurora-ag059.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag059.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag059.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag058",
+      "title": "AG058",
+      "version": 1,
+      "file": "widgets\/aurora-ag058.v1.wid",
+      "size": 204064,
+      "sha256": "dc6d94b7659e848d3208153c0d3f6dd8b5e9568d9800b4ebd6b5839444ce2dfc",
+      "preview": "previews\/aurora-ag058.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag058.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag058.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag057",
+      "title": "AG057",
+      "version": 1,
+      "file": "widgets\/aurora-ag057.v1.wid",
+      "size": 236830,
+      "sha256": "72c9e7bdf86ab01a2f967055d9b74bc95945e20456fbdc1c95bc915164ea5d0a",
+      "preview": "previews\/aurora-ag057.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag057.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag057.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag056",
+      "title": "AG056",
+      "version": 1,
+      "file": "widgets\/aurora-ag056.v1.wid",
+      "size": 236399,
+      "sha256": "f06e88b9fd3eaf7bb8d2845149b161ad0ed471035e25060ce1a92f7d882a1fd4",
+      "preview": "previews\/aurora-ag056.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag056.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag056.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag055",
+      "title": "AG055",
+      "version": 1,
+      "file": "widgets\/aurora-ag055.v1.wid",
+      "size": 231759,
+      "sha256": "6779b3fcc3dd31fcb3e806093130e3c4e8867acbf81781046978a3f6d165cacf",
+      "preview": "previews\/aurora-ag055.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag055.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag055.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag054",
+      "title": "AG054",
+      "version": 1,
+      "file": "widgets\/aurora-ag054.v1.wid",
+      "size": 234481,
+      "sha256": "bb867f1688743ed560703892f131a234258ae8d8388f5219e53e7cdec2c213a6",
+      "preview": "previews\/aurora-ag054.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag054.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag054.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag053",
+      "title": "AG053",
+      "version": 1,
+      "file": "widgets\/aurora-ag053.v1.wid",
+      "size": 207024,
+      "sha256": "53a71e7e57f6e1344737caeb289b4c82bfb0a8395ff97a7d0f91ed4750eec4dc",
+      "preview": "previews\/aurora-ag053.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag053.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag053.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag052",
+      "title": "AG052",
+      "version": 1,
+      "file": "widgets\/aurora-ag052.v1.wid",
+      "size": 232774,
+      "sha256": "927890d625b7fd889804ef177eeb69ac8ae0c5cabd0d6e8d24eae3cb2ac30e14",
+      "preview": "previews\/aurora-ag052.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag052.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag052.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag051",
+      "title": "AG051",
+      "version": 1,
+      "file": "widgets\/aurora-ag051.v1.wid",
+      "size": 239477,
+      "sha256": "3796e168192f03cbfa4a54af08e7947f585c0929478fb32a8193368b56626ee4",
+      "preview": "previews\/aurora-ag051.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag051.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag051.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag050",
+      "title": "AG050",
+      "version": 1,
+      "file": "widgets\/aurora-ag050.v1.wid",
+      "size": 61806,
+      "sha256": "8c74c9dd9f353530111f7303da27354d5e706a49b2b974f54ce7b65e1befe684",
+      "preview": "previews\/aurora-ag050.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag050.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag050.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag049",
+      "title": "AG049",
+      "version": 1,
+      "file": "widgets\/aurora-ag049.v1.wid",
+      "size": 236652,
+      "sha256": "79731ae957502b5f0e1b1d4a6b28da253a8ef73b5b5aca6ab4c2fb419224d2f6",
+      "preview": "previews\/aurora-ag049.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag049.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag049.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag048",
+      "title": "AG048",
+      "version": 1,
+      "file": "widgets\/aurora-ag048.v1.wid",
+      "size": 232722,
+      "sha256": "778b776e27be8d7e179169b05d37361bdb2a45acfefd31a99256a221ae404537",
+      "preview": "previews\/aurora-ag048.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag048.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag048.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag047",
+      "title": "AG047",
+      "version": 1,
+      "file": "widgets\/aurora-ag047.v1.wid",
+      "size": 92269,
+      "sha256": "d5dcc354e6399f71d392a7600706fbf60f1b3f1597f3d6e47695a528c93c3b48",
+      "preview": "previews\/aurora-ag047.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag047.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag047.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag046",
+      "title": "AG046",
+      "version": 1,
+      "file": "widgets\/aurora-ag046.v1.wid",
+      "size": 267391,
+      "sha256": "b71e08bcba9dd2b8e7978a653be4f2ef0c559bc8ea809b0459401a0c6e75d619",
+      "preview": "previews\/aurora-ag046.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag046.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag046.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag045",
+      "title": "AG045",
+      "version": 1,
+      "file": "widgets\/aurora-ag045.v1.wid",
+      "size": 211286,
+      "sha256": "c9b75b8e8c29e4b4b2a312ac27a683f0ad0684266fe601c5952fb739230111fc",
+      "preview": "previews\/aurora-ag045.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag045.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag045.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag044",
+      "title": "AG044",
+      "version": 1,
+      "file": "widgets\/aurora-ag044.v1.wid",
+      "size": 236621,
+      "sha256": "78337581e74afb03ffe96b0d6ced1b4fddc9fd8aa987b9457c36ac9f915fffe3",
+      "preview": "previews\/aurora-ag044.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag044.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag044.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag043",
+      "title": "AG043",
+      "version": 1,
+      "file": "widgets\/aurora-ag043.v1.wid",
+      "size": 235029,
+      "sha256": "4589be37f818f02fb5bc3d816ec55008188fded0f4729993f15cc951433722a4",
+      "preview": "previews\/aurora-ag043.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag043.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag043.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag042",
+      "title": "AG042",
+      "version": 1,
+      "file": "widgets\/aurora-ag042.v1.wid",
+      "size": 236155,
+      "sha256": "4e92108ceb16abd1e49f48079a35057d57147e117f20048e7677dcc450a81cf7",
+      "preview": "previews\/aurora-ag042.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag042.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag042.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag041",
+      "title": "AG041",
+      "version": 1,
+      "file": "widgets\/aurora-ag041.v1.wid",
+      "size": 203206,
+      "sha256": "f9d9170d7a90c8338a43954b3826b24118ee80b37e0ac2c8d944a261744ef38e",
+      "preview": "previews\/aurora-ag041.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag041.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag041.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag040",
+      "title": "AG040",
+      "version": 1,
+      "file": "widgets\/aurora-ag040.v1.wid",
+      "size": 266797,
+      "sha256": "ff8a12acbfa33228f5d0b4fe485d0289f5198c9ca4b32506b3a5d31039778d73",
+      "preview": "previews\/aurora-ag040.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag040.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag040.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag039",
+      "title": "AG039",
+      "version": 1,
+      "file": "widgets\/aurora-ag039.v1.wid",
+      "size": 207806,
+      "sha256": "5bec5eddffc35e4f647ba1f9558cc3e868810e4b0724db8c27f13a1cf66467f0",
+      "preview": "previews\/aurora-ag039.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag039.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag039.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag038",
+      "title": "AG038",
+      "version": 1,
+      "file": "widgets\/aurora-ag038.v1.wid",
+      "size": 290012,
+      "sha256": "2dcb900012057f6a9d9fa74ae7ebadaf8051bacd497698c1aa11c6de8e675441",
+      "preview": "previews\/aurora-ag038.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag038.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag038.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag037",
+      "title": "AG037",
+      "version": 1,
+      "file": "widgets\/aurora-ag037.v1.wid",
+      "size": 204536,
+      "sha256": "fa18f0f26a72adba7acf6f8fc1eed6f7aa863840b98d2c715b2a929e8393072b",
+      "preview": "previews\/aurora-ag037.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag037.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag037.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "game"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag036",
+      "title": "AG036",
+      "version": 1,
+      "file": "widgets\/aurora-ag036.v1.wid",
+      "size": 120859,
+      "sha256": "e67c696d7c5ec3b8401c3e1c6c2a9af2a21eb9909e414b73f9030df3a71999ec",
+      "preview": "previews\/aurora-ag036.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag036.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag036.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag035",
+      "title": "AG035",
+      "version": 1,
+      "file": "widgets\/aurora-ag035.v1.wid",
+      "size": 92663,
+      "sha256": "c2f79132acb7c32c3303963526923025afdc07625f5eb0e810a8e3ac292bc722",
+      "preview": "previews\/aurora-ag035.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag035.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag035.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag034",
+      "title": "AG034",
+      "version": 1,
+      "file": "widgets\/aurora-ag034.v1.wid",
+      "size": 263421,
+      "sha256": "59f8feb1c1f315a00bb308b79e741a44f8eacedb887dcabd4f015d75e8187f60",
+      "preview": "previews\/aurora-ag034.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag034.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag034.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date",
+        "notifications",
+        "weather"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag033",
+      "title": "AG033",
+      "version": 1,
+      "file": "widgets\/aurora-ag033.v1.wid",
+      "size": 203178,
+      "sha256": "271e5e13577469e5431cad9e96d7a6dc06c7eeac833f38f1b2b88702ce08de1f",
+      "preview": "previews\/aurora-ag033.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag033.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag033.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag032",
+      "title": "AG032",
+      "version": 1,
+      "file": "widgets\/aurora-ag032.v1.wid",
+      "size": 206319,
+      "sha256": "e3fe9cf436e22325e2f1440ca1876f3b90f66819c0fb19530ac82246a67013e8",
+      "preview": "previews\/aurora-ag032.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag032.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag032.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag031",
+      "title": "AG031",
+      "version": 1,
+      "file": "widgets\/aurora-ag031.v1.wid",
+      "size": 119698,
+      "sha256": "f328fb777ad6092a131c9144aba0b2ee7955eea303fff5e6116666f829174dcd",
+      "preview": "previews\/aurora-ag031.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag031.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag031.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag030",
+      "title": "AG030",
+      "version": 1,
+      "file": "widgets\/aurora-ag030.v1.wid",
+      "size": 262301,
+      "sha256": "33331dadd51e88b0021a2f2add90aa4c7c295b29886949eb03f7ad94a8d34421",
+      "preview": "previews\/aurora-ag030.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag030.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag030.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag029",
+      "title": "AG029",
+      "version": 1,
+      "file": "widgets\/aurora-ag029.v1.wid",
+      "size": 203949,
+      "sha256": "c6489a467f9939b751081f56198b5b881266a290e60384e22b23944c68eb2b84",
+      "preview": "previews\/aurora-ag029.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag029.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag029.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag028",
+      "title": "AG028",
+      "version": 1,
+      "file": "widgets\/aurora-ag028.v1.wid",
+      "size": 297229,
+      "sha256": "6a89d5f597ee43f899b9c58245e71b024b1f498383b87c78ee7321002588240e",
+      "preview": "previews\/aurora-ag028.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag028.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag028.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "air_quality",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag027",
+      "title": "AG027",
+      "version": 1,
+      "file": "widgets\/aurora-ag027.v1.wid",
+      "size": 205005,
+      "sha256": "dbb1d8f832cec3cd6fcf3319199198571c9fc1858a7ae10f67b2cad6e1e60bd1",
+      "preview": "previews\/aurora-ag027.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag027.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag027.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag026",
+      "title": "AG026",
+      "version": 1,
+      "file": "widgets\/aurora-ag026.v1.wid",
+      "size": 232498,
+      "sha256": "347614d098031bb85a8b9e32686bca83918c8ed1c71ae3d608e8b18447aa7013",
+      "preview": "previews\/aurora-ag026.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag026.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag026.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag025",
+      "title": "AG025",
+      "version": 1,
+      "file": "widgets\/aurora-ag025.v1.wid",
+      "size": 234403,
+      "sha256": "1f9be59f4c48a30fbde89af7701d0e4b90004b6e609dd0f27885bf5f64aa38ae",
+      "preview": "previews\/aurora-ag025.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag025.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag025.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag024",
+      "title": "AG024",
+      "version": 1,
+      "file": "widgets\/aurora-ag024.v1.wid",
+      "size": 120380,
+      "sha256": "d760e332700e92259f1d5a68615e7e470652c693e156d6dbe789696eca1a9553",
+      "preview": "previews\/aurora-ag024.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag024.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag024.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag023",
+      "title": "AG023",
+      "version": 1,
+      "file": "widgets\/aurora-ag023.v1.wid",
+      "size": 264995,
+      "sha256": "76bc723c86ff44db5c4f24d15313c37bde9a7d7b3f52c079f2977541c5b3dab6",
+      "preview": "previews\/aurora-ag023.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag023.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag023.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag022",
+      "title": "AG022",
+      "version": 1,
+      "file": "widgets\/aurora-ag022.v1.wid",
+      "size": 261742,
+      "sha256": "282dff13b51e887cf5fbc9fcd60563c2d44d2471de0d29b92474fb6e26fe2151",
+      "preview": "previews\/aurora-ag022.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag022.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag022.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "air_quality",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag021",
+      "title": "AG021",
+      "version": 1,
+      "file": "widgets\/aurora-ag021.v1.wid",
+      "size": 205107,
+      "sha256": "cf30c051daa5f036053cd9ea307e7adafa953ebb65d802cc6fb1a42dc08189ee",
+      "preview": "previews\/aurora-ag021.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag021.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag021.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "steps"
+      ],
+      "permissions": [
+        "ACTIVITY_RECOGNITION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag020",
+      "title": "AG020",
+      "version": 1,
+      "file": "widgets\/aurora-ag020.v1.wid",
+      "size": 232514,
+      "sha256": "d2edac144723e41f6c3372f93c8cda0e30322715c604811130dc37c9905909d2",
+      "preview": "previews\/aurora-ag020.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag020.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag020.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag019",
+      "title": "AG019",
+      "version": 1,
+      "file": "widgets\/aurora-ag019.v1.wid",
+      "size": 263034,
+      "sha256": "fbd92463e3aa979731cd00050994f7f2cbec4f7a524f566f1bc6203ee3ddd5a0",
+      "preview": "previews\/aurora-ag019.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag019.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag019.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag018",
+      "title": "AG018",
+      "version": 1,
+      "file": "widgets\/aurora-ag018.v1.wid",
+      "size": 235267,
+      "sha256": "d1966db42f9299c06dbf73110622b7bb74a7564667d7284b67a62f3481c10240",
+      "preview": "previews\/aurora-ag018.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag018.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag018.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag017",
+      "title": "AG017",
+      "version": 1,
+      "file": "widgets\/aurora-ag017.v1.wid",
+      "size": 69197,
+      "sha256": "9535e40ec8bc662bbf36f7af77bb2cbf9fd86ca74df5c11fbc8c1415a7bf26b4",
+      "preview": "previews\/aurora-ag017.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag017.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag017.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag016",
+      "title": "AG016",
+      "version": 1,
+      "file": "widgets\/aurora-ag016.v1.wid",
+      "size": 233076,
+      "sha256": "2a07373e788c7d5fbda39d5c1818d2f6d64b590c1f7a045a6a865b1d7d2b29d6",
+      "preview": "previews\/aurora-ag016.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag016.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag016.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "search",
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag015",
+      "title": "AG015",
+      "version": 1,
+      "file": "widgets\/aurora-ag015.v1.wid",
+      "size": 120112,
+      "sha256": "2fa11c60cf188474011df862a33dfdc328a1be21140f5d268aae1cada25fa449",
+      "preview": "previews\/aurora-ag015.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag015.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag015.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag014",
+      "title": "AG014",
+      "version": 1,
+      "file": "widgets\/aurora-ag014.v1.wid",
+      "size": 91193,
+      "sha256": "5c569d60f0311302a0208fd95603e9bc35b584db9fe663cbcb78026a0d2b62ff",
+      "preview": "previews\/aurora-ag014.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag014.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag014.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag013",
+      "title": "AG013",
+      "version": 1,
+      "file": "widgets\/aurora-ag013.v1.wid",
+      "size": 95449,
+      "sha256": "d00710e860a9ca776bb78e03b4aa6797727b13ad7cb65883a960181c01c79b67",
+      "preview": "previews\/aurora-ag013.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag013.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag013.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "air_quality",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag012",
+      "title": "AG012",
+      "version": 1,
+      "file": "widgets\/aurora-ag012.v1.wid",
+      "size": 204459,
+      "sha256": "6264c41ef9c8e54199fc1bc9c1af6a7daa0fb94e0f381ff3f3be4acfac68e115",
+      "preview": "previews\/aurora-ag012.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag012.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag012.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "analog",
+        "battery",
+        "clock",
+        "date",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag011",
+      "title": "AG011",
+      "version": 1,
+      "file": "widgets\/aurora-ag011.v1.wid",
+      "size": 262642,
+      "sha256": "a35943fa2449c30935aea585b85a651ee9337e1e0243668acd7e43c2424820f1",
+      "preview": "previews\/aurora-ag011.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag011.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag011.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "steps"
+      ],
+      "permissions": [
+        "ACTIVITY_RECOGNITION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag010",
+      "title": "AG010",
+      "version": 1,
+      "file": "widgets\/aurora-ag010.v1.wid",
+      "size": 266987,
+      "sha256": "09cad6becf3255965271ab70254de58512969d8ee2af591cfcb3648344465e94",
+      "preview": "previews\/aurora-ag010.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag010.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag010.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag009",
+      "title": "AG009",
+      "version": 1,
+      "file": "widgets\/aurora-ag009.v1.wid",
+      "size": 236485,
+      "sha256": "2af0aed20a15f643f319d296d851ce0831f6b7a451d7b67ab04b6e4c36fd1bce",
+      "preview": "previews\/aurora-ag009.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag009.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag009.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag008",
+      "title": "AG008",
+      "version": 1,
+      "file": "widgets\/aurora-ag008.v1.wid",
+      "size": 203544,
+      "sha256": "862c34280dd25720a131f80e1e3472e8fd5ed22c0f92d33fb3e88ad311cf36e9",
+      "preview": "previews\/aurora-ag008.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag008.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag008.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag007",
+      "title": "AG007",
+      "version": 1,
+      "file": "widgets\/aurora-ag007.v1.wid",
+      "size": 263362,
+      "sha256": "5a8f4a9235e393089964d1762850e3469c8839da5464d60b97a4e1f0bac6b3c9",
+      "preview": "previews\/aurora-ag007.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag007.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag007.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "notifications",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag006",
+      "title": "AG006",
+      "version": 1,
+      "file": "widgets\/aurora-ag006.v1.wid",
+      "size": 90599,
+      "sha256": "b0fbaf722d3a1c321302587db3d8523dac1f3956b5a8df5e39fdb94d07ee5432",
+      "preview": "previews\/aurora-ag006.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag006.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag006.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag005",
+      "title": "AG005",
+      "version": 1,
+      "file": "widgets\/aurora-ag005.v1.wid",
+      "size": 238101,
+      "sha256": "780bb9c1de4b6f3f4833957d8636337a46f1a7c73e6bf09a9d352144e17dbdeb",
+      "preview": "previews\/aurora-ag005.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag005.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag005.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag004",
+      "title": "AG004",
+      "version": 1,
+      "file": "widgets\/aurora-ag004.v1.wid",
+      "size": 202586,
+      "sha256": "fbd8b0b4bc02f0e22998fd33e2c79bddda832def5df80cb3a804c81f4ea7feba",
+      "preview": "previews\/aurora-ag004.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag004.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag004.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag003",
+      "title": "AG003",
+      "version": 1,
+      "file": "widgets\/aurora-ag003.v1.wid",
+      "size": 233350,
+      "sha256": "58215159743e4dd67ccab5d0a5b9fe5f4ba234f07b3d8b2badec27e3bfde39e5",
+      "preview": "previews\/aurora-ag003.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag003.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag003.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag002",
+      "title": "AG002",
+      "version": 1,
+      "file": "widgets\/aurora-ag002.v1.wid",
+      "size": 91444,
+      "sha256": "f13f2bc3184041b893bfae4448e862af2dbf7f9164e241e726f974cf63afbb05",
+      "preview": "previews\/aurora-ag002.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag002.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag002.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "aurora-ag001",
+      "title": "AG001",
+      "version": 1,
+      "file": "widgets\/aurora-ag001.v1.wid",
+      "size": 264360,
+      "sha256": "d17f2da5ae08cdbb94ebc45e9f405e06b64cb7381d10942eba68cea0b2746d36",
+      "preview": "previews\/aurora-ag001.v1.dark.webp",
+      "preview_light": "previews\/aurora-ag001.v1.light.webp",
+      "preview_dark": "previews\/aurora-ag001.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795547525635,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    }
+  ],
   "announce": {
-    "id": "amwv1za98",
-    "title": "Update",
-    "text": "Tap to see what's new",
-    "open": "all",
+    "id": "amwv2mxoj",
+    "title": "Check the new",
+    "text": "TEST TEST TEST 🔶",
+    "open": "new",
     "link": "",
-    "image": "",
-    "start": 1795546422188,
-    "end": 1796151222188
+    "image": "notify\/amwv2mxoj.png",
+    "start": 1795547525635,
+    "end": 1796152325635
   }
 }
