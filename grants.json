@@ -16,5 +16,14 @@
     ],
     "until": 0,
     "added": 1795548353685
+  },
+  {
+    "h": "92a772a51db5725efa06aa02080559dfeb4a2d7c820c5676ebbb9acdabb53fc6",
+    "type": "grant",
+    "apps": [
+      "aurora"
+    ],
+    "until": 0,
+    "added": 1795554897490
   }
 ]
