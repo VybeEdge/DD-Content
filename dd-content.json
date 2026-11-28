@@ -10,6 +10,11 @@
       "id": "aurora",
       "name": "Widget Hub : Aurora Glass",
       "package": ""
+    },
+    {
+      "id": "lab",
+      "name": "DD Lab",
+      "package": ""
     }
   ]
 }
