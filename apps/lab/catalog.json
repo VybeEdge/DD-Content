@@ -1,5 +1,4693 @@
 {
   "schema": 1,
-  "updated": 1795847619160,
-  "widgets": []
+  "updated": 1795857634886,
+  "widgets": [
+    {
+      "id": "island-is160",
+      "title": "IS160",
+      "version": 1,
+      "file": "widgets\/island-is160.v1.wid",
+      "size": 373475,
+      "sha256": "1b2e1146cb82b47933aca8e3dabf1fcb0a33d7690ba7b7580dc2295218517de1",
+      "preview": "previews\/island-is160.v1.dark.webp",
+      "preview_light": "previews\/island-is160.v1.light.webp",
+      "preview_dark": "previews\/island-is160.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "music",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is159",
+      "title": "IS159",
+      "version": 1,
+      "file": "widgets\/island-is159.v1.wid",
+      "size": 483196,
+      "sha256": "9e2784fbf671cf17ba4d5b1f1340ab596a09d306bdf9d1fa4c101f2f91735798",
+      "preview": "previews\/island-is159.v1.dark.webp",
+      "preview_light": "previews\/island-is159.v1.light.webp",
+      "preview_dark": "previews\/island-is159.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is158",
+      "title": "IS158",
+      "version": 1,
+      "file": "widgets\/island-is158.v1.wid",
+      "size": 483998,
+      "sha256": "867642d96e9fa05b3e812eb4c21f615e269925d5a44bf05bc75fee72a359e720",
+      "preview": "previews\/island-is158.v1.dark.webp",
+      "preview_light": "previews\/island-is158.v1.light.webp",
+      "preview_dark": "previews\/island-is158.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is157",
+      "title": "IS157",
+      "version": 1,
+      "file": "widgets\/island-is157.v1.wid",
+      "size": 371269,
+      "sha256": "5f86181ae129f11671a257a47bf469f822f47273aaa85cc298238387ead8f4be",
+      "preview": "previews\/island-is157.v1.dark.webp",
+      "preview_light": "previews\/island-is157.v1.light.webp",
+      "preview_dark": "previews\/island-is157.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is156",
+      "title": "IS156",
+      "version": 1,
+      "file": "widgets\/island-is156.v1.wid",
+      "size": 341724,
+      "sha256": "956c9c13ca9fc5b579947dc18a51b2546b9bd09badf3248761a5a6704e10ca88",
+      "preview": "previews\/island-is156.v1.dark.webp",
+      "preview_light": "previews\/island-is156.v1.light.webp",
+      "preview_dark": "previews\/island-is156.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is155",
+      "title": "IS155",
+      "version": 1,
+      "file": "widgets\/island-is155.v1.wid",
+      "size": 377777,
+      "sha256": "aa163b9e02a8a43e5840aada437003d69c313ee45e435273198db42de0eb91ae",
+      "preview": "previews\/island-is155.v1.dark.webp",
+      "preview_light": "previews\/island-is155.v1.light.webp",
+      "preview_dark": "previews\/island-is155.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is154",
+      "title": "IS154",
+      "version": 1,
+      "file": "widgets\/island-is154.v1.wid",
+      "size": 229347,
+      "sha256": "ef43bba14bb61ae8a33b19b66cd74b6bf52b450430e60ee66085173c1b22e3ce",
+      "preview": "previews\/island-is154.v1.dark.webp",
+      "preview_light": "previews\/island-is154.v1.light.webp",
+      "preview_dark": "previews\/island-is154.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is153",
+      "title": "IS153",
+      "version": 1,
+      "file": "widgets\/island-is153.v1.wid",
+      "size": 484724,
+      "sha256": "62de706a27a3eabcfc2335e45b594acb79f317e78932930ada2c30aa9a318ce1",
+      "preview": "previews\/island-is153.v1.dark.webp",
+      "preview_light": "previews\/island-is153.v1.light.webp",
+      "preview_dark": "previews\/island-is153.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "notifications",
+        "weather"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is152",
+      "title": "IS152",
+      "version": 1,
+      "file": "widgets\/island-is152.v1.wid",
+      "size": 228545,
+      "sha256": "9d0a11b00a4d33b93dbb507a2d7a538ce0c39743ef5760fc0a369f0c8c8132d5",
+      "preview": "previews\/island-is152.v1.dark.webp",
+      "preview_light": "previews\/island-is152.v1.light.webp",
+      "preview_dark": "previews\/island-is152.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is151",
+      "title": "IS151",
+      "version": 1,
+      "file": "widgets\/island-is151.v1.wid",
+      "size": 370056,
+      "sha256": "eda3acab7fb5d84d42e1b00278017c2d8c7afd08f67b4df4e2e987d40a04c433",
+      "preview": "previews\/island-is151.v1.dark.webp",
+      "preview_light": "previews\/island-is151.v1.light.webp",
+      "preview_dark": "previews\/island-is151.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is150",
+      "title": "IS150",
+      "version": 1,
+      "file": "widgets\/island-is150.v1.wid",
+      "size": 372212,
+      "sha256": "232de1df178e9ea2590c454a2e963a76b03e4d8de98e729bca91f4b9b4e71f3b",
+      "preview": "previews\/island-is150.v1.dark.webp",
+      "preview_light": "previews\/island-is150.v1.light.webp",
+      "preview_dark": "previews\/island-is150.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is149",
+      "title": "IS149",
+      "version": 1,
+      "file": "widgets\/island-is149.v1.wid",
+      "size": 371072,
+      "sha256": "503030738d2bb5c905ab38ac607716f89204b81d3057231c20c34eec952bd409",
+      "preview": "previews\/island-is149.v1.dark.webp",
+      "preview_light": "previews\/island-is149.v1.light.webp",
+      "preview_dark": "previews\/island-is149.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is148",
+      "title": "IS148",
+      "version": 1,
+      "file": "widgets\/island-is148.v1.wid",
+      "size": 371074,
+      "sha256": "302514e2bed30a93090deb4ebea40dcad72e8b8b14cb22de20fb21b32640f2e6",
+      "preview": "previews\/island-is148.v1.dark.webp",
+      "preview_light": "previews\/island-is148.v1.light.webp",
+      "preview_dark": "previews\/island-is148.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is147",
+      "title": "IS147",
+      "version": 1,
+      "file": "widgets\/island-is147.v1.wid",
+      "size": 228778,
+      "sha256": "391c71398b288ac9c193da7d81b61c1ba81848a615c929538463d87346ecf13f",
+      "preview": "previews\/island-is147.v1.dark.webp",
+      "preview_light": "previews\/island-is147.v1.light.webp",
+      "preview_dark": "previews\/island-is147.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is146",
+      "title": "IS146",
+      "version": 1,
+      "file": "widgets\/island-is146.v1.wid",
+      "size": 371021,
+      "sha256": "877fb8586c8a35ab7d975d62028ef13e4c285245d58223e42ef415ec879a9903",
+      "preview": "previews\/island-is146.v1.dark.webp",
+      "preview_light": "previews\/island-is146.v1.light.webp",
+      "preview_dark": "previews\/island-is146.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is145",
+      "title": "IS145",
+      "version": 1,
+      "file": "widgets\/island-is145.v1.wid",
+      "size": 342859,
+      "sha256": "0c5b8ed6e96984a35ce5f0384a6581fb6c766a2d74f1e81a499a13d1f322375a",
+      "preview": "previews\/island-is145.v1.dark.webp",
+      "preview_light": "previews\/island-is145.v1.light.webp",
+      "preview_dark": "previews\/island-is145.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is144",
+      "title": "IS144",
+      "version": 1,
+      "file": "widgets\/island-is144.v1.wid",
+      "size": 483220,
+      "sha256": "d99ad39f0ef90518c0bf17a0df555fe0c55a5b516bc7053406d083996b5a6809",
+      "preview": "previews\/island-is144.v1.dark.webp",
+      "preview_light": "previews\/island-is144.v1.light.webp",
+      "preview_dark": "previews\/island-is144.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is143",
+      "title": "IS143",
+      "version": 1,
+      "file": "widgets\/island-is143.v1.wid",
+      "size": 485024,
+      "sha256": "59e4db725171a68182b9fe996a8ac4b6ec90426422132d8c591b480ef7449a15",
+      "preview": "previews\/island-is143.v1.dark.webp",
+      "preview_light": "previews\/island-is143.v1.light.webp",
+      "preview_dark": "previews\/island-is143.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is142",
+      "title": "IS142",
+      "version": 1,
+      "file": "widgets\/island-is142.v1.wid",
+      "size": 341750,
+      "sha256": "368a27338d3b55a5c2177073296383bfa96688a98a664bac7355fdc7d3faba61",
+      "preview": "previews\/island-is142.v1.dark.webp",
+      "preview_light": "previews\/island-is142.v1.light.webp",
+      "preview_dark": "previews\/island-is142.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is141",
+      "title": "IS141",
+      "version": 1,
+      "file": "widgets\/island-is141.v1.wid",
+      "size": 235557,
+      "sha256": "377fa8d03d49228752c9d1e0a6b82aca0684e212e2323092aad218aab3963994",
+      "preview": "previews\/island-is141.v1.dark.webp",
+      "preview_light": "previews\/island-is141.v1.light.webp",
+      "preview_dark": "previews\/island-is141.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is140",
+      "title": "IS140",
+      "version": 1,
+      "file": "widgets\/island-is140.v1.wid",
+      "size": 229297,
+      "sha256": "8add8acebfd421a9ceee9f93d6c937448cc3fc8da53c580d65a4120c0aeda72c",
+      "preview": "previews\/island-is140.v1.dark.webp",
+      "preview_light": "previews\/island-is140.v1.light.webp",
+      "preview_dark": "previews\/island-is140.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is139",
+      "title": "IS139",
+      "version": 1,
+      "file": "widgets\/island-is139.v1.wid",
+      "size": 370741,
+      "sha256": "2f90be0468c7dbb044de78308023db254a4eed339c21893097133254ed0f0523",
+      "preview": "previews\/island-is139.v1.dark.webp",
+      "preview_light": "previews\/island-is139.v1.light.webp",
+      "preview_dark": "previews\/island-is139.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is138",
+      "title": "IS138",
+      "version": 1,
+      "file": "widgets\/island-is138.v1.wid",
+      "size": 371714,
+      "sha256": "a04092c893740eb51a6a6476f81de4a8200eda14ee2547193d7c97c6562018c4",
+      "preview": "previews\/island-is138.v1.dark.webp",
+      "preview_light": "previews\/island-is138.v1.light.webp",
+      "preview_dark": "previews\/island-is138.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is137",
+      "title": "IS137",
+      "version": 1,
+      "file": "widgets\/island-is137.v1.wid",
+      "size": 370125,
+      "sha256": "4dd61b15ad71feefdb4c4e1e517b79d2f23eee00b17b115ca0e1a73e3d6e00b6",
+      "preview": "previews\/island-is137.v1.dark.webp",
+      "preview_light": "previews\/island-is137.v1.light.webp",
+      "preview_dark": "previews\/island-is137.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is136",
+      "title": "IS136",
+      "version": 1,
+      "file": "widgets\/island-is136.v1.wid",
+      "size": 341367,
+      "sha256": "5a106b4489a86938641aab7c995d3c3dee9919b07590949070a304c221119157",
+      "preview": "previews\/island-is136.v1.dark.webp",
+      "preview_light": "previews\/island-is136.v1.light.webp",
+      "preview_dark": "previews\/island-is136.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is135",
+      "title": "IS135",
+      "version": 1,
+      "file": "widgets\/island-is135.v1.wid",
+      "size": 341883,
+      "sha256": "7b548dfe7b9fb81369318e9f1b2d552f6c46687c66443b1cc653c5de9db4abbb",
+      "preview": "previews\/island-is135.v1.dark.webp",
+      "preview_light": "previews\/island-is135.v1.light.webp",
+      "preview_dark": "previews\/island-is135.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is134",
+      "title": "IS134",
+      "version": 1,
+      "file": "widgets\/island-is134.v1.wid",
+      "size": 342926,
+      "sha256": "baa820d519b77353d6d16c6ba854385e4b53c5eb8caa266968a49d9c955592f8",
+      "preview": "previews\/island-is134.v1.dark.webp",
+      "preview_light": "previews\/island-is134.v1.light.webp",
+      "preview_dark": "previews\/island-is134.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is133",
+      "title": "IS133",
+      "version": 1,
+      "file": "widgets\/island-is133.v1.wid",
+      "size": 485073,
+      "sha256": "302baccf04aadc7dc76e6fcaf99151061dc9f44c1d28199c9d211fd3f0fc3884",
+      "preview": "previews\/island-is133.v1.dark.webp",
+      "preview_light": "previews\/island-is133.v1.light.webp",
+      "preview_dark": "previews\/island-is133.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is132",
+      "title": "IS132",
+      "version": 1,
+      "file": "widgets\/island-is132.v1.wid",
+      "size": 370267,
+      "sha256": "acf692b9f41d6b00d2c531de5698e389d98ea18d8a2fab180903fbbe9e86cb37",
+      "preview": "previews\/island-is132.v1.dark.webp",
+      "preview_light": "previews\/island-is132.v1.light.webp",
+      "preview_dark": "previews\/island-is132.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is131",
+      "title": "IS131",
+      "version": 1,
+      "file": "widgets\/island-is131.v1.wid",
+      "size": 228918,
+      "sha256": "5b4d93a75973463e34b50cfbba60fb3b47705ac2b1ed6d481b05359abed641cf",
+      "preview": "previews\/island-is131.v1.dark.webp",
+      "preview_light": "previews\/island-is131.v1.light.webp",
+      "preview_dark": "previews\/island-is131.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is130",
+      "title": "IS130",
+      "version": 1,
+      "file": "widgets\/island-is130.v1.wid",
+      "size": 341564,
+      "sha256": "a5f848631bbfbbe9b74c0d893b473293566250bca1fb6bc50cb899c8c1d764ee",
+      "preview": "previews\/island-is130.v1.dark.webp",
+      "preview_light": "previews\/island-is130.v1.light.webp",
+      "preview_dark": "previews\/island-is130.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is129",
+      "title": "IS129",
+      "version": 1,
+      "file": "widgets\/island-is129.v1.wid",
+      "size": 119466,
+      "sha256": "cd4d77989beac77a52d57bcb20b18bec50570fb1561b69e341446a172af268f2",
+      "preview": "previews\/island-is129.v1.dark.webp",
+      "preview_light": "previews\/island-is129.v1.light.webp",
+      "preview_dark": "previews\/island-is129.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is128",
+      "title": "IS128",
+      "version": 1,
+      "file": "widgets\/island-is128.v1.wid",
+      "size": 483578,
+      "sha256": "de11c4d24bb7a09c826bcccb26bba21fa9974bc47e008eb4e332d23f42eb5603",
+      "preview": "previews\/island-is128.v1.dark.webp",
+      "preview_light": "previews\/island-is128.v1.light.webp",
+      "preview_dark": "previews\/island-is128.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is127",
+      "title": "IS127",
+      "version": 1,
+      "file": "widgets\/island-is127.v1.wid",
+      "size": 369901,
+      "sha256": "e466ffd26d07e52aeef89fae42b4d85442b79a7f0e3e62dc8e112a4661770059",
+      "preview": "previews\/island-is127.v1.dark.webp",
+      "preview_light": "previews\/island-is127.v1.light.webp",
+      "preview_dark": "previews\/island-is127.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is126",
+      "title": "IS126",
+      "version": 1,
+      "file": "widgets\/island-is126.v1.wid",
+      "size": 596480,
+      "sha256": "99d6076e1aa20601eb9277cd8847684edc4a0c36cd00c59bf1c9b5b08273356e",
+      "preview": "previews\/island-is126.v1.dark.webp",
+      "preview_light": "previews\/island-is126.v1.light.webp",
+      "preview_dark": "previews\/island-is126.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is125",
+      "title": "IS125",
+      "version": 1,
+      "file": "widgets\/island-is125.v1.wid",
+      "size": 370419,
+      "sha256": "e1af5679c3b81efb7321ece0e7bf38a42a7d707a81a935faf846c1179e8e9629",
+      "preview": "previews\/island-is125.v1.dark.webp",
+      "preview_light": "previews\/island-is125.v1.light.webp",
+      "preview_dark": "previews\/island-is125.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is124",
+      "title": "IS124",
+      "version": 1,
+      "file": "widgets\/island-is124.v1.wid",
+      "size": 370774,
+      "sha256": "b1ee5619c32c0f6e7331eb35ccfbb621e7cc0acf15bbd564db7abd4ad45232af",
+      "preview": "previews\/island-is124.v1.dark.webp",
+      "preview_light": "previews\/island-is124.v1.light.webp",
+      "preview_dark": "previews\/island-is124.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is123",
+      "title": "IS123",
+      "version": 1,
+      "file": "widgets\/island-is123.v1.wid",
+      "size": 341947,
+      "sha256": "17b3b34e8fd50228716b684f5c5f2f1918a6058e5f154993b38922163be56295",
+      "preview": "previews\/island-is123.v1.dark.webp",
+      "preview_light": "previews\/island-is123.v1.light.webp",
+      "preview_dark": "previews\/island-is123.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is122",
+      "title": "IS122",
+      "version": 1,
+      "file": "widgets\/island-is122.v1.wid",
+      "size": 341717,
+      "sha256": "da6604c4beb7b3ae011626a655e67ab8da9e5b89d18cc9d371915ea5948b7931",
+      "preview": "previews\/island-is122.v1.dark.webp",
+      "preview_light": "previews\/island-is122.v1.light.webp",
+      "preview_dark": "previews\/island-is122.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is121",
+      "title": "IS121",
+      "version": 1,
+      "file": "widgets\/island-is121.v1.wid",
+      "size": 229570,
+      "sha256": "78f47c3a53037657b6d3a18db73404182bc2e453215d7c47890d8a5617cc43b6",
+      "preview": "previews\/island-is121.v1.dark.webp",
+      "preview_light": "previews\/island-is121.v1.light.webp",
+      "preview_dark": "previews\/island-is121.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is120",
+      "title": "IS120",
+      "version": 1,
+      "file": "widgets\/island-is120.v1.wid",
+      "size": 370322,
+      "sha256": "20267712547bb6a6547dfaa6f96bf530d4abfc254ec3daa166dca8af499b1813",
+      "preview": "previews\/island-is120.v1.dark.webp",
+      "preview_light": "previews\/island-is120.v1.light.webp",
+      "preview_dark": "previews\/island-is120.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is119",
+      "title": "IS119",
+      "version": 1,
+      "file": "widgets\/island-is119.v1.wid",
+      "size": 228473,
+      "sha256": "23ee047783fbef133bb23c9b6723f65a7390ad7d047f066a7d46cdbdecbec1fa",
+      "preview": "previews\/island-is119.v1.dark.webp",
+      "preview_light": "previews\/island-is119.v1.light.webp",
+      "preview_dark": "previews\/island-is119.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is118",
+      "title": "IS118",
+      "version": 1,
+      "file": "widgets\/island-is118.v1.wid",
+      "size": 483956,
+      "sha256": "18b65e8fb016417c63c0a1b93b473ee15a63b7622c152c5d572eeee5ad9b9824",
+      "preview": "previews\/island-is118.v1.dark.webp",
+      "preview_light": "previews\/island-is118.v1.light.webp",
+      "preview_dark": "previews\/island-is118.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is117",
+      "title": "IS117",
+      "version": 1,
+      "file": "widgets\/island-is117.v1.wid",
+      "size": 341913,
+      "sha256": "ad7979d0d194f5f1f913bc48bacf417d70a651a46f8806052513da22b019fa59",
+      "preview": "previews\/island-is117.v1.dark.webp",
+      "preview_light": "previews\/island-is117.v1.light.webp",
+      "preview_dark": "previews\/island-is117.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "air_quality",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is116",
+      "title": "IS116",
+      "version": 1,
+      "file": "widgets\/island-is116.v1.wid",
+      "size": 230122,
+      "sha256": "ef3c86f0af2d9c39769d78e72e6adc79685fa0a4054d24735a24e79db7fc64ad",
+      "preview": "previews\/island-is116.v1.dark.webp",
+      "preview_light": "previews\/island-is116.v1.light.webp",
+      "preview_dark": "previews\/island-is116.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is115",
+      "title": "IS115",
+      "version": 1,
+      "file": "widgets\/island-is115.v1.wid",
+      "size": 483392,
+      "sha256": "dc97166c65905e8409b2262b24576299c3bfd0abb5a630813d0c0194f0bf57fd",
+      "preview": "previews\/island-is115.v1.dark.webp",
+      "preview_light": "previews\/island-is115.v1.light.webp",
+      "preview_dark": "previews\/island-is115.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is114",
+      "title": "IS114",
+      "version": 1,
+      "file": "widgets\/island-is114.v1.wid",
+      "size": 370255,
+      "sha256": "2d743747b818b8aa3f1a6dcc467a54c56201aba0f9bab97758b067b20cc78e0f",
+      "preview": "previews\/island-is114.v1.dark.webp",
+      "preview_light": "previews\/island-is114.v1.light.webp",
+      "preview_dark": "previews\/island-is114.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is113",
+      "title": "IS113",
+      "version": 1,
+      "file": "widgets\/island-is113.v1.wid",
+      "size": 482954,
+      "sha256": "3cd4c279bc6a97b50314578261535ab98bf3a1352c0d8f7cc4a06ad5eb43e086",
+      "preview": "previews\/island-is113.v1.dark.webp",
+      "preview_light": "previews\/island-is113.v1.light.webp",
+      "preview_dark": "previews\/island-is113.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is112",
+      "title": "IS112",
+      "version": 1,
+      "file": "widgets\/island-is112.v1.wid",
+      "size": 115606,
+      "sha256": "2f13227551af277b6a2a67e4c1009697e7c4c140bed426133831e9201ddcc4ff",
+      "preview": "previews\/island-is112.v1.dark.webp",
+      "preview_light": "previews\/island-is112.v1.light.webp",
+      "preview_dark": "previews\/island-is112.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is111",
+      "title": "IS111",
+      "version": 1,
+      "file": "widgets\/island-is111.v1.wid",
+      "size": 370139,
+      "sha256": "f8f941d88871e8b270643f9ea874060b6ce61ee1075fa59e0aae3fa837ae94e4",
+      "preview": "previews\/island-is111.v1.dark.webp",
+      "preview_light": "previews\/island-is111.v1.light.webp",
+      "preview_dark": "previews\/island-is111.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is110",
+      "title": "IS110",
+      "version": 1,
+      "file": "widgets\/island-is110.v1.wid",
+      "size": 483268,
+      "sha256": "2bc81778232c2cbc5cd90b7d098d45e7fd2aa12f2548d869e7c61dddb0402a98",
+      "preview": "previews\/island-is110.v1.dark.webp",
+      "preview_light": "previews\/island-is110.v1.light.webp",
+      "preview_dark": "previews\/island-is110.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is109",
+      "title": "IS109",
+      "version": 1,
+      "file": "widgets\/island-is109.v1.wid",
+      "size": 341320,
+      "sha256": "28225fa3ab676e5308d4dac60b2a034a736451001c754a0e7420e924852299ff",
+      "preview": "previews\/island-is109.v1.dark.webp",
+      "preview_light": "previews\/island-is109.v1.light.webp",
+      "preview_dark": "previews\/island-is109.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is108",
+      "title": "IS108",
+      "version": 1,
+      "file": "widgets\/island-is108.v1.wid",
+      "size": 484574,
+      "sha256": "250e68bbf42c50b3449d8334689c931bd2f28423dc0889037cd9d84ebe8cf7c0",
+      "preview": "previews\/island-is108.v1.dark.webp",
+      "preview_light": "previews\/island-is108.v1.light.webp",
+      "preview_dark": "previews\/island-is108.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is107",
+      "title": "IS107",
+      "version": 1,
+      "file": "widgets\/island-is107.v1.wid",
+      "size": 484414,
+      "sha256": "8c36e0f61b3285ce253d71e2d997ee34c28ea225368b6accac9ca775af8bcbe7",
+      "preview": "previews\/island-is107.v1.dark.webp",
+      "preview_light": "previews\/island-is107.v1.light.webp",
+      "preview_dark": "previews\/island-is107.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is106",
+      "title": "IS106",
+      "version": 1,
+      "file": "widgets\/island-is106.v1.wid",
+      "size": 115391,
+      "sha256": "e9a757f10691c7ff723e7c758dcc92674bb86ed39150fa571ff026bd693faf08",
+      "preview": "previews\/island-is106.v1.dark.webp",
+      "preview_light": "previews\/island-is106.v1.light.webp",
+      "preview_dark": "previews\/island-is106.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is105",
+      "title": "IS105",
+      "version": 1,
+      "file": "widgets\/island-is105.v1.wid",
+      "size": 257378,
+      "sha256": "65df397ba1059a8684de8313c58d20a0611bc06586724a0f1999e9357ca90633",
+      "preview": "previews\/island-is105.v1.dark.webp",
+      "preview_light": "previews\/island-is105.v1.light.webp",
+      "preview_dark": "previews\/island-is105.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is104",
+      "title": "IS104",
+      "version": 1,
+      "file": "widgets\/island-is104.v1.wid",
+      "size": 342715,
+      "sha256": "5008a8aa61a454dbc9af466264a296ba7c1dc87b7a092c4b3ca1b94dcf446286",
+      "preview": "previews\/island-is104.v1.dark.webp",
+      "preview_light": "previews\/island-is104.v1.light.webp",
+      "preview_dark": "previews\/island-is104.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is103",
+      "title": "IS103",
+      "version": 1,
+      "file": "widgets\/island-is103.v1.wid",
+      "size": 455476,
+      "sha256": "aa040e242ff175ef408dd9729c9d2f92ba6ae3f8401b100f4011298b96e7f659",
+      "preview": "previews\/island-is103.v1.dark.webp",
+      "preview_light": "previews\/island-is103.v1.light.webp",
+      "preview_dark": "previews\/island-is103.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is102",
+      "title": "IS102",
+      "version": 1,
+      "file": "widgets\/island-is102.v1.wid",
+      "size": 340988,
+      "sha256": "702a46c796190db7e174a8cf4ef451498758914f4db2ed1dd69bad3ed26bea12",
+      "preview": "previews\/island-is102.v1.dark.webp",
+      "preview_light": "previews\/island-is102.v1.light.webp",
+      "preview_dark": "previews\/island-is102.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is101",
+      "title": "IS101",
+      "version": 1,
+      "file": "widgets\/island-is101.v1.wid",
+      "size": 370001,
+      "sha256": "60d8de757bd42dd840401aab311e5bc75f18ec96677afb460918b06962b00448",
+      "preview": "previews\/island-is101.v1.dark.webp",
+      "preview_light": "previews\/island-is101.v1.light.webp",
+      "preview_dark": "previews\/island-is101.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is100",
+      "title": "IS100",
+      "version": 1,
+      "file": "widgets\/island-is100.v1.wid",
+      "size": 228957,
+      "sha256": "5eeb9c4111d6859d4f893903c72e40e911e5dea742660aa64b18d1771f99285f",
+      "preview": "previews\/island-is100.v1.dark.webp",
+      "preview_light": "previews\/island-is100.v1.light.webp",
+      "preview_dark": "previews\/island-is100.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is099",
+      "title": "IS099",
+      "version": 1,
+      "file": "widgets\/island-is099.v1.wid",
+      "size": 228619,
+      "sha256": "3a8d85fc82d4e00a85cbfcfcfd37a5ddf6b269c677efc86c0ba9b18cd382a13e",
+      "preview": "previews\/island-is099.v1.dark.webp",
+      "preview_light": "previews\/island-is099.v1.light.webp",
+      "preview_dark": "previews\/island-is099.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is098",
+      "title": "IS098",
+      "version": 1,
+      "file": "widgets\/island-is098.v1.wid",
+      "size": 484221,
+      "sha256": "a8e449afd21e42d9bf826075d9a0bf57a7b0cc2fa4da241ec02acdd38e05a768",
+      "preview": "previews\/island-is098.v1.dark.webp",
+      "preview_light": "previews\/island-is098.v1.light.webp",
+      "preview_dark": "previews\/island-is098.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is097",
+      "title": "IS097",
+      "version": 1,
+      "file": "widgets\/island-is097.v1.wid",
+      "size": 257150,
+      "sha256": "5f63ac73acbf3b23fca9268da9fc80ae841a5ea65558e0f4cdba49616523e05a",
+      "preview": "previews\/island-is097.v1.dark.webp",
+      "preview_light": "previews\/island-is097.v1.light.webp",
+      "preview_dark": "previews\/island-is097.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is096",
+      "title": "IS096",
+      "version": 1,
+      "file": "widgets\/island-is096.v1.wid",
+      "size": 342938,
+      "sha256": "40d5107146c0f8b26061600a8fb8d61fed91466ce1378f46afc533fcbdbf0f02",
+      "preview": "previews\/island-is096.v1.dark.webp",
+      "preview_light": "previews\/island-is096.v1.light.webp",
+      "preview_dark": "previews\/island-is096.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is095",
+      "title": "IS095",
+      "version": 1,
+      "file": "widgets\/island-is095.v1.wid",
+      "size": 228999,
+      "sha256": "6900bc5a91ddbc553f197323050722ee755ffa257df13f12241fad52b1ed087d",
+      "preview": "previews\/island-is095.v1.dark.webp",
+      "preview_light": "previews\/island-is095.v1.light.webp",
+      "preview_dark": "previews\/island-is095.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is094",
+      "title": "IS094",
+      "version": 1,
+      "file": "widgets\/island-is094.v1.wid",
+      "size": 229892,
+      "sha256": "c8ac401dbb62299b257b38c808fe12fe8498fcc3a818ab74bde4f866d509bf92",
+      "preview": "previews\/island-is094.v1.dark.webp",
+      "preview_light": "previews\/island-is094.v1.light.webp",
+      "preview_dark": "previews\/island-is094.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is093",
+      "title": "IS093",
+      "version": 1,
+      "file": "widgets\/island-is093.v1.wid",
+      "size": 370913,
+      "sha256": "137cd03371a0517fca0682dace97955121b21349694d0d0e792ccd7ec7dd5057",
+      "preview": "previews\/island-is093.v1.dark.webp",
+      "preview_light": "previews\/island-is093.v1.light.webp",
+      "preview_dark": "previews\/island-is093.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is092",
+      "title": "IS092",
+      "version": 1,
+      "file": "widgets\/island-is092.v1.wid",
+      "size": 483651,
+      "sha256": "b14040060f537b3ba9f7ea20352818ee2aa0e5e2fc508f8584cf898e838972e1",
+      "preview": "previews\/island-is092.v1.dark.webp",
+      "preview_light": "previews\/island-is092.v1.light.webp",
+      "preview_dark": "previews\/island-is092.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is091",
+      "title": "IS091",
+      "version": 1,
+      "file": "widgets\/island-is091.v1.wid",
+      "size": 491560,
+      "sha256": "2eaf5f8337b5948f032f940205f22ece38e8aff12409fa8ebcee765e99cda70b",
+      "preview": "previews\/island-is091.v1.dark.webp",
+      "preview_light": "previews\/island-is091.v1.light.webp",
+      "preview_dark": "previews\/island-is091.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is090",
+      "title": "IS090",
+      "version": 1,
+      "file": "widgets\/island-is090.v1.wid",
+      "size": 484100,
+      "sha256": "fe39afe0c98be39ea980ec5fd58023f60aa954482ddaa83bf99354177395c6a6",
+      "preview": "previews\/island-is090.v1.dark.webp",
+      "preview_light": "previews\/island-is090.v1.light.webp",
+      "preview_dark": "previews\/island-is090.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is089",
+      "title": "IS089",
+      "version": 1,
+      "file": "widgets\/island-is089.v1.wid",
+      "size": 116078,
+      "sha256": "26a907492d1c7c16620063d57fbe0f66f53eb9eb5ce4a5cf1d2f1d1f46373655",
+      "preview": "previews\/island-is089.v1.dark.webp",
+      "preview_light": "previews\/island-is089.v1.light.webp",
+      "preview_dark": "previews\/island-is089.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is088",
+      "title": "IS088",
+      "version": 1,
+      "file": "widgets\/island-is088.v1.wid",
+      "size": 458718,
+      "sha256": "868e432642de6611f57742046c9074ce628cb490d7f516ec3df23b400deaff74",
+      "preview": "previews\/island-is088.v1.dark.webp",
+      "preview_light": "previews\/island-is088.v1.light.webp",
+      "preview_dark": "previews\/island-is088.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is087",
+      "title": "IS087",
+      "version": 1,
+      "file": "widgets\/island-is087.v1.wid",
+      "size": 228812,
+      "sha256": "b31cfbe8395a1f073b52d7663d8dfb3d58d78703d9a64a88bcd0ba4b4db29830",
+      "preview": "previews\/island-is087.v1.dark.webp",
+      "preview_light": "previews\/island-is087.v1.light.webp",
+      "preview_dark": "previews\/island-is087.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is086",
+      "title": "IS086",
+      "version": 1,
+      "file": "widgets\/island-is086.v1.wid",
+      "size": 343225,
+      "sha256": "f376713f9b3172ca16c1806347930ff633546ecacbe814312b52198ed0ec0503",
+      "preview": "previews\/island-is086.v1.dark.webp",
+      "preview_light": "previews\/island-is086.v1.light.webp",
+      "preview_dark": "previews\/island-is086.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is085",
+      "title": "IS085",
+      "version": 1,
+      "file": "widgets\/island-is085.v1.wid",
+      "size": 231682,
+      "sha256": "03efb785a73161bceec0b9692d98c2b5a00f2a0212147756b097c50b442edb59",
+      "preview": "previews\/island-is085.v1.dark.webp",
+      "preview_light": "previews\/island-is085.v1.light.webp",
+      "preview_dark": "previews\/island-is085.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is084",
+      "title": "IS084",
+      "version": 1,
+      "file": "widgets\/island-is084.v1.wid",
+      "size": 483527,
+      "sha256": "13f115ef6a8dcd221df739a2979bdbfd83c0d70b3498aab0e23b20a277385d79",
+      "preview": "previews\/island-is084.v1.dark.webp",
+      "preview_light": "previews\/island-is084.v1.light.webp",
+      "preview_dark": "previews\/island-is084.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is083",
+      "title": "IS083",
+      "version": 1,
+      "file": "widgets\/island-is083.v1.wid",
+      "size": 485432,
+      "sha256": "c3a1b55374cb076c857e79b84db3f12eda6da1d5165349adfcf1d15e5aa36c53",
+      "preview": "previews\/island-is083.v1.dark.webp",
+      "preview_light": "previews\/island-is083.v1.light.webp",
+      "preview_dark": "previews\/island-is083.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is082",
+      "title": "IS082",
+      "version": 1,
+      "file": "widgets\/island-is082.v1.wid",
+      "size": 228430,
+      "sha256": "1f98f3f0c9b1b077b1c16ac6381f3c7743a6332cbd6844089fa86428137b4cdf",
+      "preview": "previews\/island-is082.v1.dark.webp",
+      "preview_light": "previews\/island-is082.v1.light.webp",
+      "preview_dark": "previews\/island-is082.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is081",
+      "title": "IS081",
+      "version": 1,
+      "file": "widgets\/island-is081.v1.wid",
+      "size": 370647,
+      "sha256": "394ef74a0d624e2b9a80d90781e7e8bdaa7bb10c7a8a301aba9d507806bd5441",
+      "preview": "previews\/island-is081.v1.dark.webp",
+      "preview_light": "previews\/island-is081.v1.light.webp",
+      "preview_dark": "previews\/island-is081.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is080",
+      "title": "IS080",
+      "version": 1,
+      "file": "widgets\/island-is080.v1.wid",
+      "size": 370874,
+      "sha256": "c925f685aef0ac0b6e5d8dc1c6b2e4abdeb29f526ab1b5d1d5b472317ae254a4",
+      "preview": "previews\/island-is080.v1.dark.webp",
+      "preview_light": "previews\/island-is080.v1.light.webp",
+      "preview_dark": "previews\/island-is080.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is079",
+      "title": "IS079",
+      "version": 1,
+      "file": "widgets\/island-is079.v1.wid",
+      "size": 370564,
+      "sha256": "553e381cccb6bfc1d75d9d7b9b86bbc9c7338df3637c733b43cb7d6550191d9d",
+      "preview": "previews\/island-is079.v1.dark.webp",
+      "preview_light": "previews\/island-is079.v1.light.webp",
+      "preview_dark": "previews\/island-is079.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is078",
+      "title": "IS078",
+      "version": 1,
+      "file": "widgets\/island-is078.v1.wid",
+      "size": 455885,
+      "sha256": "03ff5e1d03aef717599bd422839ebea2aa8d1302dc98bcb662367607aad4f0b0",
+      "preview": "previews\/island-is078.v1.dark.webp",
+      "preview_light": "previews\/island-is078.v1.light.webp",
+      "preview_dark": "previews\/island-is078.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is077",
+      "title": "IS077",
+      "version": 1,
+      "file": "widgets\/island-is077.v1.wid",
+      "size": 483381,
+      "sha256": "2340579f3e79b27f4f56ef7d214b019d300d295e697a4bc0fed57d06fe165881",
+      "preview": "previews\/island-is077.v1.dark.webp",
+      "preview_light": "previews\/island-is077.v1.light.webp",
+      "preview_dark": "previews\/island-is077.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is076",
+      "title": "IS076",
+      "version": 1,
+      "file": "widgets\/island-is076.v1.wid",
+      "size": 119852,
+      "sha256": "bb5066d182def7939765aeacd13bdd12079dd8f44f4b7bfdd77b39c2e9a420b2",
+      "preview": "previews\/island-is076.v1.dark.webp",
+      "preview_light": "previews\/island-is076.v1.light.webp",
+      "preview_dark": "previews\/island-is076.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is075",
+      "title": "IS075",
+      "version": 1,
+      "file": "widgets\/island-is075.v1.wid",
+      "size": 342604,
+      "sha256": "78164eb35a2266a7cd0b0e86ef3e43ede2383125e26e63f95fcb1b40130889f4",
+      "preview": "previews\/island-is075.v1.dark.webp",
+      "preview_light": "previews\/island-is075.v1.light.webp",
+      "preview_dark": "previews\/island-is075.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is074",
+      "title": "IS074",
+      "version": 1,
+      "file": "widgets\/island-is074.v1.wid",
+      "size": 258149,
+      "sha256": "60e76fb9f5870a0946cdcb8b002a32350a6bad1a3cbdb235a28d2b985df6ad35",
+      "preview": "previews\/island-is074.v1.dark.webp",
+      "preview_light": "previews\/island-is074.v1.light.webp",
+      "preview_dark": "previews\/island-is074.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is073",
+      "title": "IS073",
+      "version": 1,
+      "file": "widgets\/island-is073.v1.wid",
+      "size": 482783,
+      "sha256": "591037a50043e8ad0583c1348b45f5312744cd4adb71eab7c2c7a2430588d906",
+      "preview": "previews\/island-is073.v1.dark.webp",
+      "preview_light": "previews\/island-is073.v1.light.webp",
+      "preview_dark": "previews\/island-is073.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is072",
+      "title": "IS072",
+      "version": 1,
+      "file": "widgets\/island-is072.v1.wid",
+      "size": 483622,
+      "sha256": "629e49d42b22239a7a8ddf63cca3f7977cdfd1b268e7939a5d25c50326326aef",
+      "preview": "previews\/island-is072.v1.dark.webp",
+      "preview_light": "previews\/island-is072.v1.light.webp",
+      "preview_dark": "previews\/island-is072.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is071",
+      "title": "IS071",
+      "version": 1,
+      "file": "widgets\/island-is071.v1.wid",
+      "size": 242423,
+      "sha256": "22702afdf6ad0d87046910e20eefb4d6e752bcb34b8067c5ed94185605e0684f",
+      "preview": "previews\/island-is071.v1.dark.webp",
+      "preview_light": "previews\/island-is071.v1.light.webp",
+      "preview_dark": "previews\/island-is071.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is070",
+      "title": "IS070",
+      "version": 1,
+      "file": "widgets\/island-is070.v1.wid",
+      "size": 257154,
+      "sha256": "1c1f7fe395be3d44ae28e909b7357b8dafd65bfa9c16e1cdcf18897410f80f8b",
+      "preview": "previews\/island-is070.v1.dark.webp",
+      "preview_light": "previews\/island-is070.v1.light.webp",
+      "preview_dark": "previews\/island-is070.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is069",
+      "title": "IS069",
+      "version": 1,
+      "file": "widgets\/island-is069.v1.wid",
+      "size": 455314,
+      "sha256": "6413365cafa4b1fd584d48359271aa50b715e4bc0ab7ecd03ebae1c9ca47dae0",
+      "preview": "previews\/island-is069.v1.dark.webp",
+      "preview_light": "previews\/island-is069.v1.light.webp",
+      "preview_dark": "previews\/island-is069.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is068",
+      "title": "IS068",
+      "version": 1,
+      "file": "widgets\/island-is068.v1.wid",
+      "size": 232178,
+      "sha256": "998c8f9998e597834c560a93f8814e9ebad5af9725ecbca157b20452c04a05e3",
+      "preview": "previews\/island-is068.v1.dark.webp",
+      "preview_light": "previews\/island-is068.v1.light.webp",
+      "preview_dark": "previews\/island-is068.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is067",
+      "title": "IS067",
+      "version": 1,
+      "file": "widgets\/island-is067.v1.wid",
+      "size": 456951,
+      "sha256": "c39c1cf95e7e5a445079856a376d4a2ce0cb1b0f55ee4404ace37573e708a44a",
+      "preview": "previews\/island-is067.v1.dark.webp",
+      "preview_light": "previews\/island-is067.v1.light.webp",
+      "preview_dark": "previews\/island-is067.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is066",
+      "title": "IS066",
+      "version": 1,
+      "file": "widgets\/island-is066.v1.wid",
+      "size": 369587,
+      "sha256": "f471e6176f2022dabb48c9cbabd60c5ad545db4742ce65e28266b76fc0edbea7",
+      "preview": "previews\/island-is066.v1.dark.webp",
+      "preview_light": "previews\/island-is066.v1.light.webp",
+      "preview_dark": "previews\/island-is066.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is065",
+      "title": "IS065",
+      "version": 1,
+      "file": "widgets\/island-is065.v1.wid",
+      "size": 369979,
+      "sha256": "30bf93e2a361ffeb7e1f4a7ccd43d06159269417270cdb8a74e6b5361f4f5f54",
+      "preview": "previews\/island-is065.v1.dark.webp",
+      "preview_light": "previews\/island-is065.v1.light.webp",
+      "preview_dark": "previews\/island-is065.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is064",
+      "title": "IS064",
+      "version": 1,
+      "file": "widgets\/island-is064.v1.wid",
+      "size": 484109,
+      "sha256": "8a41485452005e89cd2af8828af38eba5082cc2abd7b953795b2f89a512b538e",
+      "preview": "previews\/island-is064.v1.dark.webp",
+      "preview_light": "previews\/island-is064.v1.light.webp",
+      "preview_dark": "previews\/island-is064.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is063",
+      "title": "IS063",
+      "version": 1,
+      "file": "widgets\/island-is063.v1.wid",
+      "size": 370452,
+      "sha256": "aeced345298abc2008cf7cf3cc318758d3439dd90006470c76bd54e6dc051cfa",
+      "preview": "previews\/island-is063.v1.dark.webp",
+      "preview_light": "previews\/island-is063.v1.light.webp",
+      "preview_dark": "previews\/island-is063.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is062",
+      "title": "IS062",
+      "version": 1,
+      "file": "widgets\/island-is062.v1.wid",
+      "size": 483417,
+      "sha256": "3052c186338f8b176a9948897a1fd698f472ae8127f6706797c1cce70fd6cca0",
+      "preview": "previews\/island-is062.v1.dark.webp",
+      "preview_light": "previews\/island-is062.v1.light.webp",
+      "preview_dark": "previews\/island-is062.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is061",
+      "title": "IS061",
+      "version": 1,
+      "file": "widgets\/island-is061.v1.wid",
+      "size": 484916,
+      "sha256": "5fef596b01052588bfa9962dc31b712374610e42b4c669fbb7e055c156befcc1",
+      "preview": "previews\/island-is061.v1.dark.webp",
+      "preview_light": "previews\/island-is061.v1.light.webp",
+      "preview_dark": "previews\/island-is061.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "notifications",
+        "weather"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is060",
+      "title": "IS060",
+      "version": 1,
+      "file": "widgets\/island-is060.v1.wid",
+      "size": 484049,
+      "sha256": "3b668ed956d1c69fb095ad531fabfa8f0eb1a80089f469954d81446ffd18f731",
+      "preview": "previews\/island-is060.v1.dark.webp",
+      "preview_light": "previews\/island-is060.v1.light.webp",
+      "preview_dark": "previews\/island-is060.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is059",
+      "title": "IS059",
+      "version": 1,
+      "file": "widgets\/island-is059.v1.wid",
+      "size": 483902,
+      "sha256": "1de374ddf3d467c11a5c6541335e5a56010ad029e6526992e1741041dd211a35",
+      "preview": "previews\/island-is059.v1.dark.webp",
+      "preview_light": "previews\/island-is059.v1.light.webp",
+      "preview_dark": "previews\/island-is059.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "location",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is058",
+      "title": "IS058",
+      "version": 1,
+      "file": "widgets\/island-is058.v1.wid",
+      "size": 483407,
+      "sha256": "e334e56f51d64efebee4fb6322795bdbae5f2f9f724fc75159d097af61e1efdd",
+      "preview": "previews\/island-is058.v1.dark.webp",
+      "preview_light": "previews\/island-is058.v1.light.webp",
+      "preview_dark": "previews\/island-is058.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is057",
+      "title": "IS057",
+      "version": 1,
+      "file": "widgets\/island-is057.v1.wid",
+      "size": 229241,
+      "sha256": "5a90bb507699cf9b7ccbc2a0b8d91b04f059d7abfb3dc7bfc5a002572a09f081",
+      "preview": "previews\/island-is057.v1.dark.webp",
+      "preview_light": "previews\/island-is057.v1.light.webp",
+      "preview_dark": "previews\/island-is057.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is056",
+      "title": "IS056",
+      "version": 1,
+      "file": "widgets\/island-is056.v1.wid",
+      "size": 229851,
+      "sha256": "ddb482d22b4ab1dc7652401bde96a4f43e871358968140996e4f68dd41d51691",
+      "preview": "previews\/island-is056.v1.dark.webp",
+      "preview_light": "previews\/island-is056.v1.light.webp",
+      "preview_dark": "previews\/island-is056.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is055",
+      "title": "IS055",
+      "version": 1,
+      "file": "widgets\/island-is055.v1.wid",
+      "size": 369820,
+      "sha256": "8bf440aff643476d8d1153e145c80621d2a90a7a656cde671fe27dbab4e6aaa9",
+      "preview": "previews\/island-is055.v1.dark.webp",
+      "preview_light": "previews\/island-is055.v1.light.webp",
+      "preview_dark": "previews\/island-is055.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is054",
+      "title": "IS054",
+      "version": 1,
+      "file": "widgets\/island-is054.v1.wid",
+      "size": 347868,
+      "sha256": "f068808e4119ed92ef3ffa1a2f34fb5a3b4228aaac6eaa78e41c9ca9d7bcf6e3",
+      "preview": "previews\/island-is054.v1.dark.webp",
+      "preview_light": "previews\/island-is054.v1.light.webp",
+      "preview_dark": "previews\/island-is054.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is053",
+      "title": "IS053",
+      "version": 1,
+      "file": "widgets\/island-is053.v1.wid",
+      "size": 370427,
+      "sha256": "b350d8f40e68822fabd35623539a84b82daa42b8f46576868c3a4dd0fa472957",
+      "preview": "previews\/island-is053.v1.dark.webp",
+      "preview_light": "previews\/island-is053.v1.light.webp",
+      "preview_dark": "previews\/island-is053.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is052",
+      "title": "IS052",
+      "version": 1,
+      "file": "widgets\/island-is052.v1.wid",
+      "size": 596730,
+      "sha256": "a55c751bf001b192882bd1d19a2b3c54289770a01bc22def69c0fdd8d65af2ca",
+      "preview": "previews\/island-is052.v1.dark.webp",
+      "preview_light": "previews\/island-is052.v1.light.webp",
+      "preview_dark": "previews\/island-is052.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is051",
+      "title": "IS051",
+      "version": 1,
+      "file": "widgets\/island-is051.v1.wid",
+      "size": 483715,
+      "sha256": "6303e0d58699f03499d4ad840051c6f59ae7b3ec634bc847de72a5c737ae1990",
+      "preview": "previews\/island-is051.v1.dark.webp",
+      "preview_light": "previews\/island-is051.v1.light.webp",
+      "preview_dark": "previews\/island-is051.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is050",
+      "title": "IS050",
+      "version": 1,
+      "file": "widgets\/island-is050.v1.wid",
+      "size": 484230,
+      "sha256": "29d1951db854e0815f449a9d4807c176c57837e654ba95d838a0df7cf4426c82",
+      "preview": "previews\/island-is050.v1.dark.webp",
+      "preview_light": "previews\/island-is050.v1.light.webp",
+      "preview_dark": "previews\/island-is050.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is049",
+      "title": "IS049",
+      "version": 1,
+      "file": "widgets\/island-is049.v1.wid",
+      "size": 341892,
+      "sha256": "bfa9c4fd0e2742fcd56fec8f3bfe11011c4af985133102d71c4d4bd6dbe84a3a",
+      "preview": "previews\/island-is049.v1.dark.webp",
+      "preview_light": "previews\/island-is049.v1.light.webp",
+      "preview_dark": "previews\/island-is049.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is048",
+      "title": "IS048",
+      "version": 1,
+      "file": "widgets\/island-is048.v1.wid",
+      "size": 371523,
+      "sha256": "155c037b00cad8791f2e971199a9c6b35fee4202857db65e185d24ac059e9acd",
+      "preview": "previews\/island-is048.v1.dark.webp",
+      "preview_light": "previews\/island-is048.v1.light.webp",
+      "preview_dark": "previews\/island-is048.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is047",
+      "title": "IS047",
+      "version": 1,
+      "file": "widgets\/island-is047.v1.wid",
+      "size": 458152,
+      "sha256": "f18cddc417f9863fe9ead873cd42f0a4f14127b55e16a44d5236cf2b9fec150d",
+      "preview": "previews\/island-is047.v1.dark.webp",
+      "preview_light": "previews\/island-is047.v1.light.webp",
+      "preview_dark": "previews\/island-is047.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is046",
+      "title": "IS046",
+      "version": 1,
+      "file": "widgets\/island-is046.v1.wid",
+      "size": 229929,
+      "sha256": "e5d00b41ac76307a46287a7f7b8a630e6f79e71cc3e6f53c12f561a215cd7e02",
+      "preview": "previews\/island-is046.v1.dark.webp",
+      "preview_light": "previews\/island-is046.v1.light.webp",
+      "preview_dark": "previews\/island-is046.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is045",
+      "title": "IS045",
+      "version": 1,
+      "file": "widgets\/island-is045.v1.wid",
+      "size": 341761,
+      "sha256": "cb6e4f9e9d72052a2ec6c8bc34df819e81f85ce96c6052c2623bf2e3d82a652b",
+      "preview": "previews\/island-is045.v1.dark.webp",
+      "preview_light": "previews\/island-is045.v1.light.webp",
+      "preview_dark": "previews\/island-is045.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is044",
+      "title": "IS044",
+      "version": 1,
+      "file": "widgets\/island-is044.v1.wid",
+      "size": 228948,
+      "sha256": "752a45d52967a0afc833628da1037bde1de0c0ecdc8f5b7767e62e05835b3215",
+      "preview": "previews\/island-is044.v1.dark.webp",
+      "preview_light": "previews\/island-is044.v1.light.webp",
+      "preview_dark": "previews\/island-is044.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is043",
+      "title": "IS043",
+      "version": 1,
+      "file": "widgets\/island-is043.v1.wid",
+      "size": 485541,
+      "sha256": "518fcbf2a9de61515d102395ea1ee152be0d42620b3dc7dc93961eb31bea003f",
+      "preview": "previews\/island-is043.v1.dark.webp",
+      "preview_light": "previews\/island-is043.v1.light.webp",
+      "preview_dark": "previews\/island-is043.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date",
+        "music",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is042",
+      "title": "IS042",
+      "version": 1,
+      "file": "widgets\/island-is042.v1.wid",
+      "size": 483063,
+      "sha256": "46946ccb451a0efeff1e651f0a091411994710c4d75eb6ac6385407a03a0bd96",
+      "preview": "previews\/island-is042.v1.dark.webp",
+      "preview_light": "previews\/island-is042.v1.light.webp",
+      "preview_dark": "previews\/island-is042.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is041",
+      "title": "IS041",
+      "version": 1,
+      "file": "widgets\/island-is041.v1.wid",
+      "size": 483673,
+      "sha256": "e6544636505a32fbc781fdc4710c524c8f8cf41a21fac88fb708eab78138eb71",
+      "preview": "previews\/island-is041.v1.dark.webp",
+      "preview_light": "previews\/island-is041.v1.light.webp",
+      "preview_dark": "previews\/island-is041.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is040",
+      "title": "IS040",
+      "version": 1,
+      "file": "widgets\/island-is040.v1.wid",
+      "size": 257074,
+      "sha256": "6f8e46bf8a1b8d9f6cdccca52867afff979abd6407ec651839a47ae88476c6bc",
+      "preview": "previews\/island-is040.v1.dark.webp",
+      "preview_light": "previews\/island-is040.v1.light.webp",
+      "preview_dark": "previews\/island-is040.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is039",
+      "title": "IS039",
+      "version": 1,
+      "file": "widgets\/island-is039.v1.wid",
+      "size": 456521,
+      "sha256": "3e652721d3f61dc29ac6f59eaeb07db05e9eb4ca23db4f64f896c599eabe32d8",
+      "preview": "previews\/island-is039.v1.dark.webp",
+      "preview_light": "previews\/island-is039.v1.light.webp",
+      "preview_dark": "previews\/island-is039.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is038",
+      "title": "IS038",
+      "version": 1,
+      "file": "widgets\/island-is038.v1.wid",
+      "size": 454267,
+      "sha256": "54ba40c60f1e41b1249a230c6d5adae80d3dc37a7a5c118482876cd26c1c5d5a",
+      "preview": "previews\/island-is038.v1.dark.webp",
+      "preview_light": "previews\/island-is038.v1.light.webp",
+      "preview_dark": "previews\/island-is038.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is037",
+      "title": "IS037",
+      "version": 1,
+      "file": "widgets\/island-is037.v1.wid",
+      "size": 483910,
+      "sha256": "59aed8e05dca500fee7e12cb672ee8ca4eb8b69fede44671ca6910aca7498b7b",
+      "preview": "previews\/island-is037.v1.dark.webp",
+      "preview_light": "previews\/island-is037.v1.light.webp",
+      "preview_dark": "previews\/island-is037.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is036",
+      "title": "IS036",
+      "version": 1,
+      "file": "widgets\/island-is036.v1.wid",
+      "size": 484961,
+      "sha256": "0fbc34a958047b0cec916f545ea51eec0c42fd6da2197e28f7659d033b6b4727",
+      "preview": "previews\/island-is036.v1.dark.webp",
+      "preview_light": "previews\/island-is036.v1.light.webp",
+      "preview_dark": "previews\/island-is036.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is035",
+      "title": "IS035",
+      "version": 1,
+      "file": "widgets\/island-is035.v1.wid",
+      "size": 369638,
+      "sha256": "19a574573db805d16bf0202f9c2303c0182559a266cf4ac24bd37f6a1c2b24ef",
+      "preview": "previews\/island-is035.v1.dark.webp",
+      "preview_light": "previews\/island-is035.v1.light.webp",
+      "preview_dark": "previews\/island-is035.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is034",
+      "title": "IS034",
+      "version": 1,
+      "file": "widgets\/island-is034.v1.wid",
+      "size": 341524,
+      "sha256": "4221109a9829d4f7f05bbe58593ae14a47dd58e9030a3ffbdac63ee2c45f92e4",
+      "preview": "previews\/island-is034.v1.dark.webp",
+      "preview_light": "previews\/island-is034.v1.light.webp",
+      "preview_dark": "previews\/island-is034.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is033",
+      "title": "IS033",
+      "version": 1,
+      "file": "widgets\/island-is033.v1.wid",
+      "size": 370277,
+      "sha256": "b6db568839ee88df075365eb70150199078ec6beab2c1594aa2bf4c8513d4e1f",
+      "preview": "previews\/island-is033.v1.dark.webp",
+      "preview_light": "previews\/island-is033.v1.light.webp",
+      "preview_dark": "previews\/island-is033.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is032",
+      "title": "IS032",
+      "version": 1,
+      "file": "widgets\/island-is032.v1.wid",
+      "size": 598566,
+      "sha256": "e73398a10e76c6fb3d81b81f94a9d1197e1ec54a9af10bf665843bc05e3efed9",
+      "preview": "previews\/island-is032.v1.dark.webp",
+      "preview_light": "previews\/island-is032.v1.light.webp",
+      "preview_dark": "previews\/island-is032.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "notifications",
+        "weather"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is031",
+      "title": "IS031",
+      "version": 1,
+      "file": "widgets\/island-is031.v1.wid",
+      "size": 342763,
+      "sha256": "7216da75387f415d37bfca6df4b7377a20a3efa31387a8670fba9f5bbd7344b0",
+      "preview": "previews\/island-is031.v1.dark.webp",
+      "preview_light": "previews\/island-is031.v1.light.webp",
+      "preview_dark": "previews\/island-is031.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is030",
+      "title": "IS030",
+      "version": 1,
+      "file": "widgets\/island-is030.v1.wid",
+      "size": 257945,
+      "sha256": "3638aaa6b5b53c0c88e2a91d3c6ee8b806bf00c058b5311dfc787b1185872129",
+      "preview": "previews\/island-is030.v1.dark.webp",
+      "preview_light": "previews\/island-is030.v1.light.webp",
+      "preview_dark": "previews\/island-is030.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is029",
+      "title": "IS029",
+      "version": 1,
+      "file": "widgets\/island-is029.v1.wid",
+      "size": 483782,
+      "sha256": "228003df71bcdfdf79ff74a07dfa9ff397ddb5ac337841ef059d862a2682f91b",
+      "preview": "previews\/island-is029.v1.dark.webp",
+      "preview_light": "previews\/island-is029.v1.light.webp",
+      "preview_dark": "previews\/island-is029.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is028",
+      "title": "IS028",
+      "version": 1,
+      "file": "widgets\/island-is028.v1.wid",
+      "size": 115476,
+      "sha256": "7d1d1e7e00784d6e5e32796725984bdb76feec845fe4bfaaac379b0a71b8cbcc",
+      "preview": "previews\/island-is028.v1.dark.webp",
+      "preview_light": "previews\/island-is028.v1.light.webp",
+      "preview_dark": "previews\/island-is028.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is027",
+      "title": "IS027",
+      "version": 1,
+      "file": "widgets\/island-is027.v1.wid",
+      "size": 370509,
+      "sha256": "9acb26ae583f981988119b8d27b918f0958043a1d859b4d9999b5c8bb639025d",
+      "preview": "previews\/island-is027.v1.dark.webp",
+      "preview_light": "previews\/island-is027.v1.light.webp",
+      "preview_dark": "previews\/island-is027.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is026",
+      "title": "IS026",
+      "version": 1,
+      "file": "widgets\/island-is026.v1.wid",
+      "size": 485845,
+      "sha256": "a5c27bdf8cecfdc444db1c98995339ed1caf4f035e83743951f99f86ec055598",
+      "preview": "previews\/island-is026.v1.dark.webp",
+      "preview_light": "previews\/island-is026.v1.light.webp",
+      "preview_dark": "previews\/island-is026.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is025",
+      "title": "IS025",
+      "version": 1,
+      "file": "widgets\/island-is025.v1.wid",
+      "size": 346711,
+      "sha256": "ff0adbf48043561c2775e0c018e62cd8d652f2578afbd87b78b9197a65a22fd1",
+      "preview": "previews\/island-is025.v1.dark.webp",
+      "preview_light": "previews\/island-is025.v1.light.webp",
+      "preview_dark": "previews\/island-is025.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is024",
+      "title": "IS024",
+      "version": 1,
+      "file": "widgets\/island-is024.v1.wid",
+      "size": 483455,
+      "sha256": "bd55ed07c5a2497a8db325ee1771a3092aa482538e0ac9434d2e5c7f3bb1b5de",
+      "preview": "previews\/island-is024.v1.dark.webp",
+      "preview_light": "previews\/island-is024.v1.light.webp",
+      "preview_dark": "previews\/island-is024.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is023",
+      "title": "IS023",
+      "version": 1,
+      "file": "widgets\/island-is023.v1.wid",
+      "size": 342276,
+      "sha256": "eb076e6f85796438d58af209d216d610f7e4ef163375015dd9edb71aaa5232af",
+      "preview": "previews\/island-is023.v1.dark.webp",
+      "preview_light": "previews\/island-is023.v1.light.webp",
+      "preview_dark": "previews\/island-is023.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "air_quality",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is022",
+      "title": "IS022",
+      "version": 1,
+      "file": "widgets\/island-is022.v1.wid",
+      "size": 455774,
+      "sha256": "65bd6a1ffe26253744ca71b525f50308df878e9745863e0b097b7a31eb44431d",
+      "preview": "previews\/island-is022.v1.dark.webp",
+      "preview_light": "previews\/island-is022.v1.light.webp",
+      "preview_dark": "previews\/island-is022.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock"
+      ],
+      "permissions": [
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is021",
+      "title": "IS021",
+      "version": 1,
+      "file": "widgets\/island-is021.v1.wid",
+      "size": 483537,
+      "sha256": "1d0831c8ea2897dab6391c57c7c320baf4833981e8ddadf4e48c5d6a0d94209f",
+      "preview": "previews\/island-is021.v1.dark.webp",
+      "preview_light": "previews\/island-is021.v1.light.webp",
+      "preview_dark": "previews\/island-is021.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is020",
+      "title": "IS020",
+      "version": 1,
+      "file": "widgets\/island-is020.v1.wid",
+      "size": 341467,
+      "sha256": "cdd28dde9badfe43f0f756c1795f24b8e3b68cebf7c43a58e191481bdd7282f4",
+      "preview": "previews\/island-is020.v1.dark.webp",
+      "preview_light": "previews\/island-is020.v1.light.webp",
+      "preview_dark": "previews\/island-is020.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is019",
+      "title": "IS019",
+      "version": 1,
+      "file": "widgets\/island-is019.v1.wid",
+      "size": 229759,
+      "sha256": "d983f4e7b9abf1d6dc4512ce7475313ad8b86b2c4eb8d80bcf99f0c8c52b9dd0",
+      "preview": "previews\/island-is019.v1.dark.webp",
+      "preview_light": "previews\/island-is019.v1.light.webp",
+      "preview_dark": "previews\/island-is019.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is018",
+      "title": "IS018",
+      "version": 1,
+      "file": "widgets\/island-is018.v1.wid",
+      "size": 370200,
+      "sha256": "e56b572c15cff1062e82d9b49954ae9e521258f4bac03263904bbf94d97011bb",
+      "preview": "previews\/island-is018.v1.dark.webp",
+      "preview_light": "previews\/island-is018.v1.light.webp",
+      "preview_dark": "previews\/island-is018.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is017",
+      "title": "IS017",
+      "version": 1,
+      "file": "widgets\/island-is017.v1.wid",
+      "size": 122460,
+      "sha256": "2f331f66bae7a308b30bc183da67238badfbd770e85fbc1ba0b9848d208ee10a",
+      "preview": "previews\/island-is017.v1.dark.webp",
+      "preview_light": "previews\/island-is017.v1.light.webp",
+      "preview_dark": "previews\/island-is017.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is016",
+      "title": "IS016",
+      "version": 1,
+      "file": "widgets\/island-is016.v1.wid",
+      "size": 483009,
+      "sha256": "eb5fdc1439ad498b61b81827090d31ae9ee2f49e0db363b8d8a7d84cb1c413d6",
+      "preview": "previews\/island-is016.v1.dark.webp",
+      "preview_light": "previews\/island-is016.v1.light.webp",
+      "preview_dark": "previews\/island-is016.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is015",
+      "title": "IS015",
+      "version": 1,
+      "file": "widgets\/island-is015.v1.wid",
+      "size": 598336,
+      "sha256": "b53a5f921b9680bbcffa4f56983783931d7cf8b453c65cef33262deec22ece4e",
+      "preview": "previews\/island-is015.v1.dark.webp",
+      "preview_light": "previews\/island-is015.v1.light.webp",
+      "preview_dark": "previews\/island-is015.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "clock",
+        "date"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is014",
+      "title": "IS014",
+      "version": 1,
+      "file": "widgets\/island-is014.v1.wid",
+      "size": 370651,
+      "sha256": "e1b5262e3fe724e25caeaafea009550120d72a96d3a931a39e701d784778dd79",
+      "preview": "previews\/island-is014.v1.dark.webp",
+      "preview_light": "previews\/island-is014.v1.light.webp",
+      "preview_dark": "previews\/island-is014.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "date"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is013",
+      "title": "IS013",
+      "version": 1,
+      "file": "widgets\/island-is013.v1.wid",
+      "size": 370840,
+      "sha256": "47c8cb6d4b30c7bab83b5d3a73089f9873eafc8c0fbf2c2ec099f29b3861a7b4",
+      "preview": "previews\/island-is013.v1.dark.webp",
+      "preview_light": "previews\/island-is013.v1.light.webp",
+      "preview_dark": "previews\/island-is013.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is012",
+      "title": "IS012",
+      "version": 1,
+      "file": "widgets\/island-is012.v1.wid",
+      "size": 370535,
+      "sha256": "ee2af6f3435c692c36730a1f8a78aa3c051369e8100d6a1dbff70d160de29702",
+      "preview": "previews\/island-is012.v1.dark.webp",
+      "preview_light": "previews\/island-is012.v1.light.webp",
+      "preview_dark": "previews\/island-is012.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is011",
+      "title": "IS011",
+      "version": 1,
+      "file": "widgets\/island-is011.v1.wid",
+      "size": 485374,
+      "sha256": "f7682f5448c6ec6434c6b8c6cb5b032055c08566a76757149d783f373d88d4ad",
+      "preview": "previews\/island-is011.v1.dark.webp",
+      "preview_light": "previews\/island-is011.v1.light.webp",
+      "preview_dark": "previews\/island-is011.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is010",
+      "title": "IS010",
+      "version": 1,
+      "file": "widgets\/island-is010.v1.wid",
+      "size": 370522,
+      "sha256": "e43f6c8a5dbecc7b89a986c23a870f284a49052880ba489f349d415ac5c53743",
+      "preview": "previews\/island-is010.v1.dark.webp",
+      "preview_light": "previews\/island-is010.v1.light.webp",
+      "preview_dark": "previews\/island-is010.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [],
+      "permissions": [
+        "ACCESS_NOTIFICATION_POLICY",
+        "BLUETOOTH_CONNECT",
+        "CHANGE_WIFI_STATE"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is009",
+      "title": "IS009",
+      "version": 1,
+      "file": "widgets\/island-is009.v1.wid",
+      "size": 370505,
+      "sha256": "6cbf7b48041df852bc373508b451f03eba560e8478876a58e7567ebafa4974f8",
+      "preview": "previews\/island-is009.v1.dark.webp",
+      "preview_light": "previews\/island-is009.v1.light.webp",
+      "preview_dark": "previews\/island-is009.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is008",
+      "title": "IS008",
+      "version": 1,
+      "file": "widgets\/island-is008.v1.wid",
+      "size": 596131,
+      "sha256": "68d89ffaca70abda63a5bb0d44f259b44f928a95e698776e70ebface8cfb0192",
+      "preview": "previews\/island-is008.v1.dark.webp",
+      "preview_light": "previews\/island-is008.v1.light.webp",
+      "preview_dark": "previews\/island-is008.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "clock",
+        "notifications"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is007",
+      "title": "IS007",
+      "version": 1,
+      "file": "widgets\/island-is007.v1.wid",
+      "size": 256984,
+      "sha256": "3960c8f0e2a0344b83eb234eda8ca090ac3ebe126643ff10948a4a466a008e67",
+      "preview": "previews\/island-is007.v1.dark.webp",
+      "preview_light": "previews\/island-is007.v1.light.webp",
+      "preview_dark": "previews\/island-is007.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is006",
+      "title": "IS006",
+      "version": 1,
+      "file": "widgets\/island-is006.v1.wid",
+      "size": 483967,
+      "sha256": "d22af85602d6ba88c965ec02f974a44f33e932e6c42cb341699fca76b6930d29",
+      "preview": "previews\/island-is006.v1.dark.webp",
+      "preview_light": "previews\/island-is006.v1.light.webp",
+      "preview_dark": "previews\/island-is006.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        1
+      ],
+      "tags": [
+        "battery"
+      ],
+      "permissions": [],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is005",
+      "title": "IS005",
+      "version": 1,
+      "file": "widgets\/island-is005.v1.wid",
+      "size": 597636,
+      "sha256": "e1ccc43718e8fefde6c6cb46f30bd1cd30cddc891e7363ccd7f58df968872705",
+      "preview": "previews\/island-is005.v1.dark.webp",
+      "preview_light": "previews\/island-is005.v1.light.webp",
+      "preview_dark": "previews\/island-is005.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "calendar",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is004",
+      "title": "IS004",
+      "version": 1,
+      "file": "widgets\/island-is004.v1.wid",
+      "size": 484329,
+      "sha256": "515b92d0aa33519fc042efd990dd3d477307272acc191efcf31406ad95918aa3",
+      "preview": "previews\/island-is004.v1.dark.webp",
+      "preview_light": "previews\/island-is004.v1.light.webp",
+      "preview_dark": "previews\/island-is004.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is003",
+      "title": "IS003",
+      "version": 1,
+      "file": "widgets\/island-is003.v1.wid",
+      "size": 483385,
+      "sha256": "2c2169f4cc6c2b665dbb98663f37f187e51bf8f6f43ce08ac4e766e962ec726b",
+      "preview": "previews\/island-is003.v1.dark.webp",
+      "preview_light": "previews\/island-is003.v1.light.webp",
+      "preview_dark": "previews\/island-is003.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        1
+      ],
+      "tags": [
+        "music"
+      ],
+      "permissions": [
+        "NOTIFICATION_LISTENER"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is002",
+      "title": "IS002",
+      "version": 1,
+      "file": "widgets\/island-is002.v1.wid",
+      "size": 598821,
+      "sha256": "53a7f9ffdcccf197b27a0aa58fb3bf8fd1dfc178bc272224023c739d5ba2804a",
+      "preview": "previews\/island-is002.v1.dark.webp",
+      "preview_light": "previews\/island-is002.v1.light.webp",
+      "preview_dark": "previews\/island-is002.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        2,
+        2
+      ],
+      "tags": [
+        "battery",
+        "clock",
+        "date",
+        "weather"
+      ],
+      "permissions": [
+        "INTERNET",
+        "LOCATION"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    },
+    {
+      "id": "island-is001",
+      "title": "IS001",
+      "version": 1,
+      "file": "widgets\/island-is001.v1.wid",
+      "size": 487586,
+      "sha256": "362d996db60993e7dd1e07e16663b8d21aa81523131e51912f5347335dcc7578",
+      "preview": "previews\/island-is001.v1.dark.webp",
+      "preview_light": "previews\/island-is001.v1.light.webp",
+      "preview_dark": "previews\/island-is001.v1.dark.webp",
+      "native_look": "dark",
+      "switchable": true,
+      "cells": [
+        4,
+        2
+      ],
+      "tags": [
+        "battery",
+        "calendar",
+        "clock",
+        "date",
+        "music",
+        "notifications",
+        "weather"
+      ],
+      "permissions": [
+        "EXPAND_STATUS_BAR",
+        "INTERNET",
+        "LOCATION",
+        "NOTIFICATION_LISTENER",
+        "READ_CALENDAR"
+      ],
+      "added": 1795857634886,
+      "release_at": 0,
+      "hidden": false,
+      "kwgt": "",
+      "kwgt_preview": "",
+      "kwgt_version": 0
+    }
+  ],
+  "announce": {
+    "id": "amx079nie",
+    "title": "160 new widgets",
+    "text": "IS160, IS159, IS158, IS157, IS156, IS155…",
+    "open": "new",
+    "link": "",
+    "image": "notify\/amx079nie.jpeg",
+    "start": 1795857634886,
+    "end": 1796462434886
+  }
 }
