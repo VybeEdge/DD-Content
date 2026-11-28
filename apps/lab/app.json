@@ -1,12 +1,19 @@
 {
   "schema": 1,
-  "name": "DD Lab",
+  "name": "DD Widgets Lab",
   "package": "",
   "author": "VybeEdge",
-  "updated": 1795847619160,
-  "links": {},
-  "share": {},
+  "updated": 1795847673730,
+  "links": {
+    "play_dev": "",
+    "privacy": ""
+  },
+  "share": {
+    "widget": "",
+    "app": ""
+  },
   "walls": {
     "enabled": true
-  }
+  },
+  "credits": []
 }
